@@ -60,7 +60,7 @@ Superlinear Academy, AI-Builders, enterprise programs, books, interviews, and St
 
 The common object is a compounding environment: one in which better judgment leads to action, action generates feedback, and the useful parts become assets other people can inherit.
 
-The name **Superlinear** describes the growth this system is designed to make possible: not a one-time leap, but a trajectory in which each useful step improves the next. **Stay Superlinear** adds the product insight that this trajectory is difficult to sustain alone. People need an environment that keeps better information, serious peers, action, and feedback close enough for compounding to continue. The phrase also quietly extends "stay hungry, stay foolish"; it works best as the conclusion a reader reaches from the ecosystem, not as a promised outcome.
+The name **Superlinear** describes the growth this system is designed to make possible: not a one-time leap, but a trajectory in which each useful step improves the next. **Stay Superlinear** adds the product insight that environment changes the slope. Strong people can compound without a membership; the product reduces the repeated cost of sorting noise, rebuilding context, finding serious feedback, and reaching the right people. The phrase also quietly extends "stay hungry, stay foolish"; it works best as the conclusion a reader reaches from the ecosystem, not as a promised outcome.
 
 ## Why This Perspective Is Unusual
 

@@ -87,6 +87,8 @@ AI may be a second Renaissance in the sense that a new representational and prod
 
 The communication principle follows from the product thesis. Do not promise that joining a community will mechanically produce superlinear growth. Show the people, conversations, project feedback, tools, and opportunities that make compounding plausible. Let the audience infer the transformation, then use the name as the conclusion.
 
+The environment is a multiplier, not the owner of a member's growth. Strong people can compound without a membership; Stay Superlinear reduces the repeated cost of sorting noise, rebuilding context, finding serious feedback, and reaching the right people. The product should increase agency and capability. Retention should come from accumulated value and relationships, never from suggesting that a member cannot progress alone.
+
 ## 8. Distribution and narrative are part of building
 
 A good product that no one encounters cannot create much value. Distribution is not a cosmetic layer added after the work; it affects which problems are worth solving, how trust forms, and whether an asset compounds.
