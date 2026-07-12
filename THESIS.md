@@ -59,6 +59,8 @@ Effort is linear when the output disappears after it is spent. It becomes superl
 
 Consistency matters partly because it lowers variance and gives feedback enough time to accumulate. Focus matters because compounding is weakened when attention is repeatedly reset.
 
+This is what the name **Superlinear** is meant to hold. It does not mean moving faster at every moment or promising a dramatic leap. It names the transition from linear effort to compounding growth: today's judgment, capability, work, and relationships improve the odds, range, and leverage of tomorrow's next step. One correct move solves one problem; a compounding system changes the trajectory of the moves that follow.
+
 **In practice:** books preserve ideas, courses preserve teaching, communities preserve relationships and feedback, and AI workflows preserve repeated cognition.
 
 ## 6. AI-native work should spend computation and conserve human cognition
@@ -76,6 +78,14 @@ People do not develop in isolation. Talent density, information density, discuss
 This is the deeper reason for Superlinear Academy and Stay Superlinear. A good community is not an audience waiting for wisdom. It is a peer lab in which people show work, compare methods, challenge judgment, help one another, and create opportunities. Like Florence during the Renaissance, the environment and the people strengthen each other.
 
 AI may be a second Renaissance in the sense that a new representational and productive medium is arriving. The response should not be solitary consumption; it should be participation in an environment dense enough to accelerate judgment and action.
+
+**Stay Superlinear** compresses this product thesis into two words:
+
+- **Superlinear names the desired transformation.** Many serious professionals already recognize the limits of linear accumulation, but do not yet have an environment in which judgment, capability, work, and relationships can reinforce one another.
+- **Stay names duration and environment.** A person may find the right path or make one unusually good decision, then drift back toward noisy information, shallow discussion, and fragmented action. The annual membership exists to make the better environment persistent enough for compounding to continue.
+- **The phrase carries a restrained cultural echo.** It extends the spirit of "stay hungry, stay foolish": ambition without complacency, and conviction without losing the willingness to learn. That lineage raises the ceiling of the name, but should remain a callback rather than a paragraph of public explanation.
+
+The communication principle follows from the product thesis. Do not promise that joining a community will mechanically produce superlinear growth. Show the people, conversations, project feedback, tools, and opportunities that make compounding plausible. Let the audience infer the transformation, then use the name as the conclusion.
 
 ## 8. Distribution and narrative are part of building
 

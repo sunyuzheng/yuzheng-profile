@@ -15,7 +15,7 @@ This repository is a source kit, not a style guide. It keeps the durable story, 
 | Need | Read |
 |---|---|
 | Understand who Yuzheng is and how the career story connects | [PROFILE.md](PROFILE.md) |
-| Understand the ideas behind the work | [THESIS.md](THESIS.md) |
+| Understand the ideas behind the work, including Superlinear and Stay Superlinear | [THESIS.md](THESIS.md) |
 | Use a ready Chinese or English introduction | [BIOS.md](BIOS.md) |
 | Verify a claim, quote, date, or link | [EVIDENCE.md](EVIDENCE.md) |
 | Load current facts programmatically | [facts.json](facts.json) |

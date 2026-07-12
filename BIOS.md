@@ -68,7 +68,7 @@ Lead with the February 2023 pre-GPT-4 essay, dated public AI calls, Statsig, pro
 
 ### Learning or community audience
 
-Lead with 3,000+ paying learners, hundreds of projects, 4.9/5 Maven rating, the free Superlinear Academy community, and the thesis that people grow faster in an environment with high talent, discussion, and action density.
+Lead with 3,000+ paying learners, hundreds of projects, the 4.9/5 Maven rating, and the free Superlinear Academy community. The relevant thesis is that judgment, capability, work, and relationships can compound when serious people remain in a strong environment; Stay Superlinear is the sustained membership expression of that idea.
 
 ### Media, speaker, or general audience
 

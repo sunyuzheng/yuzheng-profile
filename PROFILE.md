@@ -54,11 +54,13 @@ Superlinear Academy, AI-Builders, enterprise programs, books, interviews, and St
 - **Public content and conversations** expose ideas to disagreement and bring high-quality world models into contact with one another.
 - **AI-Builders** helps professionals move beyond isolated prompting and build reliable workflows, products, and operating habits.
 - **Superlinear Academy** is a free builder community where projects, questions, feedback, collaboration, and opportunities accumulate.
-- **Stay Superlinear** is the paid membership layer: a more sustained commitment of founder attention, masterclasses, deep Q&A, tools, project visibility, and member opportunities.
+- **Stay Superlinear** is the paid membership layer: a sustained environment in which founder attention, masterclasses, deep Q&A, tools, project visibility, and member opportunities help judgment, capability, work, and relationships continue to compound.
 - **Enterprise work** helps teams connect AI-native methods to real workflows, incentives, and organizational constraints.
 - **Books** make judgment reusable across time and outside a live classroom or community.
 
 The common object is a compounding environment: one in which better judgment leads to action, action generates feedback, and the useful parts become assets other people can inherit.
+
+The name **Superlinear** describes the growth this system is designed to make possible: not a one-time leap, but a trajectory in which each useful step improves the next. **Stay Superlinear** adds the product insight that this trajectory is difficult to sustain alone. People need an environment that keeps better information, serious peers, action, and feedback close enough for compounding to continue. The phrase also quietly extends "stay hungry, stay foolish"; it works best as the conclusion a reader reaches from the ecosystem, not as a promised outcome.
 
 ## Why This Perspective Is Unusual
 
