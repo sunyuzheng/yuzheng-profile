@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "Yuzheng Sun / 课代表立正 public profile facts",
+    "as_of": "2026-07-12",
+    "scope": "Public, reusable facts. Volatile metrics require date checks.",
+    "canonical_profile": "https://www.lizheng.ai/"
+  },
+  "identity": {
+    "name_en": "Yuzheng Sun",
+    "name_zh": "孙煜征",
+    "public_identity_zh": "课代表立正",
+    "email": "yz@superlinear.academy",
+    "core_proposition_en": "Help individuals and organizations build AI systems that compound, so they can act on the opportunities of the AI era.",
+    "core_proposition_zh": "帮助个人与企业建立能够复利的 AI 系统，真正行动起来，抓住 AI 时代的机会。",
+    "throughline_en": "I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.",
+    "throughline_zh": "我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。"
+  },
+  "career": [
+    {
+      "organization": "Cornell University",
+      "role": "PhD in Economics",
+      "stability": "durable"
+    },
+    {
+      "organization": "Amazon",
+      "role": "Economist",
+      "stability": "durable"
+    },
+    {
+      "organization": "Meta",
+      "role": "Data Scientist",
+      "stability": "durable"
+    },
+    {
+      "organization": "Tencent IEG",
+      "role": "Vice Director, Data & AI",
+      "detail": "Led a 30-person data and AI team",
+      "stability": "durable"
+    },
+    {
+      "organization": "Statsig",
+      "role": "Principal Data Scientist and sole evangelist",
+      "detail": "Statsig was acquired by OpenAI in 2025",
+      "source": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
+      "stability": "durable"
+    },
+    {
+      "organization": "Superlinear Academy and AI-Builders",
+      "role": "Founder",
+      "stability": "current"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "audience",
+      "value": "400K+",
+      "label": "cross-platform audience",
+      "as_of": "2026-07-12",
+      "volatility": "high",
+      "source": "https://www.lizheng.ai/"
+    },
+    {
+      "id": "paying_learners",
+      "value": "3,000+",
+      "label": "paying learners",
+      "as_of": "2026-07-12",
+      "volatility": "medium",
+      "source": "https://www.ai-builders.com/"
+    },
+    {
+      "id": "conversations",
+      "value": "200+",
+      "label": "public conversations with researchers, founders, executives, investors, and operators",
+      "as_of": "2026-07-12",
+      "volatility": "medium",
+      "source": "https://www.lizheng.ai/guests"
+    },
+    {
+      "id": "maven_rating",
+      "value": "4.9/5",
+      "label": "AI-Builders course rating on Maven",
+      "as_of": "2026-07-12",
+      "volatility": "medium",
+      "source": "https://maven.com/superlinear/aibuilders"
+    },
+    {
+      "id": "community_projects",
+      "value": "600+",
+      "label": "public learner project posts",
+      "as_of": "2026-07-08",
+      "volatility": "high",
+      "source": "Private Circle Admin API count; public community at https://www.superlinear.academy/"
+    }
+  ],
+  "current_work": [
+    {
+      "name": "Superlinear Academy",
+      "type": "free builder community",
+      "url": "https://www.superlinear.academy/"
+    },
+    {
+      "name": "Stay Superlinear",
+      "type": "annual paid membership",
+      "url": "https://stay-superlinear.vercel.app/"
+    },
+    {
+      "name": "AI-Builders",
+      "type": "AI-native learning system and course",
+      "url": "https://www.ai-builders.com/"
+    },
+    {
+      "name": "Enterprise AI programs",
+      "type": "training and organizational transformation",
+      "url": "https://corp-training.ai-builders.com/"
+    },
+    {
+      "name": "课代表立正",
+      "type": "public conversations and analysis",
+      "url": "https://www.youtube.com/@kedaibiao"
+    }
+  ],
+  "books": [
+    {
+      "title": "Growth Data Analytics Playbook",
+      "role": "Co-author",
+      "url": "https://www.amazon.com/Growth-Data-Analytics-Playbook-Product-Market/dp/1544549822"
+    },
+    {
+      "title": "真本事：从会工作到会赚钱",
+      "role": "Author",
+      "url": "https://www.lizheng.ai/zbs"
+    }
+  ],
+  "dated_judgments": [
+    {
+      "date": "2023-02",
+      "topic": "ChatGPT",
+      "claim": "A new natural-language interface to data and computation, with implications including lower inference cost, tool use and agents, memory, private search, copilots, and AI-native systems.",
+      "context": "First written before GPT-4",
+      "url": "https://www.superlinear.academy/c/ai-resources/chatgpt"
+    },
+    {
+      "date": "2025-01",
+      "topic": "Agentic AI",
+      "claim": "The most important near-term shift in AI, with a meaningful 10–18 month opportunity window.",
+      "url": "https://youtu.be/FzbkAy0DcQk"
+    },
+    {
+      "date": "2025-03",
+      "topic": "MCP",
+      "claim": "Major structural flaws; the hype exceeded what the protocol could reliably deliver.",
+      "url": "https://youtu.be/kwwjR6HHJPM"
+    },
+    {
+      "date": "2026-03",
+      "topic": "OpenClaw",
+      "claim": "The product category would not last, although trying it remained useful for understanding the capability shift.",
+      "url": "https://youtu.be/h_yCYBRzbVw"
+    }
+  ],
+  "endorsements": [
+    {
+      "name": "Liu Jia",
+      "role": "Chair Professor, Tsinghua University; cognitive neuroscientist",
+      "quote": "立正分享的不只是工具，而是思维哲学——这才是 AI 时代最稀缺、最有价值的东西。他的课程让我这个科学家也深受启发。"
+    },
+    {
+      "name": "Wei Manfredi",
+      "role": "Senior Vice President, AI & Architecture, IHG Hotels & Resorts",
+      "quote": "Yuzheng has built an AI education community that is carefully curated, practical, and unusually useful for people doing real work."
+    },
+    {
+      "name": "Vijaye Raji",
+      "role": "Founder, Statsig; CTO of Applications, OpenAI",
+      "quote": "Yuzheng distills years of product growth wisdom into actionable insight — helping data scientists surface decisive signals, PMs turn numbers into strategy, and founders find a repeatable path to compounding PMF."
+    },
+    {
+      "name": "Dai Yusen",
+      "role": "Partner, ZhenFund",
+      "quote": "立正是真正的 AI Native Pioneer——他用独特的思维框架，带领更多人在 AI 时代实现超线性成长。"
+    }
+  ],
+  "outcomes": [
+    {
+      "type": "learner",
+      "subject": "Marvin, Developer at Yipi Tech",
+      "result": "A tool built with the builder mindset earned back roughly twice the cohort fee.",
+      "boundary": "The public review verifies the two-times outcome. Roughly two months is inferred from cohort and review dates, not quoted from the review.",
+      "source": "https://maven.com/superlinear/aibuilders#reviews"
+    },
+    {
+      "type": "community_product_launch",
+      "subject": "AgentKey",
+      "result": "60 visits, 48 activations, and 12 paid users after an early community launch; 28 likes and 51 comments as checked on 2026-07-04.",
+      "source": "https://www.superlinear.academy/c/share-your-projects/agent-8f3386"
+    },
+    {
+      "type": "community_hiring",
+      "subject": "Dymon Asia",
+      "result": "Multiple roles posted in the community and two community members reported as hired.",
+      "boundary": "The two-member result is supported by a private screenshot retained in the proof archive; link points to the public role.",
+      "source": "https://www.superlinear.academy/c/collaborate/dymon-asia-capital-forward-deployed-engineer-fde"
+    }
+  ],
+  "links": {
+    "website": "https://www.lizheng.ai/",
+    "community": "https://www.superlinear.academy/",
+    "membership": "https://stay-superlinear.vercel.app/",
+    "course": "https://www.ai-builders.com/",
+    "enterprise": "https://corp-training.ai-builders.com/",
+    "youtube": "https://www.youtube.com/@kedaibiao",
+    "bilibili": "https://space.bilibili.com/491306902",
+    "linkedin": "https://www.linkedin.com/in/yuzhengsun/",
+    "substack": "https://yuzheng.substack.com/"
+  }
+}
