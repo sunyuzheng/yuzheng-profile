@@ -20,7 +20,7 @@ These are defaults, not locked scripts. Select the version that answers the audi
 
 ### Full narrative
 
-孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 与 AI-Builders 创始人。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及 Statsig 首席数据科学家和公司唯一布道师。Statsig 于 2025 年被 OpenAI 收购。
+孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 与 AI-Builders 创始人，现居西雅图。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及 Statsig 首席数据科学家和公司唯一布道师。Statsig 于 2025 年被 OpenAI 收购。
 
 这条经历背后的主线不是职位本身，而是同一个问题：一个判断如何尽早接触现实，接受用户、产品、实验与组织的检验和修正，最后沉淀成能够持续复利的系统。经济学让他追问因果和激励；大厂与管理经历让模型必须改变真实决策；Statsig 把快速学习变成产品基础设施；此后的课程、社区、企业项目、书和公开内容，则把个人能力变成更多人可以使用的系统。
 
@@ -46,7 +46,7 @@ Since 2020, he has hosted more than 200 conversations with AI researchers, techn
 
 ### Full narrative
 
-Yuzheng Sun is a Cornell-trained economist, operator, author, and the founder of Superlinear Academy and AI-Builders. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was acquired by OpenAI in 2025.
+Yuzheng Sun is a Cornell-trained economist, operator, author, and the founder of Superlinear Academy and AI-Builders, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was acquired by OpenAI in 2025.
 
 The throughline is not the list of companies. It is a recurring question: how does a good judgment meet reality early, learn from users, products, experiments, and organizations, and become a system that compounds? Economics trained him to ask about causality and incentives. Product and leadership roles made those models answer to real decisions. Statsig made rapid learning part of product infrastructure. His later courses, communities, enterprise programs, books, and public conversations turn private capability into systems other people can use.
 

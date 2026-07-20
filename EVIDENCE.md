@@ -24,6 +24,7 @@ This file separates proof from interpretation. It records what a claim demonstra
 | Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | [Personal profile](https://www.lizheng.ai/) |
 | Statsig acquired by OpenAI in 2025 | Places the Statsig chapter in its current context | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) |
 | Founder, Superlinear Academy and AI-Builders | Current education, community, and AI system-building work | [Superlinear Academy](https://www.superlinear.academy/) · [AI-Builders](https://www.ai-builders.com/) |
+| Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20; [personal profile](https://www.lizheng.ai/collab/creators) |
 
 ## Current Reach And Output
 
@@ -183,6 +184,7 @@ Use endorsements that resonate with the audience. The quote should confirm an al
 
 ## Claim Boundaries
 
+- Yuzheng is based in **Seattle**. Do not infer Silicon Valley or the San Francisco Bay Area as his residence from former employers, audience composition, guests, or professional network.
 - Say the ChatGPT essay was first written in **February 2023 before GPT-4**, not March 2023.
 - Describe MCP as a judgment about **major structural flaws and overstatement**, not merely a standards or ecosystem debate.
 - Distinguish the free [Superlinear Academy](https://www.superlinear.academy/) community from the paid [Stay Superlinear](https://stay-superlinear.vercel.app/) membership.

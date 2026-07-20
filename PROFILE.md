@@ -4,6 +4,7 @@
 
 - **Name:** Yuzheng Sun / 孙煜征
 - **Public identity:** 课代表立正
+- **Current base:** Seattle / 西雅图
 - **Current work:** Founder of Superlinear Academy and AI-Builders
 - **Core proposition:** Help individuals and organizations build AI systems that compound, act on what matters, and capture the opportunities of the AI era.
 

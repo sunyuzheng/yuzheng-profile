@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Yuzheng Sun / 课代表立正 public profile facts",
-    "as_of": "2026-07-12",
+    "as_of": "2026-07-20",
     "scope": "Public, reusable facts. Volatile metrics require date checks.",
     "canonical_profile": "https://www.lizheng.ai/"
   },
@@ -10,6 +10,9 @@
     "name_zh": "孙煜征",
     "public_identity_zh": "课代表立正",
     "email": "yz@superlinear.academy",
+    "base_city_en": "Seattle",
+    "base_city_zh": "西雅图",
+    "base_as_of": "2026-07-20",
     "core_proposition_en": "Help individuals and organizations build AI systems that compound, so they can act on the opportunities of the AI era.",
     "core_proposition_zh": "帮助个人与企业建立能够复利的 AI 系统，真正行动起来，抓住 AI 时代的机会。",
     "throughline_en": "I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.",
