@@ -51,7 +51,7 @@ Using a new tool creates temporary productivity. Building a workflow or product 
 
 This progression does not require everyone to become a traditional software engineer. AI lowers the cost of building, but it increases the value of problem selection and system design.
 
-**In practice:** AI-Builders emphasizes projects and reliable workflows; enterprise programs focus on operating models; public content tries to explain the model behind the tool.
+**In practice:** AI Builders emphasizes projects and reliable workflows; enterprise programs focus on operating models; public content tries to explain the model behind the tool.
 
 ## 5. Compounding comes from systems, not intensity alone
 
@@ -82,7 +82,7 @@ AI may be a second Renaissance in the sense that a new representational and prod
 **Stay Superlinear** compresses this product thesis into two words:
 
 - **Superlinear names the desired transformation.** Many serious professionals already recognize the limits of linear accumulation, but do not yet have an environment in which judgment, capability, work, and relationships can reinforce one another.
-- **Stay names duration and environment.** A person may find the right path or make one unusually good decision, then drift back toward noisy information, shallow discussion, and fragmented action. The annual membership exists to make the better environment persistent enough for compounding to continue.
+- **Stay names duration and environment.** A person may find the right path or make one unusually good decision, then drift back toward noisy information, shallow discussion, and fragmented action. The membership keeps a better environment available long enough for relationships, feedback, and work to accumulate.
 - **The phrase carries a restrained cultural echo.** It extends the spirit of "stay hungry, stay foolish": ambition without complacency, and conviction without losing the willingness to learn. That lineage raises the ceiling of the name, but should remain a callback rather than a paragraph of public explanation.
 
 The communication principle follows from the product thesis. Do not promise that joining a community will mechanically produce superlinear growth. Show the people, conversations, project feedback, tools, and opportunities that make compounding plausible. Let the audience infer the transformation, then use the name as the conclusion.

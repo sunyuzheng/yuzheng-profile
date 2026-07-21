@@ -2,7 +2,7 @@
 
 This file separates proof from interpretation. It records what a claim demonstrates, where it can be checked, and which facts are likely to change.
 
-- **Current as of:** 2026-07-12
+- **Current as of:** 2026-07-21
 - **Public profile:** [lizheng.ai](https://www.lizheng.ai/)
 
 ## Evidence Principles
@@ -23,8 +23,8 @@ This file separates proof from interpretation. It records what a claim demonstra
 | Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | [Personal profile](https://www.lizheng.ai/) |
 | Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | [Personal profile](https://www.lizheng.ai/) |
 | Statsig acquired by OpenAI in 2025 | Places the Statsig chapter in its current context | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) |
-| Founder, Superlinear Academy and AI-Builders | Current education, community, and AI system-building work | [Superlinear Academy](https://www.superlinear.academy/) · [AI-Builders](https://www.ai-builders.com/) |
-| Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20; [personal profile](https://www.lizheng.ai/collab/creators) |
+| Founder, Superlinear Academy and AI Builders | Current education, community, and AI system-building work | [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) |
+| Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20; [personal profile](https://www.lizheng.ai/zh/collab/creators) |
 
 ## Current Reach And Output
 
@@ -33,10 +33,11 @@ These numbers are useful but volatile.
 | Metric | Current value | As of | Best use | Source |
 |---|---:|---|---|---|
 | Cross-platform audience | 400K+ | 2026-07-12 | Reach after quality has been established | [Personal profile](https://www.lizheng.ai/) |
-| Paying learners | 3,000+ | 2026-07-12 | Education and implementation scale | [AI-Builders](https://www.ai-builders.com/) |
+| Paying learners | 3,000+ | 2026-07-12 | Education and implementation scale | [AI Builders](https://ai-builders.com/) |
 | Public conversations | 200+ | 2026-07-12 | Network and repeated world-model testing | [Guest archive](https://www.lizheng.ai/guests) |
 | Maven course rating | 4.9/5 | 2026-07-12 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
 | Public learner projects | 600+ | 2026-07-08 | Builder output and community culture | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
+| Free community members | 19,180 | 2026-07-16 | Scale of the free Superlinear Academy community; public wording may say “nearly 20,000” | Private Circle Admin count; [community](https://www.superlinear.academy/) |
 
 The audience composition matters more than the raw total: engineers, data scientists, founders, investors, operators, and technology leaders across China and the United States.
 
@@ -150,7 +151,7 @@ Additional enterprise work is described at [corp-training.ai-builders.com](https
 | *Growth Data Analytics Playbook* | Co-author; product-market fit, growth accounting, experimentation, and product judgment | [Amazon](https://www.amazon.com/Growth-Data-Analytics-Playbook-Product-Market/dp/1544549822) · [Book page](https://www.lizheng.ai/book) |
 | *真本事：从会工作到会赚钱* | Author; career agency, capability building, and compounding work | [Book page](https://www.lizheng.ai/zbs) · [WeRead](https://weread.qq.com/book-detail?type=1&senderVid=4500358&v=33c32d30813abb4d6g0122ff) |
 
-*Growth Data Analytics Playbook* was featured in a 2025 WSJ CIO reading list. A screenshot is retained in the private brand proof archive; use the claim as supporting evidence rather than the central identity.
+*Growth Data Analytics Playbook* was featured in a 2025 WSJ CIO Journal reading list. A screenshot is retained in the private brand proof archive; use the claim as supporting evidence rather than the central identity.
 
 The launch event photo with co-authors Mengying Li and Joe Kumar, alongside Julie Zhuo, provides a useful public scene of the book and its peer context. It is used on the [personal website](https://www.lizheng.ai/).
 
@@ -187,8 +188,8 @@ Use endorsements that resonate with the audience. The quote should confirm an al
 - Yuzheng is based in **Seattle**. Do not infer Silicon Valley or the San Francisco Bay Area as his residence from former employers, audience composition, guests, or professional network.
 - Say the ChatGPT essay was first written in **February 2023 before GPT-4**, not March 2023.
 - Describe MCP as a judgment about **major structural flaws and overstatement**, not merely a standards or ecosystem debate.
-- Distinguish the free [Superlinear Academy](https://www.superlinear.academy/) community from the paid [Stay Superlinear](https://stay-superlinear.vercel.app/) membership.
-- Use [stay-superlinear.vercel.app](https://stay-superlinear.vercel.app/) as the canonical membership URL. The older `stay-superlinear-membership.vercel.app` deployment is not canonical.
+- Distinguish the free [Superlinear Academy](https://www.superlinear.academy/) community from the paid [Stay Superlinear](https://staysuperlinear.com/) membership.
+- Use [staysuperlinear.com](https://staysuperlinear.com/) as the canonical membership URL. The Vercel deployment aliases are infrastructure details, not public canonical links.
 - Use `400K+`, `3,000+`, `200+`, and `600+` only with a current `as_of` date.
 - Do not present follower count as proof of technical judgment.
 - Do not say every project received a review. The accurate wording is that most projects received direct feedback or guidance.

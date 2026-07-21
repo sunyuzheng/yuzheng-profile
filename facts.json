@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Yuzheng Sun / 课代表立正 public profile facts",
-    "as_of": "2026-07-20",
+    "as_of": "2026-07-21",
     "scope": "Public, reusable facts. Volatile metrics require date checks.",
     "canonical_profile": "https://www.lizheng.ai/"
   },
@@ -48,7 +48,7 @@
       "stability": "durable"
     },
     {
-      "organization": "Superlinear Academy and AI-Builders",
+      "organization": "Superlinear Academy and AI Builders",
       "role": "Founder",
       "stability": "current"
     }
@@ -68,7 +68,7 @@
       "label": "paying learners",
       "as_of": "2026-07-12",
       "volatility": "medium",
-      "source": "https://www.ai-builders.com/"
+      "source": "https://ai-builders.com/"
     },
     {
       "id": "conversations",
@@ -81,7 +81,7 @@
     {
       "id": "maven_rating",
       "value": "4.9/5",
-      "label": "AI-Builders course rating on Maven",
+      "label": "AI Builders course rating on Maven",
       "as_of": "2026-07-12",
       "volatility": "medium",
       "source": "https://maven.com/superlinear/aibuilders"
@@ -93,6 +93,15 @@
       "as_of": "2026-07-08",
       "volatility": "high",
       "source": "Private Circle Admin API count; public community at https://www.superlinear.academy/"
+    },
+    {
+      "id": "free_community_members",
+      "value": "19,180",
+      "public_wording": "nearly 20,000",
+      "label": "members in the free Superlinear Academy community",
+      "as_of": "2026-07-16",
+      "volatility": "high",
+      "source": "Private Circle Admin count; public community at https://www.superlinear.academy/"
     }
   ],
   "current_work": [
@@ -103,13 +112,13 @@
     },
     {
       "name": "Stay Superlinear",
-      "type": "annual paid membership",
-      "url": "https://stay-superlinear.vercel.app/"
+      "type": "paid ongoing membership",
+      "url": "https://staysuperlinear.com/"
     },
     {
-      "name": "AI-Builders",
+      "name": "AI Builders",
       "type": "AI-native learning system and course",
-      "url": "https://www.ai-builders.com/"
+      "url": "https://ai-builders.com/"
     },
     {
       "name": "Enterprise AI programs",
@@ -208,8 +217,8 @@
   "links": {
     "website": "https://www.lizheng.ai/",
     "community": "https://www.superlinear.academy/",
-    "membership": "https://stay-superlinear.vercel.app/",
-    "course": "https://www.ai-builders.com/",
+    "membership": "https://staysuperlinear.com/",
+    "course": "https://ai-builders.com/",
     "enterprise": "https://corp-training.ai-builders.com/",
     "youtube": "https://www.youtube.com/@kedaibiao",
     "bilibili": "https://space.bilibili.com/491306902",

@@ -5,7 +5,7 @@
 - **Name:** Yuzheng Sun / 孙煜征
 - **Public identity:** 课代表立正
 - **Current base:** Seattle / 西雅图
-- **Current work:** Founder of Superlinear Academy and AI-Builders
+- **Current work:** Founder of Superlinear Academy and AI Builders
 - **Core proposition:** Help individuals and organizations build AI systems that compound, act on what matters, and capture the opportunities of the AI era.
 
 Two sentences organize the rest of the profile:
@@ -50,18 +50,18 @@ That judgment led naturally to a practical thesis: as execution gets cheaper, th
 
 ### 6. Turn private capability into public systems
 
-Superlinear Academy, AI-Builders, enterprise programs, books, interviews, and Stay Superlinear are different expressions of the same project.
+Superlinear Academy, AI Builders, enterprise programs, books, interviews, and Stay Superlinear are different expressions of the same project.
 
 - **Public content and conversations** expose ideas to disagreement and bring high-quality world models into contact with one another.
-- **AI-Builders** helps professionals move beyond isolated prompting and build reliable workflows, products, and operating habits.
+- **AI Builders** helps professionals move beyond isolated prompting and build reliable workflows, products, and operating habits.
 - **Superlinear Academy** is a free builder community where projects, questions, feedback, collaboration, and opportunities accumulate.
-- **Stay Superlinear** is the paid membership layer: a sustained environment in which founder attention, masterclasses, deep Q&A, tools, project visibility, and member opportunities help judgment, capability, work, and relationships continue to compound.
+- **Stay Superlinear** is a paid ongoing membership, co-led with Yage, for people already applying AI and bringing real expertise. It supports serious discussion, useful feedback, and collaboration over time.
 - **Enterprise work** helps teams connect AI-native methods to real workflows, incentives, and organizational constraints.
 - **Books** make judgment reusable across time and outside a live classroom or community.
 
-The common object is a compounding environment: one in which better judgment leads to action, action generates feedback, and the useful parts become assets other people can inherit.
+The common idea is straightforward: form a judgment, put it to work, learn from what happens, and preserve the useful parts so other people can use them too.
 
-The name **Superlinear** describes the growth this system is designed to make possible: not a one-time leap, but a trajectory in which each useful step improves the next. **Stay Superlinear** adds the product insight that environment changes the slope. Strong people can compound without a membership; the product reduces the repeated cost of sorting noise, rebuilding context, finding serious feedback, and reaching the right people. The phrase also quietly extends "stay hungry, stay foolish"; it works best as the conclusion a reader reaches from the ecosystem, not as a promised outcome.
+The name **Superlinear** describes what this can make possible over time: each useful step improves the next. **Stay Superlinear** focuses on the part an environment can play—less time sorting noise or rebuilding context, and more access to serious feedback and people worth working with. It is support for a member's own agency, not a promised outcome.
 
 ## Why This Perspective Is Unusual
 
@@ -73,7 +73,7 @@ Yuzheng's perspective comes from several combinations that rarely sit in one car
 - **Large companies and startups:** Amazon, Meta, Tencent, Statsig, and founder-led organizations.
 - **Technical systems and human systems:** models, experiments, agents, products, incentives, learning, community, and narrative.
 - **Private execution and public thinking:** dated public calls can be compared with what happened later.
-- **Reach and high-resolution feedback:** 400K+ followers matter, but 200+ expert conversations, 3,000+ paying learners, hundreds of projects, and enterprise delivery provide much denser evidence.
+- **Reach and high-resolution feedback:** As of July 2026, 400K+ followers matter, but 200+ expert conversations, 3,000+ paying learners, hundreds of projects, and enterprise delivery provide much denser evidence.
 
 These combinations are more important than any single title. They make it possible to translate between researchers, builders, executives, learners, and organizations without reducing AI to either technical novelty or motivational advice.
 
@@ -106,8 +106,8 @@ These combinations are more important than any single title. They make it possib
 |---|---|---|
 | Personal website | Current public profile and selected work | [lizheng.ai](https://www.lizheng.ai/) |
 | Superlinear Academy | Free learning and builder community | [superlinear.academy](https://www.superlinear.academy/) |
-| Stay Superlinear | Annual paid membership and sustained learning environment | [stay-superlinear.vercel.app](https://stay-superlinear.vercel.app/) |
-| AI-Builders | AI-native course and learning system | [ai-builders.com](https://www.ai-builders.com/) |
+| Stay Superlinear | Paid ongoing membership and sustained learning environment | [staysuperlinear.com](https://staysuperlinear.com/) |
+| AI Builders | AI-native course and learning system | [ai-builders.com](https://ai-builders.com/) |
 | Enterprise programs | AI transformation, workshops, and team systems | [corp-training.ai-builders.com](https://corp-training.ai-builders.com/) |
 | 课代表立正 | Public conversations and analysis | [YouTube](https://www.youtube.com/@kedaibiao) |
 | Books | Growth analytics, product judgment, career agency, and compounding work | [Books](https://www.lizheng.ai/book) |
@@ -120,10 +120,12 @@ The more accurate description is an economist-turned-operator and system builder
 
 ## Proof At A Glance
 
+Figures below were last checked in July 2026.
+
 - Cornell PhD in Economics; former Amazon economist and Meta data scientist.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
 - Former principal data scientist and sole evangelist at Statsig, acquired by OpenAI in 2025.
-- Founder of Superlinear Academy and AI-Builders.
+- Founder of Superlinear Academy and AI Builders.
 - 3,000+ paying learners; 4.9/5 course rating on Maven.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform audience, with a strong concentration of technical and professional viewers across China and the United States.

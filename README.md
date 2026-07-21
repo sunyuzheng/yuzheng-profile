@@ -24,7 +24,7 @@ For most tasks, `PROFILE.md` plus one task-specific file is enough. Do not load 
 
 ## The Short Version
 
-Yuzheng is a Cornell-trained economist who has worked as an economist, data scientist, product and AI leader, founder, educator, author, and community builder across the United States and China. His path includes Amazon, Meta, Tencent IEG, and Statsig, followed by Superlinear Academy and AI-Builders.
+Yuzheng is a Cornell-trained economist who has worked as an economist, data scientist, product and AI leader, founder, educator, author, and community builder across the United States and China. His path includes Amazon, Meta, Tencent IEG, and Statsig, followed by Superlinear Academy and AI Builders.
 
 The throughline is not a list of jobs. It is a repeated question: how does a good judgment meet reality early, learn from feedback, and become a system that other people can use?
 
@@ -49,6 +49,6 @@ That question connects his work in causal reasoning, product analytics, experime
 
 ## Maintenance
 
-Current through **2026-07-20**.
+Current through **2026-07-21**.
 
 When a number or role changes, update the smallest relevant fact, its `as_of` date, and the supporting evidence. Git history serves as the changelog; this repository intentionally avoids a large governance layer.
