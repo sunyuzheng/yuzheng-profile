@@ -32,21 +32,21 @@ These are defaults, not locked scripts. Select the version that answers the audi
 
 ### One line
 
-Yuzheng Sun is a Cornell-trained economist, formerly at Amazon and Meta, and the founder of Superlinear Academy and AI Builders.
+Yuzheng Sun has a PhD in Economics from Cornell. He previously worked at Amazon and Meta and is the founder of Superlinear Academy and AI Builders.
 
 ### Short
 
-Yuzheng Sun is a Cornell-trained economist and the founder of Superlinear Academy and AI Builders. He has worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig. Today he works across AI education, communities, and enterprise programs, while continuing to write and host public conversations about how AI changes real work.
+Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinear Academy and AI Builders. He has worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig. Today he works across AI education, communities, and enterprise programs, while continuing to write and host public conversations about how AI changes real work.
 
 ### Medium
 
-Yuzheng Sun is a Cornell-trained economist, operator, author, and founder of Superlinear Academy and AI Builders. His career spans Amazon, Meta, Tencent IEG, and Statsig, where he worked across economics, data science, product experimentation, AI leadership, and organizational learning.
+Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and founder of Superlinear Academy and AI Builders. His career spans Amazon, Meta, Tencent IEG, and Statsig, where he worked across economics, data science, product experimentation, AI leadership, and organizational learning.
 
 Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of July 2026, he has published 200+ conversations, reached a cross-platform audience of 400K+, and served 3,000+ paying learners. The question connecting his work is how judgment can meet reality early, learn from feedback, and become a system that other people can use.
 
 ### Full narrative
 
-Yuzheng Sun is a Cornell-trained economist, operator, author, and the founder of Superlinear Academy and AI Builders, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was acquired by OpenAI in 2025.
+Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and the founder of Superlinear Academy and AI Builders, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was acquired by OpenAI in 2025.
 
 The throughline is not the list of companies. It is a recurring question: how does a good judgment meet reality early, learn from users, products, experiments, and organizations, and become a system that compounds? Economics trained him to ask about causality and incentives. Product and leadership roles made those models answer to real decisions. Statsig made rapid learning part of product infrastructure. His later courses, communities, enterprise programs, books, and public conversations turn private capability into systems other people can use.
 

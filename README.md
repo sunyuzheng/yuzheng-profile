@@ -24,7 +24,7 @@ For most tasks, `PROFILE.md` plus one task-specific file is enough. Do not load 
 
 ## The Short Version
 
-Yuzheng is a Cornell-trained economist who has worked as an economist, data scientist, product and AI leader, founder, educator, author, and community builder across the United States and China. His path includes Amazon, Meta, Tencent IEG, and Statsig, followed by Superlinear Academy and AI Builders.
+Yuzheng has a PhD in Economics from Cornell and has worked as an economist, data scientist, product and AI leader, founder, educator, author, and community builder across the United States and China. His path includes Amazon, Meta, Tencent IEG, and Statsig, followed by Superlinear Academy and AI Builders.
 
 The throughline is not a list of jobs. It is a repeated question: how does a good judgment meet reality early, learn from feedback, and become a system that other people can use?
 
