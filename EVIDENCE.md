@@ -2,7 +2,7 @@
 
 This file separates proof from interpretation. It records what a claim demonstrates, where it can be checked, and which facts are likely to change.
 
-- **Current as of:** 2026-07-21
+- **Current as of:** 2026-07-25
 - **Public profile:** [lizheng.ai](https://www.lizheng.ai/)
 
 ## Evidence Principles
@@ -20,8 +20,8 @@ This file separates proof from interpretation. It records what a claim demonstra
 | PhD in Economics, Cornell University | Training in causal reasoning, incentives, and decisions under uncertainty | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Economist, Amazon | Applied economic reasoning inside a large technology company | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Data Scientist, Meta | Product analytics and decision work at scale | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
-| Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | [Personal profile](https://www.lizheng.ai/) |
-| Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | [Personal profile](https://www.lizheng.ai/) |
+| Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
+| Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Statsig acquired by OpenAI in 2025 | Places the Statsig chapter in its current context | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) |
 | Founder, Superlinear Academy and AI Builders | Current education, community, and AI system-building work | [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) |
 | Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20; [personal profile](https://www.lizheng.ai/zh/collab/creators) |
@@ -35,8 +35,10 @@ These numbers are useful but volatile.
 | Cross-platform audience | 400K+ | 2026-07-12 | Reach after quality has been established | [Personal profile](https://www.lizheng.ai/) |
 | Paying learners | 3,000+ | 2026-07-12 | Education and implementation scale | [AI Builders](https://ai-builders.com/) |
 | Public conversations | 200+ | 2026-07-12 | Network and repeated world-model testing | [Guest archive](https://www.lizheng.ai/guests) |
-| Maven course rating | 4.9/5 | 2026-07-12 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
-| Public learner projects | 600+ | 2026-07-08 | Builder output and community culture | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
+| Maven course rating | 4.9/5 from 78 ratings; 52 public named written reviews | 2026-07-12 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
+| Selected AI Architect course projects | 55 | 2026-07-25 | Structured-course builder output | [AI Builders](https://ai-builders.com/) |
+| Public project posts in the free community | 600+ | 2026-07-08 | Builder output and community culture | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
+| Comments on free-community project posts | Nearly 7,000 | 2026-07-08 | Density of feedback and discussion around real work | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
 | Free community members | 19,180 | 2026-07-16 | Scale of the free Superlinear Academy community; public wording may say “nearly 20,000” | Private Circle Admin count; [community](https://www.superlinear.academy/) |
 
 The audience composition matters more than the raw total: engineers, data scientists, founders, investors, operators, and technology leaders across China and the United States.
@@ -104,9 +106,10 @@ The Significance Summit conversation with Acquired hosts Ben Gilbert and David R
 ### Scale and satisfaction
 
 - 3,000+ paying learners across AI, data, and growth.
-- 4.9/5 course rating on Maven.
+- 4.9/5 course rating on Maven from 78 ratings, with 52 public named written reviews.
 - Learners include engineers, data scientists, product leaders, designers, operators, and executives from major technology and financial companies.
-- More than 600 project posts have been shared in the community; most received direct review or guidance from Yuzheng and his co-instructor.
+- The current AI Builders page features 55 selected AI Architect course projects.
+- More than 600 project posts have been shared in the free Superlinear Academy community, generating nearly 7,000 comments. This is a broader community corpus, not a count of paid-course projects.
 
 ### Selected learner signals
 
@@ -143,6 +146,32 @@ Dymon Asia has posted multiple AI, quant, research, and data roles in the commun
 | Meituan | User-to-Builder for technical and non-technical teams | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/4030640) |
 
 Additional enterprise work is described at [corp-training.ai-builders.com](https://corp-training.ai-builders.com/). Use named clients only when the relationship is already public.
+
+## Convening And Cross-Border AI Work
+
+### AI Engineer Shanghai 2026
+
+AI Engineer's official LinkedIn account publicly announced its first Shanghai event and directly named Yuzheng Sun and Mengying Li as collaborators:
+
+> “We're working with Yuzheng Sun and Mengying Li on AIEi Shanghai.”
+
+The official event page separately lists Standup Partners as the organizer. The event is scheduled for November 5-6, 2026 and is still upcoming.
+
+**What this establishes now:**
+
+- AI Engineer has publicly confirmed a working relationship with Yuzheng on AI Engineer Shanghai 2026.
+- The collaboration is linked directly to Yuzheng's personal LinkedIn profile rather than inferred from an organizational logo.
+- It is concrete evidence of cross-border convening work around AI engineering.
+
+**What it does not establish yet:**
+
+- successful event delivery, final speaker quality, attendance, or downstream collaborations;
+- sole ownership of the event or authority to speak for AI Engineer;
+- the completed identity of a long-term US-China technology institution builder.
+
+Use the current public wording: **working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026**. Use `co-organizer`, `China lead`, or other formal titles only after written title alignment with AI Engineer.
+
+**Sources:** [AI Engineer official LinkedIn announcement](https://www.linkedin.com/posts/ai-engineer-is-coming-to-shanghai-for-the-share-7485740252167577600-lPlG/) · [AI Engineer Shanghai official page](https://www.ai.engineer/shanghai/2026)
 
 ## Books And Durable Artifacts
 
@@ -190,6 +219,9 @@ Use endorsements that resonate with the audience. The quote should confirm an al
 - Describe MCP as a judgment about **major structural flaws and overstatement**, not merely a standards or ecosystem debate.
 - Distinguish the free [Superlinear Academy](https://www.superlinear.academy/) community from the paid [Stay Superlinear](https://staysuperlinear.com/) membership.
 - Use [staysuperlinear.com](https://staysuperlinear.com/) as the canonical membership URL. The Vercel deployment aliases are infrastructure details, not public canonical links.
-- Use `400K+`, `3,000+`, `200+`, and `600+` only with a current `as_of` date.
+- Use `400K+`, `3,000+`, `200+`, `600+`, and “nearly 7,000” only with a current `as_of` date.
 - Do not present follower count as proof of technical judgment.
-- Do not say every project received a review. The accurate wording is that most projects received direct feedback or guidance.
+- Keep the two project corpora distinct: `55` means selected AI Architect course projects; `600+` means public project posts in the free community.
+- Do not say that every or most free-community project posts received instructor review unless a separate audit establishes it.
+- Describe AI Engineer Shanghai 2026 as an upcoming collaboration until the November 2026 event has taken place. Do not convert planned attendance, participant mix, speakers, or outcomes into completed facts.
+- Current safe wording is “working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026.” Use `co-organizer`, `China lead`, or `official representative` only after written title alignment.

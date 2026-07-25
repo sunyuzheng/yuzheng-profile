@@ -5,8 +5,8 @@
 - **Name:** Yuzheng Sun / 孙煜征
 - **Public identity:** 课代表立正
 - **Current base:** Seattle / 西雅图
-- **Current work:** Founder of Superlinear Academy and AI Builders
-- **Core proposition:** Help individuals and organizations build AI systems that compound, act on what matters, and capture the opportunities of the AI era.
+- **Current work:** Founder of Superlinear Academy and AI Builders; co-leads Stay Superlinear with Yage
+- **Current focus:** Turn judgment into useful capability, real systems, and assets that compound. Today, most of that work happens through AI.
 
 Two sentences organize the rest of the profile:
 
@@ -48,20 +48,21 @@ When generative AI emerged, Yuzheng treated it as a change in the interface to i
 
 That judgment led naturally to a practical thesis: as execution gets cheaper, the scarce layer moves upward. Choosing the right problem, designing the system, evaluating output, developing taste, and creating distribution become more important. The durable move is from user to builder, and eventually from builder to architect.
 
-### 6. Turn private capability into public systems
+### 6. Turn what he learns into systems other people can use
 
-Superlinear Academy, AI Builders, enterprise programs, books, interviews, and Stay Superlinear are different expressions of the same project.
+Superlinear Academy, AI Builders, Stay Superlinear, enterprise programs, books, public conversations, and public tools are different expressions of the same project.
 
-- **Public content and conversations** expose ideas to disagreement and bring high-quality world models into contact with one another.
-- **AI Builders** helps professionals move beyond isolated prompting and build reliable workflows, products, and operating habits.
-- **Superlinear Academy** is a free builder community where projects, questions, feedback, collaboration, and opportunities accumulate.
-- **Stay Superlinear** is a paid ongoing membership, co-led with Yage, for people already applying AI and bringing real expertise. It supports serious discussion, useful feedback, and collaboration over time.
+- **Public content and conversations** state ideas clearly enough to be challenged and bring together people who see different parts of reality.
+- **AI Builders**, co-taught with Yage, turns technical understanding, building methods, and value judgment into capabilities professionals can reuse on real problems.
+- **Superlinear Academy** is a free peer lab where projects, specific questions, first-hand experience, feedback, collaboration, and opportunities circulate.
+- **Stay Superlinear** is a paid ongoing environment, co-led with Yage, that more actively organizes people, content, feedback, tools, and opportunities around members' current work.
 - **Enterprise work** helps teams connect AI-native methods to real workflows, incentives, and organizational constraints.
 - **Books** make judgment reusable across time and outside a live classroom or community.
+- **Public tools** make selected production and thinking systems inspectable; reuse depends on each repository's license and documentation.
 
 The common idea is straightforward: form a judgment, put it to work, learn from what happens, and preserve the useful parts so other people can use them too.
 
-The name **Superlinear** describes what this can make possible over time: each useful step improves the next. **Stay Superlinear** focuses on the part an environment can play—less time sorting noise or rebuilding context, and more access to serious feedback and people worth working with. It is support for a member's own agency, not a promised outcome.
+The name **Superlinear** describes what this can make possible over time: each useful step improves the next. The free community, structured courses, and paid membership play different roles; none is merely a funnel into another. The environment supports a member's own agency rather than promising an outcome.
 
 ## Why This Perspective Is Unusual
 
@@ -73,7 +74,7 @@ Yuzheng's perspective comes from several combinations that rarely sit in one car
 - **Large companies and startups:** Amazon, Meta, Tencent, Statsig, and founder-led organizations.
 - **Technical systems and human systems:** models, experiments, agents, products, incentives, learning, community, and narrative.
 - **Private execution and public thinking:** dated public calls can be compared with what happened later.
-- **Reach and high-resolution feedback:** As of July 2026, 400K+ followers matter, but 200+ expert conversations, 3,000+ paying learners, hundreds of projects, and enterprise delivery provide much denser evidence.
+- **Reach and specific feedback:** As of July 2026, 400K+ followers matter, but 200+ public conversations, 3,000+ paying learners, course projects, hundreds of free-community project posts, and enterprise delivery say much more about how the work holds up.
 
 These combinations are more important than any single title. They make it possible to translate between researchers, builders, executives, learners, and organizations without reducing AI to either technical novelty or motivational advice.
 
@@ -107,16 +108,17 @@ These combinations are more important than any single title. They make it possib
 | Personal website | Current public profile and selected work | [lizheng.ai](https://www.lizheng.ai/) |
 | Superlinear Academy | Free learning and builder community | [superlinear.academy](https://www.superlinear.academy/) |
 | Stay Superlinear | Paid ongoing membership and sustained learning environment | [staysuperlinear.com](https://staysuperlinear.com/) |
-| AI Builders | AI-native course and learning system | [ai-builders.com](https://ai-builders.com/) |
+| AI Builders | Long-term AI learning system co-taught with Yage | [ai-builders.com](https://ai-builders.com/) |
 | Enterprise programs | AI transformation, workshops, and team systems | [corp-training.ai-builders.com](https://corp-training.ai-builders.com/) |
 | 课代表立正 | Public conversations and analysis | [YouTube](https://www.youtube.com/@kedaibiao) |
 | Books | Growth analytics, product judgment, career agency, and compounding work | [Books](https://www.lizheng.ai/book) |
+| Public GitHub tools | Inspectable systems built from real internal work | [GitHub](https://github.com/sunyuzheng) |
 
 ## What The Profile Should Not Collapse Into
 
 Yuzheng is not best understood as only an influencer, course instructor, economist, data scientist, executive, or AI commentator. Each label is true but incomplete.
 
-The more accurate description is an economist-turned-operator and system builder who studies how judgment becomes action and how action becomes a compounding asset. The public audience, courses, community, books, and enterprise work are distribution and implementation layers for that deeper project.
+The more accurate description is an economist-turned-operator and system builder who studies how judgment becomes action and how action becomes a compounding asset. Courses, community, books, enterprise work, and the public audience are different ways to put that project into practice and share it.
 
 ## Proof At A Glance
 
@@ -126,10 +128,11 @@ Figures below were last checked in July 2026.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
 - Former principal data scientist and sole evangelist at Statsig, acquired by OpenAI in 2025.
 - Founder of Superlinear Academy and AI Builders.
-- 3,000+ paying learners; 4.9/5 course rating on Maven.
+- 3,000+ paying learners; 4.9/5 course rating on Maven from 78 ratings.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform audience, with a strong concentration of technical and professional viewers across China and the United States.
-- Hundreds of public learner projects and thousands of substantive community interactions.
+- 55 selected AI Architect course projects.
+- 600+ public project posts and nearly 7,000 project comments in the free Superlinear Academy community.
 - Enterprise work with teams including DoorDash, Tencent, Meituan, and Xiaohongshu.
 - Co-author of *Growth Data Analytics Playbook* and author of *真本事：从会工作到会赚钱*.
 - Dated public AI judgments, led by the February 2023 pre-GPT-4 ChatGPT essay.

@@ -51,7 +51,7 @@ Using a new tool creates temporary productivity. Building a workflow or product 
 
 This progression does not require everyone to become a traditional software engineer. AI lowers the cost of building, but it increases the value of problem selection and system design.
 
-**In practice:** AI Builders emphasizes projects and reliable workflows; enterprise programs focus on operating models; public content tries to explain the model behind the tool.
+**In practice:** AI Builders, co-taught with Yage, trains a repeatable loop: choose a real problem, define the useful result, let AI act, inspect and correct the output, and leave behind a workflow, artifact, or system. Enterprise programs focus on operating models; public content tries to explain the model behind the tool.
 
 ## 5. Compounding comes from systems, not intensity alone
 
@@ -75,19 +75,13 @@ This is not an argument for unstructured automation. The more code and content a
 
 People do not develop in isolation. Talent density, information density, discussion quality, and the frequency of serious action shape what feels normal and what becomes possible.
 
-This is the deeper reason for Superlinear Academy and Stay Superlinear. A good community is not an audience waiting for wisdom. It is a peer lab in which people show work, compare methods, challenge judgment, help one another, and create opportunities. Like Florence during the Renaissance, the environment and the people strengthen each other.
+This is the deeper reason for Superlinear Academy and Stay Superlinear. A good community is not an audience waiting for wisdom. It is a peer lab in which people show unfinished work, compare methods, challenge judgment, help one another, and create opportunities. It lets serious people work without having to perform success.
 
 AI may be a second Renaissance in the sense that a new representational and productive medium is arriving. The response should not be solitary consumption; it should be participation in an environment dense enough to accelerate judgment and action.
 
-**Stay Superlinear** compresses this product thesis into two words:
+Today, this idea appears in three different forms: a free community, concentrated courses, and a paid ongoing membership. Their roles should remain distinct; the current relationship lives in [ECOSYSTEM.md](ECOSYSTEM.md), not in this durable thesis.
 
-- **Superlinear names the desired transformation.** Many serious professionals already recognize the limits of linear accumulation, but do not yet have an environment in which judgment, capability, work, and relationships can reinforce one another.
-- **Stay names duration and environment.** A person may find the right path or make one unusually good decision, then drift back toward noisy information, shallow discussion, and fragmented action. The membership keeps a better environment available long enough for relationships, feedback, and work to accumulate.
-- **The phrase carries a restrained cultural echo.** It extends the spirit of "stay hungry, stay foolish": ambition without complacency, and conviction without losing the willingness to learn. That lineage raises the ceiling of the name, but should remain a callback rather than a paragraph of public explanation.
-
-The communication principle follows from the product thesis. Do not promise that joining a community will mechanically produce superlinear growth. Show the people, conversations, project feedback, tools, and opportunities that make compounding plausible. Let the audience infer the transformation, then use the name as the conclusion.
-
-The environment is a multiplier, not the owner of a member's growth. Strong people can compound without a membership; Stay Superlinear reduces the repeated cost of sorting noise, rebuilding context, finding serious feedback, and reaching the right people. The product should increase agency and capability. Retention should come from accumulated value and relationships, never from suggesting that a member cannot progress alone.
+The environment is a multiplier, not the owner of a member's growth. It should reduce the repeated cost of sorting noise, rebuilding context, finding serious feedback, and reaching the right people. Its value should come from accumulated work and relationships, never from implying that a member cannot progress alone.
 
 ## 8. Distribution and narrative are part of building
 

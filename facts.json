@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Yuzheng Sun / 课代表立正 public profile facts",
-    "as_of": "2026-07-21",
+    "as_of": "2026-07-25",
     "scope": "Public, reusable facts. Volatile metrics require date checks.",
     "canonical_profile": "https://www.lizheng.ai/"
   },
@@ -13,8 +13,8 @@
     "base_city_en": "Seattle",
     "base_city_zh": "西雅图",
     "base_as_of": "2026-07-20",
-    "core_proposition_en": "Help individuals and organizations build AI systems that compound, so they can act on the opportunities of the AI era.",
-    "core_proposition_zh": "帮助个人与企业建立能够复利的 AI 系统，真正行动起来，抓住 AI 时代的机会。",
+    "core_proposition_en": "Help people and organizations turn judgment into useful capability, real systems, and assets that compound. Today, most of that work happens through AI.",
+    "core_proposition_zh": "帮助个人和组织把判断变成真正能用的能力、系统和长期资产。今天，这件事主要通过 AI 展开。",
     "throughline_en": "I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.",
     "throughline_zh": "我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。"
   },
@@ -81,18 +81,36 @@
     {
       "id": "maven_rating",
       "value": "4.9/5",
+      "ratings_count": 78,
+      "public_named_written_reviews": 52,
       "label": "AI Builders course rating on Maven",
       "as_of": "2026-07-12",
       "volatility": "medium",
       "source": "https://maven.com/superlinear/aibuilders"
     },
     {
+      "id": "ai_architect_selected_projects",
+      "value": "55",
+      "label": "selected AI Architect course projects",
+      "as_of": "2026-07-25",
+      "volatility": "medium",
+      "source": "https://ai-builders.com/"
+    },
+    {
       "id": "community_projects",
       "value": "600+",
-      "label": "public learner project posts",
+      "label": "public project posts in the free Superlinear Academy community",
       "as_of": "2026-07-08",
       "volatility": "high",
       "source": "Private Circle Admin API count; public community at https://www.superlinear.academy/"
+    },
+    {
+      "id": "community_project_comments",
+      "value": "nearly 7,000",
+      "label": "comments on project posts in the free Superlinear Academy community",
+      "as_of": "2026-07-08",
+      "volatility": "high",
+      "source": "Private Circle Admin count; public community at https://www.superlinear.academy/"
     },
     {
       "id": "free_community_members",
@@ -107,17 +125,19 @@
   "current_work": [
     {
       "name": "Superlinear Academy",
-      "type": "free builder community",
+      "type": "free peer lab and builder community",
       "url": "https://www.superlinear.academy/"
     },
     {
       "name": "Stay Superlinear",
-      "type": "paid ongoing membership",
+      "type": "paid ongoing environment for practitioners",
+      "relationship": "co-led with Yage",
       "url": "https://staysuperlinear.com/"
     },
     {
       "name": "AI Builders",
-      "type": "AI-native learning system and course",
+      "type": "long-term AI learning system",
+      "relationship": "co-taught with Yage",
       "url": "https://ai-builders.com/"
     },
     {
@@ -129,6 +149,17 @@
       "name": "课代表立正",
       "type": "public conversations and analysis",
       "url": "https://www.youtube.com/@kedaibiao"
+    }
+  ],
+  "current_initiatives": [
+    {
+      "name": "AI Engineer Shanghai 2026",
+      "type": "cross-border AI engineering conference collaboration",
+      "role": "Publicly named by AI Engineer as a collaborator on AI Engineer Shanghai 2026",
+      "status": "announced; event upcoming on 2026-11-05 and 2026-11-06",
+      "boundary": "Safe wording: working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026. Do not use co-organizer, China lead, or official representative without written title alignment.",
+      "source": "https://www.linkedin.com/posts/ai-engineer-is-coming-to-shanghai-for-the-share-7485740252167577600-lPlG/",
+      "event_url": "https://www.ai.engineer/shanghai/2026"
     }
   ],
   "books": [
@@ -216,6 +247,8 @@
   ],
   "links": {
     "website": "https://www.lizheng.ai/",
+    "context_repository": "https://github.com/sunyuzheng/yuzheng-profile",
+    "github_profile": "https://github.com/sunyuzheng",
     "community": "https://www.superlinear.academy/",
     "membership": "https://staysuperlinear.com/",
     "course": "https://ai-builders.com/",
