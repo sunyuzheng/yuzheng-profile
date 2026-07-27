@@ -68,7 +68,7 @@ Lead with the February 2023 pre-GPT-4 essay, dated public AI calls, Statsig, pro
 
 ### Learning or community audience
 
-Lead with 3,000+ paying learners, 55 selected AI Architect course projects, the 4.9/5 Maven rating, and the 600+ public project posts in the free Superlinear Academy community. Keep the course and community corpora distinct. The relevant thesis is that judgment, capability, work, and relationships can compound when serious people remain in a strong environment; Stay Superlinear is the sustained membership expression of that idea.
+Lead with 3,000+ paying learners, 55 selected AI Architect course projects, the 5.0/5 Maven rating, and the 600+ public project posts in the free Superlinear Academy community. Keep the course and community corpora distinct. The relevant thesis is that judgment, capability, work, and relationships can compound when serious people remain in a strong environment; Stay Superlinear is the sustained membership expression of that idea.
 
 ### Media, speaker, or general audience
 

@@ -128,7 +128,7 @@ Figures below were last checked in July 2026.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
 - Former principal data scientist and sole evangelist at Statsig, acquired by OpenAI in 2025.
 - Founder of Superlinear Academy and AI Builders.
-- 3,000+ paying learners; 4.9/5 course rating on Maven from 78 ratings.
+- 3,000+ paying learners; 5.0/5 course rating on Maven from 81 ratings.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform audience, with a strong concentration of technical and professional viewers across China and the United States.
 - 55 selected AI Architect course projects.

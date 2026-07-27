@@ -35,7 +35,7 @@ These numbers are useful but volatile.
 | Cross-platform audience | 400K+ | 2026-07-12 | Reach after quality has been established | [Personal profile](https://www.lizheng.ai/) |
 | Paying learners | 3,000+ | 2026-07-12 | Education and implementation scale | [AI Builders](https://ai-builders.com/) |
 | Public conversations | 200+ | 2026-07-12 | Network and repeated world-model testing | [Guest archive](https://www.lizheng.ai/guests) |
-| Maven course rating | 4.9/5 from 78 ratings; 52 public named written reviews | 2026-07-12 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
+| Maven course rating | 5.0/5 from 81 ratings; 53 public named written reviews | 2026-07-27 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
 | Selected AI Architect course projects | 55 | 2026-07-25 | Structured-course builder output | [AI Builders](https://ai-builders.com/) |
 | Public project posts in the free community | 600+ | 2026-07-08 | Builder output and community culture | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
 | Comments on free-community project posts | Nearly 7,000 | 2026-07-08 | Density of feedback and discussion around real work | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
@@ -106,7 +106,7 @@ The Significance Summit conversation with Acquired hosts Ben Gilbert and David R
 ### Scale and satisfaction
 
 - 3,000+ paying learners across AI, data, and growth.
-- 4.9/5 course rating on Maven from 78 ratings, with 52 public named written reviews.
+- 5.0/5 course rating on Maven from 81 ratings, with 53 public named written reviews.
 - Learners include engineers, data scientists, product leaders, designers, operators, and executives from major technology and financial companies.
 - The current AI Builders page features 55 selected AI Architect course projects.
 - More than 600 project posts have been shared in the free Superlinear Academy community, generating nearly 7,000 comments. This is a broader community corpus, not a count of paid-course projects.

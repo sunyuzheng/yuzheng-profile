@@ -80,12 +80,12 @@
     },
     {
       "id": "maven_rating",
-      "value": "4.9/5",
-      "ratings_count": 78,
-      "public_named_written_reviews": 52,
+      "value": "5.0/5",
+      "ratings_count": 81,
+      "public_named_written_reviews": 53,
       "label": "AI Builders course rating on Maven",
-      "as_of": "2026-07-12",
-      "volatility": "medium",
+      "as_of": "2026-07-27",
+      "volatility": "high",
       "source": "https://maven.com/superlinear/aibuilders"
     },
     {
