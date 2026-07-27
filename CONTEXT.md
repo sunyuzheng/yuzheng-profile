@@ -20,6 +20,12 @@ AI is where most of this work happens today. It is not the whole identity.
 
 > 我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。
 
+In the AI era, the public shorthand is:
+
+> **AI越会做题，人越要会出题。**
+
+“出题” does not mean writing a better prompt or claiming that AI cannot propose questions. It means deciding what is worth doing, for whom, what counts as useful, and who owns the consequences. AI can help define the problem and make the answer; the answer still has to meet users, organizations, and reality.
+
 In practice, that means:
 
 1. understand the causes, incentives, and constraints behind a problem;

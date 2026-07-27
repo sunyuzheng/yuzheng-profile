@@ -54,6 +54,6 @@ That question connects his work in causal reasoning, product analytics, experime
 
 ## Maintenance
 
-Current through **2026-07-25**.
+Current through **2026-07-27**.
 
 When a number or role changes, update the smallest relevant fact, its `as_of` date, and the supporting evidence. Git history serves as the changelog; this repository intentionally avoids a large governance layer.

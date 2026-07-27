@@ -45,6 +45,12 @@ As models make code, content, research, and execution cheaper, durable advantage
 
 The practical implication is not that tools do not matter. It is that tutorials expire faster than the judgment required to choose and combine tools.
 
+A public shorthand for this shift is:
+
+> **AI越会做题，人越要会出题。**
+
+Here, “出题” is not prompt craft, and it is not a claim that AI cannot suggest or refine questions. It means deciding what is worth doing, for whom, what would count as useful, and who is responsible for the choice and its consequences. AI can help frame questions, generate answers, and evaluate outputs, but neither a model nor its answer can certify usefulness on its own. The result must still meet users, organizations, and reality.
+
 ## 4. The durable move is from user to builder to architect
 
 Using a new tool creates temporary productivity. Building a workflow or product creates an asset. Designing the context, evaluation, interfaces, and feedback loops behind many workflows creates an architecture.
