@@ -1,9 +1,20 @@
 {
   "meta": {
     "title": "Yuzheng Sun / 课代表立正 public profile facts",
-    "as_of": "2026-07-25",
-    "scope": "Public, reusable facts. Volatile metrics require date checks.",
-    "canonical_profile": "https://www.lizheng.ai/"
+    "as_of": "2026-07-29",
+    "scope": "Public, reusable records. Identity, career, metrics, current work, initiatives, books, and links are factual or current-state records; dated_judgments preserve claims made at the time; endorsements are third-party quotations; outcomes are bounded case records. Volatile metrics require date checks.",
+    "canonical_profile": "https://www.lizheng.ai/",
+    "record_kinds": {
+      "identity.core_proposition_and_throughline": "current_positioning",
+      "career": "fact",
+      "metrics": "dated_fact",
+      "current_work": "current_fact",
+      "current_initiatives": "current_fact_with_boundary",
+      "books": "fact",
+      "dated_judgments": "historical_claim_not_timeless_fact",
+      "endorsements": "third_party_quote",
+      "outcomes": "bounded_case_record"
+    }
   },
   "identity": {
     "name_en": "Yuzheng Sun",
@@ -16,7 +27,14 @@
     "core_proposition_en": "Help people and organizations turn judgment into useful capability, real systems, and assets that compound. Today, most of that work happens through AI.",
     "core_proposition_zh": "帮助个人和组织把判断变成真正能用的能力、系统和长期资产。今天，这件事主要通过 AI 展开。",
     "throughline_en": "I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.",
-    "throughline_zh": "我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。"
+    "throughline_zh": "我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。",
+    "representation_guidance": [
+      "Canonical career records retain the official title and chronology. Formal resumes, structured data, employment verification, and detailed factual profiles normally use those exact records.",
+      "Headlines, social profiles, spoken introductions, and short bios may use familiar industry shorthand when it does not materially overstate the employer relationship, actual responsibility, or outcome. For example, 腾讯总监 can compress the official Vice Director, Data & AI title in a short Chinese profile without replacing the canonical record.",
+      "Statsig was acquired by OpenAI after Yuzheng had left. OpenAI收购团队 is accepted shorthand for that company context in a compressed social profile; a detailed surface should name Statsig and preserve the chronology. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into former OpenAI, OpenAI alum, or a claim that he personally participated in, led, caused, or predicted the acquisition.",
+      "Only material labeled verbatim, or high-risk wording such as promises, disputes, legal or safety claims, normally requires word-for-word matching. Ordinary media quotations may remove fillers, repetition, or obvious grammatical slips and may be translated when meaning and tone remain faithful. Mark meaningful edits or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.",
+      "These are defaults for owned media. When an external publisher or collaborator has a known house style or approval process, adapt to it unless that would create a material falsehood."
+    ]
   },
   "career": [
     {
@@ -43,7 +61,7 @@
     {
       "organization": "Statsig",
       "role": "Principal Data Scientist and sole evangelist",
-      "detail": "Statsig was acquired by OpenAI in 2025",
+      "detail": "Statsig was acquired by OpenAI in 2025 after Yuzheng had left the company",
       "source": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
       "stability": "durable"
     },
@@ -57,10 +75,11 @@
     {
       "id": "audience",
       "value": "400K+",
-      "label": "cross-platform audience",
+      "label": "cross-platform followers",
       "as_of": "2026-07-12",
       "volatility": "high",
-      "source": "https://www.lizheng.ai/"
+      "source": "Owner-confirmed aggregation from platform dashboards; no independent public source recorded",
+      "public_reuse_boundary": "Useful rounded shorthand for an established cross-platform audience. Keep the dated platform aggregation here; retrieve platform, engagement, or audience-composition detail when the surface needs more resolution."
     },
     {
       "id": "paying_learners",
@@ -81,8 +100,8 @@
     {
       "id": "maven_rating",
       "value": "5.0/5",
-      "ratings_count": 81,
-      "public_named_written_reviews": 53,
+      "ratings_count": 82,
+      "public_named_written_reviews": 54,
       "label": "AI Builders course rating on Maven",
       "as_of": "2026-07-27",
       "volatility": "high",
@@ -132,7 +151,7 @@
       "name": "Stay Superlinear",
       "type": "paid ongoing environment for practitioners",
       "relationship": "co-led with Yage",
-      "url": "https://staysuperlinear.com/"
+      "url": "https://stay.superlinear.academy/"
     },
     {
       "name": "AI Builders",
@@ -235,13 +254,14 @@
       "type": "community_product_launch",
       "subject": "AgentKey",
       "result": "60 visits, 48 activations, and 12 paid users after an early community launch; 28 likes and 51 comments as checked on 2026-07-04.",
+      "boundary": "A compact early-launch case showing dense feedback, strong activation, and initial payment in one relevant network. The Atomic Network framing and technical discussion add narrative depth; retrieve a same-basis launch comparison if the story needs a scale benchmark.",
       "source": "https://www.superlinear.academy/c/share-your-projects/agent-8f3386"
     },
     {
       "type": "community_hiring",
       "subject": "Dymon Asia",
       "result": "Multiple roles posted in the community and two community members reported as hired.",
-      "boundary": "The two-member result is supported by a private screenshot retained in the proof archive; link points to the public role.",
+      "boundary": "A concrete community hiring story: the partner offered members priority and two members joined. The two-member result is supported by a private screenshot retained in the proof archive; the link points to the public role. Pair with additional hiring or collaboration cases when presenting a broader pattern.",
       "source": "https://www.superlinear.academy/c/collaborate/dymon-asia-capital-forward-deployed-engineer-fde"
     }
   ],
@@ -250,7 +270,7 @@
     "context_repository": "https://github.com/sunyuzheng/yuzheng-profile",
     "github_profile": "https://github.com/sunyuzheng",
     "community": "https://www.superlinear.academy/",
-    "membership": "https://staysuperlinear.com/",
+    "membership": "https://stay.superlinear.academy/",
     "course": "https://ai-builders.com/",
     "enterprise": "https://corp-training.ai-builders.com/",
     "youtube": "https://www.youtube.com/@kedaibiao",

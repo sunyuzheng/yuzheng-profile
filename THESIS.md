@@ -1,6 +1,6 @@
 # Working Theses
 
-This is a map of Yuzheng's current thinking, not a list of commandments. Some ideas are durable; others are active hypotheses that should change when reality provides better evidence.
+This is a map of Yuzheng's current thinking, not a list of facts or commandments. Each section is a thesis or default lens; its scope, exceptions, and update conditions travel with it. Dated views preserve what was claimed at the time rather than certifying a current belief.
 
 ## The Integrating Thesis
 
@@ -16,11 +16,11 @@ This thesis has three movements:
 
 The sequence matters. A system that compounds the wrong judgment is dangerous; judgment that never meets reality is decorative; a useful insight that never becomes reusable remains small.
 
-## 1. Better world models are the highest-leverage asset
+## 1. Better world models are often a high-leverage asset
 
-Information is abundant. The scarce capability is a causal model that explains why something happens, what would change it, and where a decision can intervene.
+When a decision depends on causality, uncertainty, or second-order effects, more information alone is often not enough. A useful causal model explains why something happens, what would change it, and where a decision can intervene.
 
-This is why Yuzheng often moves past tool lists and asks about incentives, constraints, counterfactuals, and second-order effects. A better world model does not guarantee a good outcome, but it raises the quality of every decision that follows.
+This is why Yuzheng often moves past tool lists and asks about incentives, constraints, counterfactuals, and second-order effects. A better world model does not guarantee a good outcome, but it can improve decisions whose quality depends on that model.
 
 **In practice:** economics, product analytics, growth accounting, AI strategy, and career decisions are all attempts to improve the model behind action.
 
@@ -32,9 +32,9 @@ Vague opinions protect the speaker but do little work. A useful view should make
 
 **In practice:** dated public calls, A/B testing, project reviews, and live community discussion all create accountability for judgment.
 
-## 3. AI moves scarcity upward
+## 3. AI often moves some scarcity upward
 
-As models make code, content, research, and execution cheaper, durable advantage moves toward the layers that remain scarce:
+As models make some code, content, research, and execution cheaper, advantage can move toward layers that remain scarce:
 
 - choosing a consequential problem;
 - understanding the user and the system around the problem;
@@ -51,11 +51,11 @@ A public shorthand for this shift is:
 
 Here, “出题” is not prompt craft, and it is not a claim that AI cannot suggest or refine questions. It means deciding what is worth doing, for whom, what would count as useful, and who is responsible for the choice and its consequences. AI can help frame questions, generate answers, and evaluate outputs, but neither a model nor its answer can certify usefulness on its own. The result must still meet users, organizations, and reality.
 
-## 4. The durable move is from user to builder to architect
+## 4. One durable progression is from user to builder to architect
 
-Using a new tool creates temporary productivity. Building a workflow or product creates an asset. Designing the context, evaluation, interfaces, and feedback loops behind many workflows creates an architecture.
+Using a new tool can create immediate productivity. Building a workflow or product can leave behind a reusable asset. Designing the context, evaluation, interfaces, and feedback loops behind many workflows moves the work toward architecture.
 
-This progression does not require everyone to become a traditional software engineer. AI lowers the cost of building, but it increases the value of problem selection and system design.
+This progression does not require everyone to become a traditional software engineer. As AI lowers the cost of some kinds of building, problem selection and system design often account for more of the remaining difference.
 
 **In practice:** AI Builders, co-taught with Yage, trains a repeatable loop: choose a real problem, define the useful result, let AI act, inspect and correct the output, and leave behind a workflow, artifact, or system. Enterprise programs focus on operating models; public content tries to explain the model behind the tool.
 
@@ -69,21 +69,21 @@ This is what the name **Superlinear** is meant to hold. It does not mean moving 
 
 **In practice:** books preserve ideas, courses preserve teaching, communities preserve relationships and feedback, and AI workflows preserve repeated cognition.
 
-## 6. AI-native work should spend computation and conserve human cognition
+## 6. AI-native work can spend computation and conserve human cognition
 
-In an AI-native system, abundant machine effort should absorb search, drafting, coding, comparison, and repetition. Human attention should be reserved for problem definition, architecture, evaluation, taste, and responsibility.
+Where cost, latency, privacy, and environmental constraints permit, abundant machine effort can absorb more search, drafting, coding, comparison, and repetition. Human attention is then better spent on problem definition, architecture, evaluation, taste, and responsibility.
 
 This is not an argument for unstructured automation. The more code and content a system can generate, the more important context, interfaces, tests, observability, and durable specifications become.
 
 **In practice:** use AI generously at the execution layer while becoming more rigorous at the architecture and judgment layers.
 
-## 7. Environment changes the slope of a person's growth
+## 7. Environment can change the slope of a person's growth
 
-People do not develop in isolation. Talent density, information density, discussion quality, and the frequency of serious action shape what feels normal and what becomes possible.
+People do not develop in isolation. Talent density, information density, discussion quality, and the frequency of serious action can shape what feels normal and what becomes possible. Environments can also exclude, distract, or harm; the direction and size of the effect depend on fit, safety, power, and a person's constraints.
 
 This is the deeper reason for Superlinear Academy and Stay Superlinear. A good community is not an audience waiting for wisdom. It is a peer lab in which people show unfinished work, compare methods, challenge judgment, help one another, and create opportunities. It lets serious people work without having to perform success.
 
-AI may be a second Renaissance in the sense that a new representational and productive medium is arriving. The response should not be solitary consumption; it should be participation in an environment dense enough to accelerate judgment and action.
+AI may be a second Renaissance in the sense that a new representational and productive medium is arriving. For work that benefits from peer feedback, participation in a well-fit environment can complement solitary learning and sometimes accelerate judgment and action.
 
 Today, this idea appears in three different forms: a free community, concentrated courses, and a paid ongoing membership. Their roles should remain distinct; the current relationship lives in [ECOSYSTEM.md](ECOSYSTEM.md), not in this durable thesis.
 
@@ -97,9 +97,9 @@ Narrative is valuable when it compresses real structure and helps other people s
 
 **In practice:** demonstrate capability through dated judgments, serious peers, products, outcomes, and scenes. Let the audience infer the conclusion rather than announcing it.
 
-## 9. AI transformation is an organizational redesign problem
+## 9. Lasting AI transformation often becomes an organizational redesign problem
 
-Most companies do not fail to adopt AI because employees have never seen a prompt. They fail because useful experiments do not become shared workflows, evaluation is weak, incentives remain unchanged, and no one owns the operating model.
+Many AI adoption efforts stall after the first demos. The limiting factor is often no longer exposure to prompts, but whether useful experiments become shared workflows, evaluation is credible, incentives support the change, and someone owns the operating model. In a small team or a narrow workflow, the necessary redesign may be light; in a larger organization, it is usually substantial.
 
 Real transformation connects four layers:
 
@@ -108,7 +108,7 @@ Real transformation connects four layers:
 - evaluation: how quality, risk, and improvement are measured;
 - organization: who decides, owns, learns, and scales.
 
-Training is useful when it changes this system, not when it merely creates temporary excitement.
+For organizational transformation, training is most useful when it helps change this system rather than ending at temporary excitement.
 
 ## Current Dated Views
 
@@ -119,7 +119,7 @@ These are examples of public, falsifiable judgments rather than permanent identi
 - **2025.03:** MCP had major structural flaws, and market enthusiasm exceeded what the protocol could reliably deliver.
 - **2026.03:** OpenClaw would not last as a product category, even though trying it was useful for understanding the underlying capability shift.
 
-The point of retaining dated views is not to build a mythology of being right. It is to make the reasoning inspectable and to preserve the cost of being wrong.
+These bullets preserve what was claimed at the time; they do not certify that every word remains the current view. The point is not to build a mythology of being right, but to make the reasoning inspectable and preserve the cost of being wrong.
 
 ## How These Theses Can Change
 

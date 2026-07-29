@@ -71,16 +71,22 @@ The partnership should remain visible.
 
 These are complementary emphases, not rigid boundaries. The shared method is to make a view clear, act on it, inspect the result, and update.
 
-## Important Boundaries
+## Expression And Retrieval Toolkit
 
-- Yuzheng is based in Seattle, not the Bay Area.
-- Use “PhD in Economics from Cornell,” not “Cornell-trained economist.”
-- The exact Tencent title is Vice Director, Data & AI; he led a 30-person team.
-- The exact Statsig title is Principal Data Scientist and sole evangelist.
-- Statsig's acquisition by OpenAI does not mean Yuzheng joined OpenAI.
-- Keep Superlinear Academy, AI Builders, and Stay Superlinear distinct.
-- Do not turn changing prices, access rules, launch states, or community counts into durable personal facts.
-- Reach helps ideas travel; it is not proof that a judgment is correct.
+- Yuzheng is based in Seattle. His work, network, and former employers also give access to broader US and Chinese technology contexts; choose the geographic detail relevant to the story.
+- The canonical record is a PhD in Economics from Cornell. “Cornell-trained economist” is a reasonable informal description when the degree is not being presented as a job title or Cornell employment.
+- The official Tencent title is Vice Director, Data & AI, and the underlying responsibility included leading a 30-person team. Formal résumés, structured data, employment verification, and detailed factual profiles normally use the official title. Short Chinese social profiles, headlines, or spoken introductions may use the familiar compression “腾讯总监” when the exact rank is not the point and the wording does not enlarge the actual responsibility.
+- The official Statsig title is Principal Data Scientist and sole evangelist. Statsig was acquired by OpenAI in 2025 after Yuzheng had left. “OpenAI收购团队” is an effective compact expression of that company context; longer formats can name Statsig and use the chronology to tell the fuller experimentation and AI story. The hard boundary is not to create a materially different employment or acquisition role.
+- Only material presented as verbatim, or high-risk wording such as promises, disputes, legal or safety claims, normally requires word-for-word matching. Ordinary media quotations can remove fillers, repetition, or obvious grammatical slips and can be translated when meaning, tone, speaker, and attribution remain faithful. Mark meaningful excerpts, edits, or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.
+- Superlinear Academy, AI Builders, and Stay Superlinear have distinct product roles. Their relationship can be told together; retrieve current price, access, or launch details from each product owner when those details matter.
+- Reach helps ideas travel. Combine it with the content, people, projects, outcomes, or business context that best answers the audience's next question.
+
+## Machine Reasoning Support
+
+- Use record types to find the right material: facts for what happened, dated judgments for foresight and intellectual evolution, cases for vivid mechanisms and outcomes, quotations for voice and third-party perspective, theses for the current argument, and product owners for live commercial details.
+- Connect records across time. A strong output may pair an early prediction with what followed, a credential with a concrete decision, a member story with aggregate context, or a current thesis with the experiences that produced it.
+- Internal caveats are reasoning metadata, not copy that must appear on the surface. Translate them into audience-facing context only when omission would materially change the meaning.
+- Generate options and recommend among them. The system should expand memory and judgment, not substitute a compliance review for communication.
 
 ## Read Next
 

@@ -18,7 +18,7 @@ The shared project is:
 | Stay Superlinear | A paid ongoing environment for people already using AI and bringing professional experience; co-led with Yage |
 | Enterprise programs | Test and adapt the methods inside real workflows, goals, incentives, evaluation standards, and risk constraints |
 
-The stable sequence is:
+One recurring design loop is:
 
 ```text
 Research, operating work, conversations, and community experience
@@ -27,7 +27,7 @@ Research, operating work, conversations, and community experience
                               ↓
               Content makes it inspectable
                               ↓
-        Courses turn transferable parts into capability
+        Courses train the parts that may transfer
                               ↓
      Learners, members, and companies apply it in reality
                               ↓
@@ -36,17 +36,17 @@ Research, operating work, conversations, and community experience
        Books, tools, curriculum, and relationships remain
 ```
 
-This is not a funnel in which the free community exists only to sell a paid product. Each part should be useful on its own. The connection is that serious work produces better judgment, proof, relationships, and reusable assets for the next round.
+This is not a funnel in which the free community exists only to sell a paid product. Each part should be useful on its own. The loop is a design model: when serious work produces better judgment, evidence, relationships, or reusable assets, those outputs can strengthen the next round. It is not a claim that every activity completes the loop.
 
-## Three Sources Of Judgment
+## Three Recurring Sources Of Judgment
 
-The Superlinear learning environment is strongest when three perspectives meet:
+The Superlinear learning environment is designed to benefit when three perspectives meet:
 
 - Yage most often brings technical judgment: what is true, why it works or fails, and how to make it reliable.
 - Yuzheng most often brings value and reality judgment: what is worth doing, who will use it, what counts as useful, and what the next decision should be.
 - Learners and members bring first-hand knowledge from their industries, roles, products, users, failures, and results.
 
-These are emphases rather than fixed territories. All three should be able to challenge and correct one another.
+These are recurring emphases, not an exhaustive list of valuable perspectives or fixed job territories. The point is complementary correction, not requiring every situation to involve all three.
 
 ## How The Personal Site And GitHub Use This
 

@@ -1,17 +1,17 @@
 # Evidence Ledger
 
-This file separates proof from interpretation. It records what a claim demonstrates, where it can be checked, and which facts are likely to change.
+This file is a retrieval library for building stronger introductions, arguments, pitches, pages, and collaborations. It keeps useful facts, cases, quotations, dates, and sources close together so a writer or model can find the right combination without relying on Yuzheng's memory.
 
-- **Current as of:** 2026-07-25
+- **Current as of:** 2026-07-27
 - **Public profile:** [lizheng.ai](https://www.lizheng.ai/)
 
-## Evidence Principles
+## Evidence Selection
 
-- A title proves exposure to a kind of problem; a result or artifact proves what happened.
-- Dated judgment is stronger than a retrospective claim.
-- Serious peers, learners, and enterprise contexts often communicate more than follower count.
-- Changing metrics must keep an `as_of` date.
-- Do not combine every proof in one introduction. Select the evidence that answers the audience's question.
+- Start with the audience's question and the job of the surface, then retrieve the evidence that answers it most directly.
+- Titles compress operating context; dated judgments show intellectual timing and evolution; projects and cases make mechanisms and outcomes concrete; ratings and aggregates show scale or satisfaction; peers and enterprise contexts show who chose to engage.
+- Strong stories often combine two or three of these forms. There is no permanent proof hierarchy.
+- Keep source and `as_of` information here so audience-facing copy can be concise. Surface the date, basis, or limitation when it materially affects the reader's decision, not as a ritual disclaimer.
+- This library helps create options; it is not a permission gate on promotional expression.
 
 ## Identity And Career
 
@@ -22,9 +22,9 @@ This file separates proof from interpretation. It records what a claim demonstra
 | Data Scientist, Meta | Product analytics and decision work at scale | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
-| Statsig acquired by OpenAI in 2025 | Places the Statsig chapter in its current context | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) |
+| Statsig acquired by OpenAI in 2025, after Yuzheng had left | Places the later company event in context without implying Yuzheng joined OpenAI | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) |
 | Founder, Superlinear Academy and AI Builders | Current education, community, and AI system-building work | [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) |
-| Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20; [personal profile](https://www.lizheng.ai/zh/collab/creators) |
+| Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20 |
 
 ## Current Reach And Output
 
@@ -32,16 +32,16 @@ These numbers are useful but volatile.
 
 | Metric | Current value | As of | Best use | Source |
 |---|---:|---|---|---|
-| Cross-platform audience | 400K+ | 2026-07-12 | Reach after quality has been established | [Personal profile](https://www.lizheng.ai/) |
-| Paying learners | 3,000+ | 2026-07-12 | Education and implementation scale | [AI Builders](https://ai-builders.com/) |
-| Public conversations | 200+ | 2026-07-12 | Network and repeated world-model testing | [Guest archive](https://www.lizheng.ai/guests) |
-| Maven course rating | 5.0/5 from 81 ratings; 53 public named written reviews | 2026-07-27 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
+| Cross-platform followers | 400K+ | 2026-07-12 | Established audience and distribution potential; pair with platform or engagement detail when that matters | Owner-confirmed aggregation from platform dashboards |
+| Paying learners | 3,000+ | 2026-07-12 | Paid learning scale; pair with projects or learner stories for depth | [AI Builders](https://ai-builders.com/) |
+| Public conversations | 200+ | 2026-07-12 | A substantial body of public dialogue; selected guests and topics show its range | [Guest archive](https://www.lizheng.ai/guests) |
+| Maven course rating | 5.0/5 from 82 ratings; 54 public named written reviews | 2026-07-27 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
 | Selected AI Architect course projects | 55 | 2026-07-25 | Structured-course builder output | [AI Builders](https://ai-builders.com/) |
-| Public project posts in the free community | 600+ | 2026-07-08 | Builder output and community culture | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
+| Public project posts in the free community | 600+ | 2026-07-08 | Breadth of public building and project sharing | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
 | Comments on free-community project posts | Nearly 7,000 | 2026-07-08 | Density of feedback and discussion around real work | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
 | Free community members | 19,180 | 2026-07-16 | Scale of the free Superlinear Academy community; public wording may say “nearly 20,000” | Private Circle Admin count; [community](https://www.superlinear.academy/) |
 
-The audience composition matters more than the raw total: engineers, data scientists, founders, investors, operators, and technology leaders across China and the United States.
+Owner-confirmed platform dashboards indicate that the audience includes engineers, data scientists, founders, investors, operators, and technology leaders across China and the United States. Retrieve platform-level detail when a partnership or campaign depends on a more specific audience composition.
 
 ## Dated Judgment
 
@@ -79,11 +79,11 @@ Public claim: OpenClaw would not last, even though trying it was useful for unde
 
 **Source:** [Video](https://youtu.be/h_yCYBRzbVw)
 
-These examples should be presented as dated, inspectable reasoning. Avoid the vague label "visionary" and let the record do the work.
+These examples can support several stories: dated foresight, how a judgment was formed, or how a view changed as reality developed. A compressed surface may call the pattern visionary or unusually early; a longer one can let the dated record make that impression concrete.
 
 ## Conversations And Network Quality
 
-Yuzheng has hosted more than 200 conversations. The strongest signal is not the count alone but the range and quality of people willing to think in public with him.
+Yuzheng has hosted more than 200 conversations. The count establishes a substantial body of work; the range of selected guests, questions, and resulting content makes the network and intellectual context vivid.
 
 Selected examples:
 
@@ -106,7 +106,7 @@ The Significance Summit conversation with Acquired hosts Ben Gilbert and David R
 ### Scale and satisfaction
 
 - 3,000+ paying learners across AI, data, and growth.
-- 5.0/5 course rating on Maven from 81 ratings, with 53 public named written reviews.
+- 5.0/5 course rating on Maven from 82 ratings, with 54 public named written reviews.
 - Learners include engineers, data scientists, product leaders, designers, operators, and executives from major technology and financial companies.
 - The current AI Builders page features 55 selected AI Architect course projects.
 - More than 600 project posts have been shared in the free Superlinear Academy community, generating nearly 7,000 comments. This is a broader community corpus, not a count of paid-course projects.
@@ -126,13 +126,17 @@ One additional outcome is useful when the boundary is stated precisely: Marvin, 
 
 **Source:** [Maven reviews](https://maven.com/superlinear/aibuilders#reviews)
 
-### Community product proof
+### Community cases
 
-AgentKey used the community for an early launch. The recorded funnel was 60 visits, 48 activations, and 12 paid users. A 2026-07-04 check showed 28 likes and 51 comments on the project post. This is evidence of a small, dense network that provides feedback and adoption, not only passive reach.
+AgentKey used the community for an early launch. The recorded funnel was 60 visits, 48 activations, and 12 paid users. A 2026-07-04 check showed 28 likes and 51 comments on the project post.
+
+This is a compact story of dense early feedback, strong activation, and initial payment inside a relevant network. The author's `Atomic Network` framing and the technical discussion make it especially useful for explaining how a smaller, well-matched audience can help a product move. If the story needs a scale comparison, retrieve a same-basis Product Hunt or other launch benchmark.
 
 **Source:** [AgentKey project post](https://www.superlinear.academy/c/share-your-projects/agent-8f3386)
 
 Dymon Asia has posted multiple AI, quant, research, and data roles in the community. Jay Luo, President of Dymon Asia, wrote that students from the community would receive priority and that two community members had already joined the company. The screenshot is retained in the private proof archive; the public source points to the corresponding role.
+
+This is a concrete hiring story: a partner trusted the community enough to give members priority, and two members joined the company. It is useful when explaining the quality of professional connection the community can create. Pair it with additional hiring or collaboration cases when the story is about a broader pattern.
 
 **Source:** [Dymon Asia Forward Deployed Engineer role](https://www.superlinear.academy/c/collaborate/dymon-asia-capital-forward-deployed-engineer-fde)
 
@@ -140,7 +144,7 @@ Dymon Asia has posted multiple AI, quant, research, and data roles in the commun
 
 | Organization | Work | Public evidence |
 |---|---|---|
-| DoorDash | AI training at an Analytics team offsite in Seattle | Training photo and context on [lizheng.ai](https://www.lizheng.ai/) |
+| DoorDash | AI training at an Analytics team offsite in Seattle | Owner-confirmed; training photo retained in the private proof archive; no independent public source recorded |
 | Tencent | AI transformation session for R&D leaders; additional custom programs | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/3964350) |
 | Xiaohongshu | AI-era productivity for non-engineering roles | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/3990267) |
 | Meituan | User-to-Builder for technical and non-technical teams | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/4030640) |
@@ -210,18 +214,21 @@ Partner, ZhenFund
 
 > 立正是真正的 AI Native Pioneer——他用独特的思维框架，带领更多人在 AI 时代实现超线性成长。
 
-Use endorsements that resonate with the audience. The quote should confirm an already visible pattern, not carry the whole argument.
+Use endorsements that resonate with the audience. A recognizable quote can open with authority, confirm an already visible pattern, or carry a short format; when the argument needs more depth, retrieve the work, scene, or result that gives the endorsement texture.
 
-## Claim Boundaries
+## Expression And Retrieval Notes
 
 - Yuzheng is based in **Seattle**. Do not infer Silicon Valley or the San Francisco Bay Area as his residence from former employers, audience composition, guests, or professional network.
 - Say the ChatGPT essay was first written in **February 2023 before GPT-4**, not March 2023.
 - Describe MCP as a judgment about **major structural flaws and overstatement**, not merely a standards or ecosystem debate.
-- Distinguish the free [Superlinear Academy](https://www.superlinear.academy/) community from the paid [Stay Superlinear](https://staysuperlinear.com/) membership.
-- Use [staysuperlinear.com](https://staysuperlinear.com/) as the canonical membership URL. The Vercel deployment aliases are infrastructure details, not public canonical links.
-- Use `400K+`, `3,000+`, `200+`, `600+`, and “nearly 7,000” only with a current `as_of` date.
-- Do not present follower count as proof of technical judgment.
+- Distinguish the free [Superlinear Academy](https://www.superlinear.academy/) community from the paid [Stay Superlinear](https://stay.superlinear.academy/) membership.
+- Use [stay.superlinear.academy](https://stay.superlinear.academy/) as the canonical membership URL. `staysuperlinear.com` is a working legacy alias; Vercel deployment aliases are infrastructure details, not public canonical links.
+- The canonical Tencent record is “Vice Director, Data & AI, Tencent IEG,” with responsibility for a 30-person team. Use it in formal résumés, structured data, employment verification, and detailed factual profiles. A short social bio, headline, or spoken introduction may say “腾讯总监” when that familiar compression does not materially change what the audience needs to understand.
+- Statsig was acquired by OpenAI after Yuzheng had left. “OpenAI收购团队” is accepted shorthand for that company context in a compressed social profile; a detailed surface should name Statsig and preserve the chronology. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into “former OpenAI,” “OpenAI alum,” or a claim that he personally participated in, led, caused, or predicted the acquisition.
+- Only an endorsement labeled verbatim, or high-risk wording such as a promise, dispute, legal or safety claim, normally needs word-for-word matching. Ordinary media quotations can remove fillers, repetition, or obvious grammatical slips and can be translated when meaning and tone remain faithful. Mark meaningful edits or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.
+- Keep an `as_of` date in the formal ledger and data tables for `400K+`, `3,000+`, `200+`, `600+`, and “nearly 7,000.” On audience-facing surfaces, show the date or platform when omission would make scope or staleness materially misleading; a current rounded shorthand need not mechanically repeat the date in every headline, spoken intro, or short bio.
+- Use follower count for established audience and distribution; use dated judgments, technical work, peer context, or outcomes when the question is technical judgment.
 - Keep the two project corpora distinct: `55` means selected AI Architect course projects; `600+` means public project posts in the free community.
-- Do not say that every or most free-community project posts received instructor review unless a separate audit establishes it.
+- For a story about feedback quality, retrieve the actual reply, review, or follow-up rather than relying on the project-post count alone.
 - Describe AI Engineer Shanghai 2026 as an upcoming collaboration until the November 2026 event has taken place. Do not convert planned attendance, participant mix, speakers, or outcomes into completed facts.
 - Current safe wording is “working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026.” Use `co-organizer`, `China lead`, or `official representative` only after written title alignment.
