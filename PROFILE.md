@@ -26,7 +26,7 @@ The recurring question was never just, "What does the data say?" It was, "What w
 
 ### 2. Make models answer to product reality
 
-At Amazon and Meta, the work moved from theory toward decisions made inside large technology products. A model matters only when it changes a real choice. Analysis matters only when it survives the complexity of users, incentives, product constraints, and imperfect information.
+At Amazon and Meta, the work moved from theory toward decisions made inside large technology products. A model matters when it changes a real choice. Analysis matters when it survives the complexity of users, incentives, product constraints, and imperfect information.
 
 This is where data science became product judgment: not producing more dashboards, but finding the signal that changes allocation, prioritization, or design.
 
@@ -40,7 +40,7 @@ That experience remains central to his enterprise work. AI transformation is not
 
 At Statsig, Yuzheng worked as a principal data scientist and the company's sole evangelist. Experimentation made a long-running idea concrete: conviction is useful when it remains testable. Feature flags, metrics, experiments, and product analytics are not separate utilities; together they help a company update beliefs through reality.
 
-Statsig was acquired by OpenAI in 2025. The deeper relevance to Yuzheng's story is the same one that runs through his economics and product work: faster learning becomes an organizational advantage when it is built into infrastructure.
+Statsig was acquired by OpenAI in 2025. The deeper relevance of the Statsig chapter to Yuzheng's story is the same one that runs through his economics and product work: faster learning becomes an organizational advantage when it is built into infrastructure.
 
 ### 5. Use AI to move from understanding to building
 
@@ -74,7 +74,7 @@ Yuzheng's perspective comes from several combinations that rarely sit in one car
 - **Large companies and startups:** Amazon, Meta, Tencent, Statsig, and founder-led organizations.
 - **Technical systems and human systems:** models, experiments, agents, products, incentives, learning, community, and narrative.
 - **Private execution and public thinking:** dated public calls can be compared with what happened later.
-- **Reach and specific feedback:** As of July 2026, 400K+ followers matter, but 200+ public conversations, 3,000+ paying learners, course projects, hundreds of free-community project posts, and enterprise delivery say much more about how the work holds up.
+- **Reach and specific feedback:** As of July 2026, 400K+ followers give the work meaningful distribution, while 200+ public conversations, 3,000+ paying learners, course projects, hundreds of free-community project posts, and enterprise delivery add depth, specificity, and multiple forms of real-world contact.
 
 These combinations are more important than any single title. They make it possible to translate between researchers, builders, executives, learners, and organizations without reducing AI to either technical novelty or motivational advice.
 
@@ -107,7 +107,7 @@ These combinations are more important than any single title. They make it possib
 |---|---|---|
 | Personal website | Current public profile and selected work | [lizheng.ai](https://www.lizheng.ai/) |
 | Superlinear Academy | Free learning and builder community | [superlinear.academy](https://www.superlinear.academy/) |
-| Stay Superlinear | Paid ongoing membership and sustained learning environment | [staysuperlinear.com](https://staysuperlinear.com/) |
+| Stay Superlinear | Paid ongoing membership and sustained learning environment | [stay.superlinear.academy](https://stay.superlinear.academy/) |
 | AI Builders | Long-term AI learning system co-taught with Yage | [ai-builders.com](https://ai-builders.com/) |
 | Enterprise programs | AI transformation, workshops, and team systems | [corp-training.ai-builders.com](https://corp-training.ai-builders.com/) |
 | 课代表立正 | Public conversations and analysis | [YouTube](https://www.youtube.com/@kedaibiao) |
@@ -126,11 +126,11 @@ Figures below were last checked in July 2026.
 
 - Cornell PhD in Economics; former Amazon economist and Meta data scientist.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
-- Former principal data scientist and sole evangelist at Statsig, acquired by OpenAI in 2025.
+- Former principal data scientist and sole evangelist at Statsig; Statsig was acquired by OpenAI in 2025 after he had left.
 - Founder of Superlinear Academy and AI Builders.
-- 3,000+ paying learners; 5.0/5 course rating on Maven from 81 ratings.
+- 3,000+ paying learners; 5.0/5 course rating on Maven from 82 ratings.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
-- 400K+ cross-platform audience, with a strong concentration of technical and professional viewers across China and the United States.
+- 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.
 - 55 selected AI Architect course projects.
 - 600+ public project posts and nearly 7,000 project comments in the free Superlinear Academy community.
 - Enterprise work with teams including DoorDash, Tencent, Meituan, and Xiaohongshu.

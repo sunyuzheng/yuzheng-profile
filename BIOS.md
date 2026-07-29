@@ -1,12 +1,20 @@
 # Reusable Bios
 
-These are defaults, not locked scripts. Select the version that answers the audience's real question and remove facts that do not help. One coherent anchor is usually stronger than a complete credential list.
+These are starting points, not locked scripts. Retrieve and combine the version, facts, cases, and language that best answer the audience's real question. A coherent anchor often travels better than a complete credential list; a compact credential stack can be exactly right when fast authority is the job.
+
+Formal résumés, employment verification, structured data, and detailed factual profiles normally retain the official title and chronology. Social profiles, headlines, spoken introductions, and short bios can use familiar industry shorthand when it preserves the practical meaning. For example, `前腾讯总监` can compress the official `Vice Director, Data & AI` title, and `OpenAI收购团队` can describe the later Statsig context in a compact social profile. The hard boundary is creating a materially different responsibility, employer, or acquisition role—not ordinary editorial compression.
 
 ## Chinese
 
 ### One line
 
 孙煜征（课代表立正），康奈尔经济学博士，前 Amazon 经济学家、Meta 数据科学家，现主理 Superlinear Academy 与 AI Builders。
+
+### Social profile shorthand
+
+康奈尔经济博士｜前腾讯总监｜OpenAI收购团队
+
+这是适合空间很小、语境明确的传播表达，不是正式履历字段。需要展开时，写明他曾任腾讯IEG数据与AI副总监、Statsig Principal Data Scientist；Statsig后来被OpenAI收购。
 
 ### Short
 
@@ -20,11 +28,11 @@ These are defaults, not locked scripts. Select the version that answers the audi
 
 ### Full narrative
 
-孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 与 AI Builders 创始人，现居西雅图。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及 Statsig Principal Data Scientist、公司唯一布道师。Statsig 于 2025 年被 OpenAI 收购。
+孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 与 AI Builders 创始人，现居西雅图。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及后来被 OpenAI 收购的 Statsig 的 Principal Data Scientist、公司唯一布道师。
 
 这条经历背后的主线不是职位本身，而是同一个问题：一个判断如何尽早接触现实，接受用户、产品、实验与组织的检验和修正，最后沉淀成能够持续复利的系统。经济学让他追问因果和激励；大厂与管理经历让模型必须改变真实决策；Statsig 把快速学习变成产品基础设施；此后的课程、社区、企业项目、书和公开内容，则把个人能力变成更多人可以使用的系统。
 
-截至 2026 年 7 月，他通过「课代表立正」累计完成 200+ 场深度对话，全网关注 400K+；AI Builders 已服务 3,000+ 付费学员。他合著 *Growth Data Analytics Playbook*，著有《真本事：从会工作到会赚钱》。2023 年 2 月、GPT-4 发布前，他在《关于 ChatGPT 最重要的五个问题》中提前推演了推理成本下降、工具调用与 agent、个人记忆、private search、Copilot 和 AI-native 系统。
+截至 2026 年 7 月，他通过「课代表立正」累计完成 200+ 场公开对话，跨平台关注者合计 400K+；AI Builders 已服务 3,000+ 付费学员。他合著 *Growth Data Analytics Playbook*，著有《真本事：从会工作到会赚钱》。2023 年 2 月、GPT-4 发布前，他在《关于 ChatGPT 最重要的五个问题》中提前推演了推理成本下降、工具调用与 agent、个人记忆、private search、Copilot 和 AI-native 系统。
 
 今天，他主要借助 AI，帮助个人和组织把判断变成真正能用的能力、系统和长期资产：选对问题，真正行动，让结果进入现实反馈，再把有效的方法变成可以反复使用的工作流、产品和组织能力。
 
@@ -42,15 +50,15 @@ Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinea
 
 Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and founder of Superlinear Academy and AI Builders. His career spans Amazon, Meta, Tencent IEG, and Statsig, where he worked across economics, data science, product experimentation, AI leadership, and organizational learning.
 
-Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of July 2026, he has published 200+ conversations, reached a cross-platform audience of 400K+, and served 3,000+ paying learners. The question connecting his work is how judgment can meet reality early, learn from feedback, and become a system that other people can use.
+Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of July 2026, he has published 200+ public conversations, has a cross-platform following of 400K+, and has served 3,000+ paying learners. The question connecting his work is how judgment can meet reality early, learn from feedback, and become a system that other people can use.
 
 ### Full narrative
 
-Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and the founder of Superlinear Academy and AI Builders, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was acquired by OpenAI in 2025.
+Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and the founder of Superlinear Academy and AI Builders, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was later acquired by OpenAI.
 
 The throughline is not the list of companies. It is a recurring question: how does a good judgment meet reality early, learn from users, products, experiments, and organizations, and become a system that compounds? Economics trained him to ask about causality and incentives. Product and leadership roles made those models answer to real decisions. Statsig made rapid learning part of product infrastructure. His later courses, communities, enterprise programs, books, and public conversations turn private capability into systems other people can use.
 
-As of July 2026, Yuzheng has hosted 200+ in-depth conversations with researchers, founders, executives, investors, and operators, reached a 400K+ cross-platform audience, and served 3,000+ paying learners through AI Builders. He co-authored *Growth Data Analytics Playbook* and wrote *真本事：从会工作到会赚钱*. In February 2023, before GPT-4, his essay *The Five Most Important Questions About ChatGPT* anticipated collapsing inference costs, tool use and agents, persistent memory, private search, copilots, and AI-native systems.
+As of July 2026, Yuzheng has hosted 200+ public conversations with researchers, founders, executives, investors, and operators, has a cross-platform following of 400K+, and has served 3,000+ paying learners through AI Builders. He co-authored *Growth Data Analytics Playbook* and wrote *真本事：从会工作到会赚钱*. In February 2023, before GPT-4, his essay *The Five Most Important Questions About ChatGPT* anticipated collapsing inference costs, tool use and agents, persistent memory, private search, copilots, and AI-native systems.
 
 Today, most of that work happens through AI: helping people and organizations turn judgment into useful capability, real systems, and assets that compound by choosing consequential problems, acting, learning from reality, and turning what works into workflows, products, and organizational capability.
 
@@ -68,8 +76,8 @@ Lead with the February 2023 pre-GPT-4 essay, dated public AI calls, Statsig, pro
 
 ### Learning or community audience
 
-Lead with 3,000+ paying learners, 55 selected AI Architect course projects, the 5.0/5 Maven rating, and the 600+ public project posts in the free Superlinear Academy community. Keep the course and community corpora distinct. The relevant thesis is that judgment, capability, work, and relationships can compound when serious people remain in a strong environment; Stay Superlinear is the sustained membership expression of that idea.
+Lead with 3,000+ paying learners, 55 selected AI Architect course projects, the 5.0/5 Maven rating, and the 600+ public project posts in the free Superlinear Academy community. Keep the course and community corpora distinct in the underlying facts, then use the combination to tell the broader learning-and-building story. Member cases, project progress, and longitudinal records can add the human mechanism when the format has room.
 
 ### Media, speaker, or general audience
 
-Lead with the cross-domain career and the 200+ conversations. Use `400K+` as supporting reach evidence after establishing the quality of the work and audience.
+Lead with the cross-domain career and the 200+ public conversations. Use `400K+` when established audience and distribution make the opportunity easier to understand; selected guests, topics, and outcomes can add resolution.
