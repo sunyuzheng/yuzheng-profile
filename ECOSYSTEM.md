@@ -8,6 +8,8 @@ The shared project is:
 
 > Build better judgment, let it meet reality, teach what can be transferred, and preserve what works in systems that compound.
 
+Superlinear Academy compresses the aspiration behind this system into one English brand command: **MAKE WHAT LASTS.** Each product keeps its own concrete job; the command names the kind of work the system is built to support.
+
 | Part | Primary job |
 |---|---|
 | 课代表立正 content and conversations | Form and test views in public, connect people with different perspectives, and help useful judgment travel |

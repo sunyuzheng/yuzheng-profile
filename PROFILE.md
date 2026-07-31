@@ -64,6 +64,8 @@ The common idea is straightforward: form a judgment, put it to work, learn from 
 
 The name **Superlinear** describes what this can make possible over time: each useful step improves the next. The free community, structured courses, and paid membership play different roles; none is merely a funnel into another. The environment supports a member's own agency rather than promising an outcome.
 
+Its English brand command is **MAKE WHAT LASTS**: make work that remains useful after the first effort and continues to create value.
+
 ## Why This Perspective Is Unusual
 
 Yuzheng's perspective comes from several combinations that rarely sit in one career:
