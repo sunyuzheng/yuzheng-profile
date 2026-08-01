@@ -1,132 +1,125 @@
-# Working Theses
+# Defining Idea And Working Principles
 
-This is a map of Yuzheng's current thinking, not a list of facts or commandments. Each section is a thesis or default lens; its scope, exceptions, and update conditions travel with it. Dated views preserve what was claimed at the time rather than certifying a current belief.
+This file owns Yuzheng's durable public belief and the practical principles beneath it. It deliberately separates four kinds of statement that used to be mixed together:
 
-## The Integrating Thesis
+- a **defining belief** says what kind of work and life Yuzheng wants to stand for;
+- a **practice principle** helps him pursue that belief without pretending to be a universal law;
+- a **dated hypothesis** is a claim about a particular technological or business moment and must remain open to revision;
+- a **product purpose or fact** belongs to the relevant product owner and must be judged by what the product actually delivers.
 
-> I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.
+The first two live here. Dated hypotheses and public predictions live in [DATED_VIEWS.md](DATED_VIEWS.md) and the evidence ledger. Current product relationships live in [ECOSYSTEM.md](ECOSYSTEM.md).
 
-> 我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。
+## The Defining Idea
 
-This thesis has three movements:
+> **MAKE WHAT LASTS.**
+>
+> **做出你的代表作。**
 
-1. **Judgment:** build a better causal model, not merely a larger collection of information.
-2. **Reality:** make the view testable through products, users, experiments, organizations, and public commitments.
-3. **Compounding systems:** preserve what works in products, workflows, courses, communities, institutions, and reusable assets.
+This is the one defining idea behind Yuzheng's public work and Superlinear Academy:
 
-The sequence matters. A system that compounds the wrong judgment is dangerous; judgment that never meets reality is decorative; a useful insight that never becomes reusable remains small.
+> A person should have the chance to make work that keeps creating value after the first effort and bears the mark of the maker's distinctive judgment and craft.
 
-## 1. Better world models are often a high-leverage asset
+> 一个人应该有机会把自己的判断和本事，做成在第一次投入后仍继续创造价值、也清楚承载自己独特判断与手艺的作品。
 
-When a decision depends on causality, uncertainty, or second-order effects, more information alone is often not enough. A useful causal model explains why something happens, what would change it, and where a decision can intervene.
+The English and Chinese lines enter the same belief from different sides. `MAKE WHAT LASTS` asks whether the work keeps working after the first effort. `做出你的代表作` asks whether it becomes distinctly yours: work that carries your judgment and craft, and that you are willing to put your name behind. If it keeps creating value, it may also return deeper capability, reputation, income, freedom, recognition, or a more ambitious next move. Those are desired returns, not part of the definition and not outcomes a slogan can promise.
 
-This is why Yuzheng often moves past tool lists and asks about incentives, constraints, counterfactuals, and second-order effects. A better world model does not guarantee a good outcome, but it can improve decisions whose quality depends on that model.
+`Lasts` does not mean immortal, unchanging, famous, or infinitely scalable. A lasting work can be a product, company, research program, method, system, course, book, film, craft, institution, or an entire body of work. It may be made by a team. It may keep changing in order to remain useful. The phrase is an aspiration and a standard of judgment, not a promise that every worthy effort will endure or make its author successful.
 
-**In practice:** economics, product analytics, growth accounting, AI strategy, and career decisions are all attempts to improve the model behind action.
+Some work is valuable precisely because it answers a moment and then disappears. Care, repair, service, exploration, and necessary execution do not become lesser merely because they leave no durable asset. The belief asks a narrower, more personal question: **across a life, will some of your best judgment and craft take a form that keeps serving others and remains recognizably yours?**
 
-## 2. Conviction should be strong enough to test and weak enough to update
+The enemy is therefore not AI, speed, employment, or work done for other people. It is the default pattern of spending a life only completing tasks that reset tomorrow—becoming more efficient without developing authorship, mastery, accumulated choice, or work one is proud to be represented by.
 
-Vague opinions protect the speaker but do little work. A useful view should make assumptions visible, generate predictions, and create a next action. At the same time, the goal is not to win an argument; it is to move closer to reality.
+## What The Idea Asks Of The Work
 
-"Strong opinions, weakly held" therefore means more than changing one's mind casually. It means constructing the strongest opposing case, looking for disconfirming evidence, and updating without losing the ability to act.
+Four qualities give the phrase substance. None is sufficient on its own, and they do not form a guaranteed recipe.
 
-**In practice:** dated public calls, A/B testing, project reviews, and live community discussion all create accountability for judgment.
+### 1. Choose something worth the effort
 
-## 3. AI often moves some scarcity upward
+The work should matter to a real person or a real field, and the maker should be able to say what better would mean. Causal models, incentives, constraints, counterfactuals, domain experience, and taste can all improve the choice. They do not remove uncertainty, and rejecting consensus is not automatically courageous or correct.
 
-As models make some code, content, research, and execution cheaper, advantage can move toward layers that remain scarce:
+### 2. Make it good enough to stand
 
-- choosing a consequential problem;
-- understanding the user and the system around the problem;
-- architecture and context design;
-- evaluation, taste, and judgment;
-- distribution, trust, and access to opportunity;
-- the ability to integrate new capability into an organization.
+A worthwhile direction is only a beginning. Craft, technical depth, taste, patience, repeated revision, and the endurance to solve the unglamorous problems are what turn an intention into work. `做出` matters: the standard is not merely to understand, comment on, or announce the idea, but to bring it into a form that can carry weight outside the maker's head.
 
-The practical implication is not that tools do not matter. It is that tutorials expire faster than the judgment required to choose and combine tools.
+### 3. Let reality have a vote
 
-A public shorthand for this shift is:
+A view should become specific enough for users, constraints, consequences, experiments, peers, or an organization to challenge it. Feedback does not automatically make a judgment true; metrics can be wrong, users can disagree, and popularity can reward bad work. The discipline is to make the work answerable to evidence outside the maker's self-image and to remain able to revise it.
 
-> **AI越会做题，人越要会出题。**
+### 4. Preserve what has earned the right to remain
 
-Here, “出题” is not prompt craft, and it is not a claim that AI cannot suggest or refine questions. It means deciding what is worth doing, for whom, what would count as useful, and who is responsible for the choice and its consequences. AI can help frame questions, generate answers, and evaluate outputs, but neither a model nor its answer can certify usefulness on its own. The result must still meet users, organizations, and reality.
+When a result has proved useful and is worth reusing, leave it in a form that can keep working: a product, capability, tool, body of knowledge, relationship, institution, or other durable artifact. Not everything should become a system. Assets decay, institutions drift, and a system can compound error as easily as value. Preservation follows judgment; it does not replace it.
 
-## 4. One durable progression is from user to builder to architect
+Healthy lasting work can create a two-way return: it continues to solve something for other people, and some of that earned value can return to its maker as deeper capability, trust, income, freedom, recognition, or a more ambitious next move. Recognition is part of the aspiration, not an embarrassment to hide; it must be earned by the work rather than manufactured in place of it.
 
-Using a new tool can create immediate productivity. Building a workflow or product can leave behind a reusable asset. Designing the context, evaluation, interfaces, and feedback loops behind many workflows moves the work toward architecture.
+## The Practice: See, Make, Meet Reality, Leave Something Behind
 
-This progression does not require everyone to become a traditional software engineer. As AI lowers the cost of some kinds of building, problem selection and system design often account for more of the remaining difference.
+The compact Chinese form is:
 
-**In practice:** AI Builders, co-taught with Yage, trains a repeatable loop: choose a real problem, define the useful result, let AI act, inspect and correct the output, and leave behind a workflow, artifact, or system. Enterprise programs focus on operating models; public content tries to explain the model behind the tool.
+> **看准 → 做成 → 交给现实 → 留下**
 
-## 5. Compounding comes from systems, not intensity alone
+English companion:
 
-Effort is linear when the output disappears after it is spent. It becomes superlinear when it improves an asset that keeps producing: a product, audience, reputation, curriculum, codebase, community, distribution channel, or decision process.
+> **Choose with judgment → make with craft → let reality answer → preserve what proves valuable**
 
-Consistency matters partly because it lowers variance and gives feedback enough time to accumulate. Focus matters because compounding is weakened when attention is repeatedly reset.
+This is an iterative practice, not a four-stage factory line. Making reveals what the original choice missed. Reality can send the work back for another round of craft or change the problem entirely. What should be preserved often becomes visible only after repeated use.
 
-This is what the name **Superlinear** is meant to hold. It does not mean moving faster at every moment or promising a dramatic leap. It names the transition from linear effort to compounding growth: today's judgment, capability, work, and relationships improve the odds, range, and leverage of tomorrow's next step. One correct move solves one problem; a compounding system changes the trajectory of the moves that follow.
+- **看准 / choose with judgment:** ask what is worth doing, for whom, under which constraints, and what would count as useful. A better world model is one tool here, especially when causes, incentives, and second-order effects matter.
+- **做成 / make with craft:** use technical skill, taste, patience, and repeated problem-solving to make the result actually work. This is the layer the earlier `judgment → reality → compounding` language underweighted.
+- **交给现实 / let reality answer:** state the important assumptions clearly enough to be challenged, expose the work to real use and consequences, and allow better evidence to change the view. `Strong opinions, weakly held` is one possible discussion habit, not a universal rule or a personality test.
+- **留下 / preserve what proves valuable:** when it is worthwhile, turn the useful parts into work, knowledge, systems, or relationships that reduce the cost or increase the range of the next move.
 
-Superlinear Academy expresses this aspiration through two brand commands: **MAKE WHAT LASTS.** in English and **做出你的代表作。** in Chinese. They are not literal translations. The English line emphasizes work that keeps creating value; the Chinese line emphasizes making something distinctly yours that earns lasting recognition and continues to represent and reward its maker. Both point to the same loop: the work compounds in the world and for the person who made it. They do not replace the more specific promises made by a course, community, or membership.
+The earlier line—`judgment meeting reality early, and systems that compound`—still describes an important part of this practice. It no longer carries the whole philosophy. Judgment without craft remains an opinion; craft without judgment can perfect the wrong thing; reality without interpretation becomes noise; preservation without continued responsibility can fossilize or amplify mistakes.
 
-**In practice:** books preserve ideas, courses preserve teaching, communities preserve relationships and feedback, and AI workflows preserve repeated cognition.
+## The Kind Of Person This Honors
 
-## 6. AI-native work can spend computation and conserve human cognition
+The people Yuzheng repeatedly returns to—Steve Jobs, Lionel Messi, Warren Buffett, Christopher Nolan, Geoffrey Hinton, Tsunekazu Nishioka, and others—worked in radically different media. They are not proof of a theory, and the brand does not borrow their fame as an endorsement.
 
-Where cost, latency, privacy, and environmental constraints permit, abundant machine effort can absorb more search, drafting, coding, comparison, and repetition. Human attention is then better spent on problem definition, architecture, evaluation, taste, and responsibility.
+What makes them emotionally relevant is a recognizable pattern: a distinctive standard, years of craft and persistence, resistance and revision, a body of work that entered the world, and recognition eventually earned through that work. Their work became difficult to separate from their names and continued to create value, meaning, or possibility after the first performance or release.
 
-This is not an argument for unstructured automation. The more code and content a system can generate, the more important context, interfaces, tests, observability, and durable specifications become.
+The aspiration includes success and recognition. It is not merely to be morally diligent or useful in obscurity. But fame is neither the definition nor a reliable verdict: popular work can be shallow, and important work can remain under-recognized. The standard is a work whose value, authorship, and continued life reinforce one another.
 
-**In practice:** use AI generously at the execution layer while becoming more rigorous at the architecture and judgment layers.
+## Why Superlinear Exists
 
-## 7. Environment can change the slope of a person's growth
+Superlinear is Yuzheng's defining work in progress and the institution he is building around this belief. It has two responsibilities at once:
 
-People do not develop in isolation. Talent density, information density, discussion quality, and the frequency of serious action can shape what feels normal and what becomes possible. Environments can also exclude, distract, or harm; the direction and size of the effect depend on fit, safety, power, and a person's constraints.
+1. to embody the standard in its own teaching, products, community, design, and operating choices;
+2. to make it more possible for other people to pursue work of their own through understanding, practice, high-quality content, feedback, peers, and opportunities.
 
-This is the deeper reason for Superlinear Academy and Stay Superlinear. A good community is not an audience waiting for wisdom. It is a peer lab in which people show unfinished work, compare methods, challenge judgment, help one another, and create opportunities. It lets serious people work without having to perform success.
+The institution cannot make anyone's defining work on their behalf, and joining it is not a guarantee of transformation. Its purpose is to improve the environment in which serious work is chosen, made, tested, and sustained. The free community, AI Builders, the membership, enterprise programs, books, content, and tools each take responsibility for a different part of that environment; [ECOSYSTEM.md](ECOSYSTEM.md) owns the current relationship.
 
-AI may be a second Renaissance in the sense that a new representational and productive medium is arriving. For work that benefits from peer feedback, participation in a well-fit environment can complement solitary learning and sometimes accelerate judgment and action.
+Yage is an important long-term teaching partner and technical authority whose research and engineering judgment make the educational work substantially deeper. Learners and members remain the protagonists. What they understand, decide, make, and become able to do offers especially important evidence of whether the institution is useful; some of their work may also earn reasons to remain.
 
-Today, this idea appears in three different forms: a free community, concentrated courses, and a paid ongoing membership. Their roles should remain distinct; the current relationship lives in [ECOSYSTEM.md](ECOSYSTEM.md), not in this durable thesis.
+## Working Principles That Remain Useful
 
-The environment is a multiplier, not the owner of a member's growth. It should reduce the repeated cost of sorting noise, rebuilding context, finding serious feedback, and reaching the right people. Its value should come from accumulated work and relationships, never from implying that a member cannot progress alone.
+The following are supporting lenses, not additional brand pillars:
 
-## 8. Distribution and narrative are part of building
+- In consequential decisions with complex causality, inspect assumptions, incentives, constraints, and second-order effects instead of equating more information with better judgment.
+- Make important views specific enough to be challenged, and allow evidence to change them. Debate, experiments, and community discussion are possible tools; none automatically produces truth.
+- Prefer work that can improve the next move when the activity and conditions genuinely allow accumulation. Do not treat every meaningful act as an asset, every reusable artifact as compounding, or focus as universally superior to exploration and risk diversification.
+- For work whose value depends on adoption, building includes helping the right people encounter, understand, use, and evaluate it. Narrative and distribution are interfaces to value, not substitutes for it.
+- People are shaped by the standards, questions, information, and relationships around them. A good environment can widen possibility, but it does not own a person's growth and should not imply dependence.
 
-A good product that no one encounters cannot create much value. Distribution is not a cosmetic layer added after the work; it affects which problems are worth solving, how trust forms, and whether an asset compounds.
+## What Is Deliberately Not A Timeless Thesis
 
-Narrative is valuable when it compresses real structure and helps other people see why something matters. It becomes harmful when it substitutes status language for evidence.
+Several ideas remain useful in their proper contexts but no longer belong in the durable personal philosophy:
 
-**In practice:** demonstrate capability through dated judgments, serious peers, products, outcomes, and scenes. Let the audience infer the conclusion rather than announcing it.
+- `User → Builder → Architect` is not a universal human or career ladder. For people seeking more agency in some kinds of knowledge and software work, turning tool use into workflows, products, or assets they can own may be one valuable path.
+- “AI moves scarcity upward” is too mechanical as a general law. AI is reducing some execution costs and changing complementary bottlenecks; the direction and magnitude depend on the task, demand, reliability, integration, and market structure.
+- “Spend computation to conserve human cognition” is a conditional operating heuristic. Machine generation can also increase review, integration, security, and maintenance burdens.
+- The capability / workflow / evaluation / ownership model is a useful enterprise diagnostic, not a universal law of organizational transformation.
+- “A second Renaissance” is an evocative analogy, not an established forecast or a durable description of the community.
 
-## 9. Lasting AI transformation often becomes an organizational redesign problem
+These claims can still guide content, courses, experiments, or enterprise work when their scope and date are explicit. See [DATED_VIEWS.md](DATED_VIEWS.md).
 
-Many AI adoption efforts stall after the first demos. The limiting factor is often no longer exposure to prompts, but whether useful experiments become shared workflows, evaluation is credible, incentives support the change, and someone owns the operating model. In a small team or a narrow workflow, the necessary redesign may be light; in a larger organization, it is usually substantial.
+## How This System Changes
 
-Real transformation connects four layers:
+| Statement type | Test | Update rhythm | Owner |
+|---|---|---|---|
+| Defining belief | Does it still name the life, work, and aspiration Yuzheng is willing to represent? | Slowly, with strong reason | This file |
+| Practice principle | Does it improve action in the stated conditions without pretending to be universal? | When experience or counterexamples demand it | This file and the axiom archive |
+| Dated hypothesis | What was claimed, in which context, what happened next, and what would change the view? | Preserved historically; current status updated | [DATED_VIEWS.md](DATED_VIEWS.md) and evidence records |
+| Product purpose or fact | What does the product currently promise, deliver, and prove? | Whenever the product changes | The relevant product repository |
 
-- capability: what the models can now do;
-- workflow: where that capability changes real work;
-- evaluation: how quality, risk, and improvement are measured;
-- organization: who decides, owns, learns, and scales.
+New language is welcome when it makes the same structure clearer. No lower-level phrase should be promoted into a second identity merely because it is memorable. The durable center remains:
 
-For organizational transformation, training is most useful when it helps change this system rather than ending at temporary excitement.
-
-## Current Dated Views
-
-These are examples of public, falsifiable judgments rather than permanent identity claims:
-
-- **2023.02:** ChatGPT represented a new natural-language interface to data and computation; the essay anticipated tool use, agents, memory, private search, copilots, and AI-native systems before GPT-4.
-- **2025.01:** Agentic AI was the most important near-term shift, with a meaningful 10–18 month opportunity window.
-- **2025.03:** MCP had major structural flaws, and market enthusiasm exceeded what the protocol could reliably deliver.
-- **2026.03:** OpenClaw would not last as a product category, even though trying it was useful for understanding the underlying capability shift.
-
-These bullets preserve what was claimed at the time; they do not certify that every word remains the current view. The point is not to build a mythology of being right, but to make the reasoning inspectable and preserve the cost of being wrong.
-
-## How These Theses Can Change
-
-- Core ideas should change slowly and only with strong evidence.
-- Topical AI judgments should retain their date and original context.
-- New language is welcome when it explains the same structure more clearly.
-- No thesis should be applied mechanically when the situation has different constraints.
-- The deeper axiom archive is research material, not a mandatory prompt for every piece of writing.
+> **MAKE WHAT LASTS. / 做出你的代表作。**

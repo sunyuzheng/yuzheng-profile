@@ -2,7 +2,7 @@
 
 This file is a retrieval library for building stronger introductions, arguments, pitches, pages, and collaborations. It keeps useful facts, cases, quotations, dates, and sources close together so a writer or model can find the right combination without relying on Yuzheng's memory.
 
-- **Current as of:** 2026-07-27
+- **Current as of:** 2026-07-30
 - **Public profile:** [lizheng.ai](https://www.lizheng.ai/)
 
 ## Evidence Selection
@@ -22,7 +22,7 @@ This file is a retrieval library for building stronger introductions, arguments,
 | Data Scientist, Meta | Product analytics and decision work at scale | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
-| Statsig acquired by OpenAI in 2025, after Yuzheng had left | Places the later company event in context without implying Yuzheng joined OpenAI | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) |
+| Statsig acquired by OpenAI in 2025, after Yuzheng had left | Places the later company event in context without implying Yuzheng joined OpenAI | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) · [Statsig 2025 recap](https://www.statsig.com/blog/statsig-2025-recap) |
 | Founder, Superlinear Academy and AI Builders | Current education, community, and AI system-building work | [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) |
 | Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20 |
 
@@ -39,7 +39,7 @@ These numbers are useful but volatile.
 | Selected AI Architect course projects | 55 | 2026-07-25 | Structured-course builder output | [AI Builders](https://ai-builders.com/) |
 | Public project posts in the free community | 600+ | 2026-07-08 | Breadth of public building and project sharing | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
 | Comments on free-community project posts | Nearly 7,000 | 2026-07-08 | Density of feedback and discussion around real work | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
-| Free community members | 19,180 | 2026-07-16 | Scale of the free Superlinear Academy community; public wording may say “nearly 20,000” | Private Circle Admin count; [community](https://www.superlinear.academy/) |
+| Free community members who completed profile setup | 20,202 | 2026-07-30 | Scale of the free Superlinear Academy community; public wording may say “20,000+.” Circle's `active` status means profile setup is complete, not that a member is behaviorally active. Do not present this as paid Stay membership. | Circle Admin API `list_community_members(status=active)`; [community](https://www.superlinear.academy/) |
 
 Owner-confirmed platform dashboards indicate that the audience includes engineers, data scientists, founders, investors, operators, and technology leaders across China and the United States. Retrieve platform-level detail when a partnership or campaign depends on a more specific audience composition.
 
@@ -89,7 +89,7 @@ Selected examples:
 
 | Guest | Context | Source |
 |---|---|---|
-| Yangqing Jia | PyTorch co-creator; founder of Lepton AI | [Conversation](https://www.youtube.com/watch?v=Lt-lVe957hc) |
+| Yangqing Jia | Co-lead of PyTorch 1.0; creator of Caffe/Caffe2; co-creator of ONNX; founder of Lepton AI | [Personal bio](https://daggerfs.com/) · [Conversation](https://www.youtube.com/watch?v=Lt-lVe957hc) |
 | Tian Yuandong | AI researcher; former Meta AI / FAIR | [Conversation](https://youtu.be/dymM40bVIhQ) |
 | Howie Xu | Chief AI Officer, Gen; Stanford GSB guest lecturer | [Conversation](https://youtu.be/R8X4ClBY5tg) |
 | Yang Ying / 屠龙大实话 | Neuroscience PhD and serial entrepreneur | [Conversation](https://youtu.be/vd_oYgwQSBM) |
@@ -226,7 +226,7 @@ Use endorsements that resonate with the audience. A recognizable quote can open 
 - The canonical Tencent record is “Vice Director, Data & AI, Tencent IEG,” with responsibility for a 30-person team. Use it in formal résumés, structured data, employment verification, and detailed factual profiles. A short social bio, headline, or spoken introduction may say “腾讯总监” when that familiar compression does not materially change what the audience needs to understand.
 - Statsig was acquired by OpenAI after Yuzheng had left. “OpenAI收购团队” is accepted shorthand for that company context in a compressed social profile; a detailed surface should name Statsig and preserve the chronology. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into “former OpenAI,” “OpenAI alum,” or a claim that he personally participated in, led, caused, or predicted the acquisition.
 - Only an endorsement labeled verbatim, or high-risk wording such as a promise, dispute, legal or safety claim, normally needs word-for-word matching. Ordinary media quotations can remove fillers, repetition, or obvious grammatical slips and can be translated when meaning and tone remain faithful. Mark meaningful edits or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.
-- Keep an `as_of` date in the formal ledger and data tables for `400K+`, `3,000+`, `200+`, `600+`, and “nearly 7,000.” On audience-facing surfaces, show the date or platform when omission would make scope or staleness materially misleading; a current rounded shorthand need not mechanically repeat the date in every headline, spoken intro, or short bio.
+- Keep an `as_of` date in the formal ledger and data tables for `400K+`, `3,000+`, `200+`, `20,000+`, `600+`, and “nearly 7,000.” On audience-facing surfaces, show the date or platform when omission would make scope or staleness materially misleading; a current rounded shorthand need not mechanically repeat the date in every headline, spoken intro, or short bio.
 - Use follower count for established audience and distribution; use dated judgments, technical work, peer context, or outcomes when the question is technical judgment.
 - Keep the two project corpora distinct: `55` means selected AI Architect course projects; `600+` means public project posts in the free community.
 - For a story about feedback quality, retrieve the actual reply, review, or follow-up rather than relying on the project-post count alone.

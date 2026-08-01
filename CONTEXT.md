@@ -6,32 +6,36 @@
 
 Yuzheng Sun（孙煜征，课代表立正）has a PhD in Economics from Cornell and has worked across Amazon, Meta, Tencent IEG, and Statsig. He is based in Seattle and now builds courses, communities, enterprise programs, books, public conversations, and tools.
 
-The work looks broad, but the same question keeps returning:
+The work looks broad, but it is organized around one defining idea:
 
-> How does a judgment meet reality early, learn from feedback, and become a system other people can use?
+> **MAKE WHAT LASTS.**
 
-> 一个判断怎样尽早进入现实，被反馈修正，再变成别人也能使用、能够持续复利的系统？
+> **做出你的代表作。**
 
-AI is where most of this work happens today. It is not the whole identity.
+Yuzheng believes a person should have the chance to make work that keeps creating value after the first effort and clearly carries the maker's distinctive judgment and craft. Such work may also enlarge capability, reputation, freedom, and the next opportunity, but those are hoped-for returns rather than its definition. AI is where much of this work happens today; it is a powerful medium, not the identity itself.
 
-## The Throughline
+## The Method Beneath The Idea
 
-> I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.
+> **看准 → 做成 → 交给现实 → 留下**
 
-> 我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。
+> **Choose with judgment → make with craft → let reality answer → preserve what proves valuable**
 
-In the AI era, the public shorthand is:
+This is an iterative practice, not a guaranteed pipeline. Making can change the original judgment; reality can send the work back for another round; and not every valuable act should become a durable asset.
+
+In the AI era, one useful content shorthand is:
 
 > **AI越会做题，人越要会出题。**
 
 “出题” does not mean writing a better prompt or claiming that AI cannot propose questions. It means deciding what is worth doing, for whom, what counts as useful, and who owns the consequences. AI can help define the problem and make the answer; the answer still has to meet users, organizations, and reality.
 
-In practice, that means:
+In practice, making what lasts usually means:
 
-1. understand the causes, incentives, and constraints behind a problem;
-2. decide what is worth doing, for whom, and what a useful result would be;
-3. put the view in contact with users, products, experiments, organizations, or public disagreement;
-4. keep what survives as capability, a workflow, a product, curriculum, code, relationships, or another reusable asset.
+1. choose what is worth doing, for whom, under which constraints, and what would count as useful;
+2. use technical depth, taste, patience, and repeated revision to make it actually work;
+3. expose the work to users, consequences, experiments, peers, organizations, or other evidence outside the maker's self-image;
+4. when it is worthwhile, preserve what proves valuable as capability, a workflow, a product, curriculum, code, relationships, or another reusable form.
+
+Judgment meeting reality early and becoming a compounding system remains an important part of this method. It no longer carries the whole philosophy: judgment without craft is still an opinion, and preservation without continued responsibility can compound mistakes as easily as value.
 
 ## What Is Unusual
 
@@ -46,30 +50,28 @@ No single credential explains Yuzheng's perspective. The useful combination is:
 
 A concise description is:
 
-> an economist-turned-operator and system builder who turns judgment into useful capability, real systems, and assets that compound.
+> a founder and builder who turns judgment and craft into products, systems, and institutions that can keep creating value.
 
 ## How The Current Work Fits
 
 | Part | Role |
 |---|---|
-| Public content and conversations | Develop and test views in public; bring together people with different perspectives; help useful ideas travel |
+| Public content and conversations | Name consequential questions, show the standards behind the work, and attract people who want to make work of their own |
 | Books and public tools | Preserve ideas and selected working systems so others can inspect them and, where licensed, use them |
 | AI Builders | With Yage, teach AI principles, building methods, and judgment through work on real problems |
-| Superlinear Academy | A free community where projects, specific questions, first-hand experience, feedback, and opportunities circulate |
-| Stay Superlinear | A paid ongoing environment, co-led with Yage, organized around members' current questions and work |
+| Superlinear Academy | The institution Yuzheng is building around this belief; its free community lets projects, questions, experience, feedback, and opportunities circulate |
+| Stay Superlinear | The paid ongoing membership within that institution, organized around high-value content, expert judgment, activities, tools, and a sustained environment |
 | Enterprise programs | Apply the same methods inside real workflows, incentives, risks, and organizational constraints |
 
 The parts reinforce one another, but each should create value on its own. See [ECOSYSTEM.md](ECOSYSTEM.md) for the fuller relationship.
 
-## Yuzheng, Yage, And The Community
+## Founder, Teaching Partner, And Community
 
-The partnership should remain visible.
+- **Yuzheng** is the founder, author, and public steward of the defining idea. Superlinear is the defining work he is pursuing through long-term practice and the institution through which he is making that idea usable by others.
+- **Yage** is an important long-term teaching partner and technical authority. His research and engineering judgment give AI Builders, Knowledge Bank, and membership content unusual technical depth.
+- **Learners and members** are the protagonists of their own work. They bring realities neither founder nor teacher can own alone: different industries, users, constraints, failures, and results.
 
-- Yuzheng most often contributes judgment about what is worth doing, who it is for, what would count as useful, and which decision matters next.
-- Yage most often contributes technical judgment about why a system works or fails, where its limits are, and how to make it reliable.
-- Learners and members bring realities neither instructor can own alone: different industries, users, constraints, failures, and results.
-
-These are complementary emphases, not rigid boundaries. The shared method is to make a view clear, act on it, inspect the result, and update.
+These roles reinforce one another without being interchangeable. The founder gives the institution a belief and standard; collaborators make its products deeper; members' work and real outcomes provide essential evidence that the belief is becoming credible.
 
 ## Expression And Retrieval Toolkit
 
@@ -79,7 +81,7 @@ These are complementary emphases, not rigid boundaries. The shared method is to 
 - The official Statsig title is Principal Data Scientist and sole evangelist. Statsig was acquired by OpenAI in 2025 after Yuzheng had left. “OpenAI收购团队” is an effective compact expression of that company context; longer formats can name Statsig and use the chronology to tell the fuller experimentation and AI story. The hard boundary is not to create a materially different employment or acquisition role.
 - Only material presented as verbatim, or high-risk wording such as promises, disputes, legal or safety claims, normally requires word-for-word matching. Ordinary media quotations can remove fillers, repetition, or obvious grammatical slips and can be translated when meaning, tone, speaker, and attribution remain faithful. Mark meaningful excerpts, edits, or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.
 - Superlinear Academy, AI Builders, and Stay Superlinear have distinct product roles. Their relationship can be told together; retrieve current price, access, or launch details from each product owner when those details matter.
-- `MAKE WHAT LASTS / 做出你的代表作` are Superlinear Academy's confirmed English and Chinese brand commands. They are not literal translations: English emphasizes work that keeps working, while Chinese emphasizes authorship, excellence, and a work that continues to represent and reward its maker. They name the parent-brand aspiration; they do not mechanically replace product-specific headlines or Yuzheng's personal public thesis.
+- `MAKE WHAT LASTS / 做出你的代表作` are the shared defining idea for Yuzheng and Superlinear. They are not literal translations: English emphasizes work that keeps working, while Chinese emphasizes authorship, excellence, and work that clearly carries the maker's judgment and craft. Such work may later represent and reward its maker, but that is a possible return rather than the definition. Product-specific headlines still explain what a course, community, membership, or enterprise program concretely delivers.
 - Reach helps ideas travel. Combine it with the content, people, projects, outcomes, or business context that best answers the audience's next question.
 
 ## Machine Reasoning Support
@@ -94,7 +96,8 @@ These are complementary emphases, not rigid boundaries. The shared method is to 
 | Need | File |
 |---|---|
 | Full career story | [PROFILE.md](PROFILE.md) |
-| Working ideas | [THESIS.md](THESIS.md) |
+| Durable belief and practice principles | [THESIS.md](THESIS.md) |
+| Dated AI and business hypotheses | [DATED_VIEWS.md](DATED_VIEWS.md) |
 | Relationship between the work | [ECOSYSTEM.md](ECOSYSTEM.md) |
 | Ready-to-use introductions | [BIOS.md](BIOS.md) |
 | Claims, dates, evidence, and wording boundaries | [EVIDENCE.md](EVIDENCE.md) and [facts.json](facts.json) |

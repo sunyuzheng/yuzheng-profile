@@ -1,11 +1,11 @@
 {
   "meta": {
     "title": "Yuzheng Sun / 课代表立正 public profile facts",
-    "as_of": "2026-07-29",
+    "as_of": "2026-08-01",
     "scope": "Public, reusable records. Identity, career, metrics, current work, initiatives, books, and links are factual or current-state records; dated_judgments preserve claims made at the time; endorsements are third-party quotations; outcomes are bounded case records. Volatile metrics require date checks.",
     "canonical_profile": "https://www.lizheng.ai/",
     "record_kinds": {
-      "identity.core_proposition_and_throughline": "current_positioning",
+      "identity.positioning": "current_positioning",
       "career": "fact",
       "metrics": "dated_fact",
       "current_work": "current_fact",
@@ -24,14 +24,21 @@
     "base_city_en": "Seattle",
     "base_city_zh": "西雅图",
     "base_as_of": "2026-07-20",
-    "core_proposition_en": "Help people and organizations turn judgment into useful capability, real systems, and assets that compound. Today, most of that work happens through AI.",
-    "core_proposition_zh": "帮助个人和组织把判断变成真正能用的能力、系统和长期资产。今天，这件事主要通过 AI 展开。",
-    "throughline_en": "I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.",
-    "throughline_zh": "我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。",
+    "core_proposition_en": "People should have the chance to make work that keeps creating value after the first effort and bears the mark of the maker's distinctive judgment and craft.",
+    "core_proposition_zh": "一个人应该有机会把自己的判断和本事，做成在第一次投入后仍继续创造价值、也清楚承载自己独特判断与手艺的作品。",
+    "throughline_en": "MAKE WHAT LASTS.",
+    "throughline_zh": "做出你的代表作。",
+    "method_en": "Choose with judgment, make with craft, let reality answer, and preserve what proves valuable when it is worth keeping.",
+    "method_zh": "看准，做成，交给现实；在值得时，把真正有价值的部分留下。",
+    "ai_era_content_thesis_en": "As AI gets better at answering, people have to get better at deciding what is worth asking and what should count as useful.",
+    "ai_era_content_thesis_zh": "AI越会做题，人越要会出题。",
+    "founder_brand_relationship_en": "Yuzheng is the author, practitioner, and public representative of this belief. Superlinear is both the defining work he is pursuing through long-term practice and the institution he is building to help other people pursue defining work of their own.",
+    "founder_brand_relationship_zh": "立正是这套信念的提出者、实践者和公共代表。Superlinear既是他正在用长期实践追求的代表作，也是他为更多人追求自己的代表作而建立的长期机构。",
     "representation_guidance": [
       "Canonical career records retain the official title and chronology. Formal resumes, structured data, employment verification, and detailed factual profiles normally use those exact records.",
       "Headlines, social profiles, spoken introductions, and short bios may use familiar industry shorthand when it does not materially overstate the employer relationship, actual responsibility, or outcome. For example, 腾讯总监 can compress the official Vice Director, Data & AI title in a short Chinese profile without replacing the canonical record.",
       "Statsig was acquired by OpenAI after Yuzheng had left. OpenAI收购团队 is accepted shorthand for that company context in a compressed social profile; a detailed surface should name Statsig and preserve the chronology. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into former OpenAI, OpenAI alum, or a claim that he personally participated in, led, caused, or predicted the acquisition.",
+      "For founder, investor, technical, and product audiences, the Statsig role together with the company's later acquisition by OpenAI can be a high-information signal. In a tight introduction, it may be more useful than mechanically naming every employer, while the chronology and employment boundary above still apply.",
       "Only material labeled verbatim, or high-risk wording such as promises, disputes, legal or safety claims, normally requires word-for-word matching. Ordinary media quotations may remove fillers, repetition, or obvious grammatical slips and may be translated when meaning and tone remain faithful. Mark meaningful edits or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.",
       "These are defaults for owned media. When an external publisher or collaborator has a known house style or approval process, adapt to it unless that would create a material falsehood."
     ]
@@ -63,6 +70,7 @@
       "role": "Principal Data Scientist and sole evangelist",
       "detail": "Statsig was acquired by OpenAI in 2025 after Yuzheng had left the company",
       "source": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
+      "completion_source": "https://www.statsig.com/blog/statsig-2025-recap",
       "stability": "durable"
     },
     {
@@ -133,24 +141,25 @@
     },
     {
       "id": "free_community_members",
-      "value": "19,180",
-      "public_wording": "nearly 20,000",
-      "label": "members in the free Superlinear Academy community",
-      "as_of": "2026-07-16",
+      "value": "20,202",
+      "public_wording": "20,000+",
+      "label": "members who completed profile setup in the free Superlinear Academy community",
+      "as_of": "2026-07-30",
       "volatility": "high",
-      "source": "Private Circle Admin count; public community at https://www.superlinear.academy/"
+      "source": "Circle Admin API list_community_members(status=active); public community at https://www.superlinear.academy/",
+      "public_reuse_boundary": "Circle's active status means profile setup is complete; it does not mean behaviorally active. Public copy may say 20,000+ members in the free community. Do not present this as paid Stay membership."
     }
   ],
   "current_work": [
     {
       "name": "Superlinear Academy",
-      "type": "free peer lab and builder community",
+      "type": "institution for AI education, community, and serious work; includes a free community",
       "url": "https://www.superlinear.academy/"
     },
     {
       "name": "Stay Superlinear",
       "type": "paid ongoing environment for practitioners",
-      "relationship": "co-led with Yage",
+      "relationship": "founded by Yuzheng; Yage contributes as a long-term teaching partner and technical authority",
       "url": "https://stay.superlinear.academy/"
     },
     {
@@ -161,7 +170,7 @@
     },
     {
       "name": "Enterprise AI programs",
-      "type": "training and organizational transformation",
+      "type": "AI training and workflow-focused enterprise programs",
       "url": "https://corp-training.ai-builders.com/"
     },
     {

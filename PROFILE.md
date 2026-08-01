@@ -5,16 +5,16 @@
 - **Name:** Yuzheng Sun / 孙煜征
 - **Public identity:** 课代表立正
 - **Current base:** Seattle / 西雅图
-- **Current work:** Founder of Superlinear Academy and AI Builders; co-leads Stay Superlinear with Yage
-- **Current focus:** Turn judgment into useful capability, real systems, and assets that compound. Today, most of that work happens through AI.
+- **Current work:** Founder of Superlinear Academy and AI Builders; works with Yage as a long-term teaching partner and technical authority
+- **Current focus:** Make what lasts—make work that keeps creating value and bears the mark of its maker, and help more people do the same through Superlinear.
 
-Two sentences organize the rest of the profile:
+One idea organizes the rest of the profile:
 
-> I don't worship abstract intelligence; I care about judgment meeting reality early, and systems that compound.
+> **MAKE WHAT LASTS.**
 
-> 我不迷信抽象的聪明；我更在意的是，让判断尽早穿透现实，并长成复利的系统。
+> **做出你的代表作。**
 
-The first sentence describes a way of working. The second half explains what Yuzheng has repeatedly tried to build: products, decision loops, courses, communities, workflows, and institutions that preserve useful judgment and make it available to other people.
+For Yuzheng, this means more than making durable objects. It means doing work that continues to create value after the first effort and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition. Bringing judgment into contact with reality early, then preserving useful parts when they are worth keeping, is one recurring mechanism within the larger practice—not a separate identity or a requirement that every meaningful effort become a system.
 
 ## The Narrative
 
@@ -34,37 +34,41 @@ This is where data science became product judgment: not producing more dashboard
 
 At Tencent IEG, Yuzheng led a 30-person data and AI team as a vice director. Management made the problem larger. It was no longer enough for one analyst or leader to be right; teams needed shared language, decision mechanisms, feedback loops, and incentives that could move an organization.
 
-That experience remains central to his enterprise work. AI transformation is not a tool demo. It is the design of an operating system in which people can choose useful problems, build quickly, evaluate results, and change how work is done.
+That experience remains central to his enterprise work. In this work, AI transformation is not exhausted by a tool demo. It often becomes an operating-design question: can people choose useful problems, build, evaluate results, and change how work is done?
 
 ### 4. Turn feedback into infrastructure
 
 At Statsig, Yuzheng worked as a principal data scientist and the company's sole evangelist. Experimentation made a long-running idea concrete: conviction is useful when it remains testable. Feature flags, metrics, experiments, and product analytics are not separate utilities; together they help a company update beliefs through reality.
 
-Statsig was acquired by OpenAI in 2025. The deeper relevance of the Statsig chapter to Yuzheng's story is the same one that runs through his economics and product work: faster learning becomes an organizational advantage when it is built into infrastructure.
+Statsig was acquired by OpenAI in 2025. The deeper relevance of the Statsig chapter to Yuzheng's story is the same one that runs through his economics and product work: faster learning can become an organizational advantage when it is built into infrastructure.
 
-### 5. Use AI to move from understanding to building
+### 5. Use AI to make more judgment testable
 
 When generative AI emerged, Yuzheng treated it as a change in the interface to intelligence, data, and computation, not as a better chatbot. In February 2023, before GPT-4, his essay *The Five Most Important Questions About ChatGPT* anticipated collapsing inference costs, tool use and agents, persistent memory, private search, copilots, and AI-native systems.
 
-That judgment led naturally to a practical thesis: as execution gets cheaper, the scarce layer moves upward. Choosing the right problem, designing the system, evaluating output, developing taste, and creating distribution become more important. The durable move is from user to builder, and eventually from builder to architect.
+That judgment led to a practical question: when AI makes some drafting, coding, search, and first versions cheaper, where does the real constraint move? Depending on the work, problem selection, context, evaluation, reliability, integration, distribution, trust, or adoption may become more consequential. The direction is not automatic, and cheaper generation can create new review and maintenance costs.
 
-### 6. Turn what he learns into systems other people can use
+For people who want more agency and can carry the responsibility, one useful path is to turn occasional tool use into a workflow, product, body of work, or asset they can own. That is a possible route rather than a universal `User → Builder → Architect` hierarchy. The larger standard is unchanged: use the new capability to make work that deserves to remain useful after the first effort.
+
+These are time-sensitive interpretations of the current AI moment, not permanent parts of the identity. [DATED_VIEWS.md](DATED_VIEWS.md) owns their current scope and update conditions.
+
+### 6. Build an institution around work that lasts
 
 Superlinear Academy, AI Builders, Stay Superlinear, enterprise programs, books, public conversations, and public tools are different expressions of the same project.
 
-- **Public content and conversations** state ideas clearly enough to be challenged and bring together people who see different parts of reality.
+- **Public content and conversations** name consequential questions, reveal the standard behind the work, and attract people who want to make work of their own.
 - **AI Builders**, co-taught with Yage, turns technical understanding, building methods, and value judgment into capabilities professionals can reuse on real problems.
-- **Superlinear Academy** is a free peer lab where projects, specific questions, first-hand experience, feedback, collaboration, and opportunities circulate.
-- **Stay Superlinear** is a paid ongoing environment, co-led with Yage, that more actively organizes people, content, feedback, tools, and opportunities around members' current work.
+- **Superlinear Academy** is the institution Yuzheng is building around this belief; its open, free community brings together deep public work, real projects, specific questions, first-hand experience, feedback, collaboration, and opportunities.
+- **Stay Superlinear** is the paid ongoing membership within Superlinear, organized around high-value content, expert judgment, activities, tools, and sustained practitioner context. Yage contributes as a long-term teaching partner and technical authority.
 - **Enterprise work** helps teams connect AI-native methods to real workflows, incentives, and organizational constraints.
 - **Books** make judgment reusable across time and outside a live classroom or community.
 - **Public tools** make selected production and thinking systems inspectable; reuse depends on each repository's license and documentation.
 
-The common idea is straightforward: form a judgment, put it to work, learn from what happens, and preserve the useful parts so other people can use them too.
+The common idea is straightforward: choose what is worth doing, use craft to make it work, let reality answer, and preserve what has proved worth keeping. This is iterative rather than a guaranteed sequence; not every useful act needs to become a system or asset.
 
-The name **Superlinear** describes what this can make possible over time: each useful step improves the next. The free community, structured courses, and paid membership play different roles; none is merely a funnel into another. The environment supports a member's own agency rather than promising an outcome.
+Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue work of their own. The free community, structured courses, paid membership, and enterprise work play different roles; none is merely a funnel into another. Each offers a concrete way to move from aspiration to ability, feedback, and sustained work without promising that joining alone produces defining work.
 
-Its brand commands are **MAKE WHAT LASTS** and **做出你的代表作**: make work that keeps creating value for the people who use it, becomes meaningfully associated with its maker, and keeps compounding for that person too.
+Yage is an important long-term teaching partner and technical authority whose research and engineering judgment make the educational products substantially deeper. Learners and members remain the protagonists: what their understanding, judgment, relationships, and work make possible in the world will be especially important evidence of whether the institution is useful.
 
 ## Why This Perspective Is Unusual
 
@@ -85,13 +89,13 @@ These combinations are more important than any single title. They make it possib
 ### Individuals
 
 - Decide what is worth learning and building as tools change.
-- Move from consuming AI products to designing workflows, products, and assets.
-- Turn one-off effort into systems, distribution, and career leverage that compound.
+- Use AI to make more of their judgment testable in workflows, products, and other real work.
+- When the work warrants it, preserve what proves valuable as capability, systems, distribution, and career leverage.
 - Use projects and feedback to replace abstract confidence with tested capability.
 
 ### Teams and organizations
 
-- Move from scattered AI experiments to an operating model.
+- Diagnose whether scattered AI experiments are being limited by capability, workflow, evaluation, ownership, incentives, or another constraint.
 - Identify high-value workflows and redesign them around AI-native capabilities.
 - Build evaluation, feedback, and learning loops rather than relying on demos.
 - Align technical possibility with product judgment, incentives, and adoption.
@@ -100,7 +104,7 @@ These combinations are more important than any single title. They make it possib
 
 - Clarify the causal model behind growth and product decisions.
 - Find the signal that changes the next allocation or product move.
-- Treat distribution, narrative, and community as parts of building, not as post-production marketing.
+- For work whose value depends on adoption, treat distribution, narrative, and community as interfaces between the work and the people it needs to serve.
 - Develop strong, testable views without mistaking certainty for accuracy.
 
 ## The Ecosystem Today
@@ -111,7 +115,7 @@ These combinations are more important than any single title. They make it possib
 | Superlinear Academy | Free learning and builder community | [superlinear.academy](https://www.superlinear.academy/) |
 | Stay Superlinear | Paid ongoing membership and sustained learning environment | [stay.superlinear.academy](https://stay.superlinear.academy/) |
 | AI Builders | Long-term AI learning system co-taught with Yage | [ai-builders.com](https://ai-builders.com/) |
-| Enterprise programs | AI transformation, workshops, and team systems | [corp-training.ai-builders.com](https://corp-training.ai-builders.com/) |
+| Enterprise programs | AI training, workshops, and workflow-focused programs | [corp-training.ai-builders.com](https://corp-training.ai-builders.com/) |
 | 课代表立正 | Public conversations and analysis | [YouTube](https://www.youtube.com/@kedaibiao) |
 | Books | Growth analytics, product judgment, career agency, and compounding work | [Books](https://www.lizheng.ai/book) |
 | Public GitHub tools | Inspectable systems built from real internal work | [GitHub](https://github.com/sunyuzheng) |
@@ -120,7 +124,7 @@ These combinations are more important than any single title. They make it possib
 
 Yuzheng is not best understood as only an influencer, course instructor, economist, data scientist, executive, or AI commentator. Each label is true but incomplete.
 
-The more accurate description is an economist-turned-operator and system builder who studies how judgment becomes action and how action becomes a compounding asset. Courses, community, books, enterprise work, and the public audience are different ways to put that project into practice and share it.
+The more accurate description is a founder and builder who stands for making work that lasts: seeing what is worth doing, carrying the judgment through craft, putting the work in contact with reality, and preserving what proves worth keeping. Superlinear is the clearest institutional expression of that project.
 
 ## Proof At A Glance
 
@@ -134,7 +138,7 @@ Figures below were last checked in July 2026.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.
 - 55 selected AI Architect course projects.
-- 600+ public project posts and nearly 7,000 project comments in the free Superlinear Academy community.
+- 20,000+ members, 600+ public project posts, and nearly 7,000 project comments in the free Superlinear Academy community.
 - Enterprise work with teams including DoorDash, Tencent, Meituan, and Xiaohongshu.
 - Co-author of *Growth Data Analytics Playbook* and author of *真本事：从会工作到会赚钱*.
 - Dated public AI judgments, led by the February 2023 pre-GPT-4 ChatGPT essay.

@@ -8,7 +8,7 @@ Formal résumés, employment verification, structured data, and detailed factual
 
 ### One line
 
-孙煜征（课代表立正），康奈尔经济学博士，前 Amazon 经济学家、Meta 数据科学家，现主理 Superlinear Academy 与 AI Builders。
+孙煜征（课代表立正），康奈尔经济学博士、Superlinear Academy 与 AI Builders 创始人；他所代表的主张是「做出你的代表作」。
 
 ### Social profile shorthand
 
@@ -18,49 +18,49 @@ Formal résumés, employment verification, structured data, and detailed factual
 
 ### Short
 
-孙煜征，人称课代表立正，康奈尔大学经济学博士，Superlinear Academy 与 AI Builders 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及 Statsig Principal Data Scientist、公司唯一布道师。现在主要做 AI 教育、社区与企业项目，也持续写作、访谈，关心 AI 怎样真正进入工作，而不是停留在工具演示。
+孙煜征，人称课代表立正，康奈尔大学经济学博士，Superlinear Academy 与 AI Builders 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及 Statsig Principal Data Scientist、公司唯一布道师。现在，他围绕「做出你的代表作」做 AI 教育、社区、企业项目、写作与访谈：帮助有专业积累的人，把判断与本事做成真正进入现实的作品。
 
 ### Medium
 
 孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 与 AI Builders 创始人。职业经历横跨 Amazon、Meta、腾讯 IEG 与 Statsig，做过经济学家、数据科学家、30 人数据与 AI 团队负责人，也长期从事产品实验、增长与 AI 实践。
 
-2020 年起，他通过「课代表立正」持续对话中美 AI 研究者、科技创始人与一线管理者。截至 2026 年 7 月，累计公开对话 200+ 场，全网关注 400K+，课程已服务 3,000+ 付费学员。他关心的核心问题是：如何让判断尽早进入现实，在反馈中不断修正，并最终长成个人和组织都能使用的复利系统。
+2020 年起，他通过「课代表立正」持续对话中美 AI 研究者、科技创始人与一线管理者。截至 2026 年 7 月，累计公开对话 200+ 场，全网关注 400K+，课程已服务 3,000+ 付费学员。他所代表的主张是「做出你的代表作」：选择值得投入的问题，用技术、手艺和耐心把事情做成，让结果接受现实检验，并在值得时把真正有价值的部分留下。
 
 ### Full narrative
 
 孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 与 AI Builders 创始人，现居西雅图。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及后来被 OpenAI 收购的 Statsig 的 Principal Data Scientist、公司唯一布道师。
 
-这条经历背后的主线不是职位本身，而是同一个问题：一个判断如何尽早接触现实，接受用户、产品、实验与组织的检验和修正，最后沉淀成能够持续复利的系统。经济学让他追问因果和激励；大厂与管理经历让模型必须改变真实决策；Statsig 把快速学习变成产品基础设施；此后的课程、社区、企业项目、书和公开内容，则把个人能力变成更多人可以使用的系统。
+这条经历背后的主线不是职位本身，而是怎样做出真正能够代表一个人的作品。经济学让他追问因果、激励与什么值得做；Amazon、Meta 与腾讯让判断必须改变真实决策并穿过组织；Statsig 把让观点持续接受检验的能力做进产品基础设施；此后的课程、社区、企业项目、书和公开内容，则继续练习同一件事：看准，用 craft 做成，交给现实，并把真正有价值的部分留下。
 
 截至 2026 年 7 月，他通过「课代表立正」累计完成 200+ 场公开对话，跨平台关注者合计 400K+；AI Builders 已服务 3,000+ 付费学员。他合著 *Growth Data Analytics Playbook*，著有《真本事：从会工作到会赚钱》。2023 年 2 月、GPT-4 发布前，他在《关于 ChatGPT 最重要的五个问题》中提前推演了推理成本下降、工具调用与 agent、个人记忆、private search、Copilot 和 AI-native 系统。
 
-今天，他主要借助 AI，帮助个人和组织把判断变成真正能用的能力、系统和长期资产：选对问题，真正行动，让结果进入现实反馈，再把有效的方法变成可以反复使用的工作流、产品和组织能力。
+今天，Superlinear 是他正在做的代表作，也是他为更多人追求自己的代表作建立的长期机构。免费社区、AI Builders 课程、Stay Superlinear 会员与企业项目承担不同责任：让深度理解公开发生，把专家判断变成可以练习的能力，持续提供高质量内容与同行环境，并让方法进入真实组织。它们提供条件与工具，但不替任何人做出作品。
 
 ## English
 
 ### One line
 
-Yuzheng Sun has a PhD in Economics from Cornell. He previously worked at Amazon and Meta and is the founder of Superlinear Academy and AI Builders.
+Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinear Academy and AI Builders. His defining idea is: MAKE WHAT LASTS.
 
 ### Short
 
-Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinear Academy and AI Builders. He has worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig. Today he works across AI education, communities, and enterprise programs, while continuing to write and host public conversations about how AI changes real work.
+Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinear Academy and AI Builders. He has worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig. His defining idea is `MAKE WHAT LASTS`: turn judgment and craft into work that enters reality and remains worth choosing.
 
 ### Medium
 
 Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and founder of Superlinear Academy and AI Builders. His career spans Amazon, Meta, Tencent IEG, and Statsig, where he worked across economics, data science, product experimentation, AI leadership, and organizational learning.
 
-Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of July 2026, he has published 200+ public conversations, has a cross-platform following of 400K+, and has served 3,000+ paying learners. The question connecting his work is how judgment can meet reality early, learn from feedback, and become a system that other people can use.
+Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of July 2026, he has published 200+ public conversations, has a cross-platform following of 400K+, and has served 3,000+ paying learners. His defining idea is `MAKE WHAT LASTS`: choose what deserves the effort, make it with craft, let reality answer, and preserve what proves valuable.
 
 ### Full narrative
 
 Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and the founder of Superlinear Academy and AI Builders, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was later acquired by OpenAI.
 
-The throughline is not the list of companies. It is a recurring question: how does a good judgment meet reality early, learn from users, products, experiments, and organizations, and become a system that compounds? Economics trained him to ask about causality and incentives. Product and leadership roles made those models answer to real decisions. Statsig made rapid learning part of product infrastructure. His later courses, communities, enterprise programs, books, and public conversations turn private capability into systems other people can use.
+The throughline is not the list of companies. It is the attempt to make work that can genuinely represent its maker. Economics trained him to ask about causality, incentives, and what is worth doing. Product and leadership roles at Amazon, Meta, and Tencent made those judgments answer to real decisions and organizations. Statsig made continuous testing part of product infrastructure. His later courses, communities, enterprise programs, books, and public conversations keep practicing the same discipline: choose with judgment, make with craft, let reality answer, and preserve what proves valuable.
 
 As of July 2026, Yuzheng has hosted 200+ public conversations with researchers, founders, executives, investors, and operators, has a cross-platform following of 400K+, and has served 3,000+ paying learners through AI Builders. He co-authored *Growth Data Analytics Playbook* and wrote *真本事：从会工作到会赚钱*. In February 2023, before GPT-4, his essay *The Five Most Important Questions About ChatGPT* anticipated collapsing inference costs, tool use and agents, persistent memory, private search, copilots, and AI-native systems.
 
-Today, most of that work happens through AI: helping people and organizations turn judgment into useful capability, real systems, and assets that compound by choosing consequential problems, acting, learning from reality, and turning what works into workflows, products, and organizational capability.
+Today, Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue defining work of their own. Its free community, AI Builders courses, Stay Superlinear membership, and enterprise programs take different responsibilities: open access to deep work, structured practice, a year-round high-quality content and practitioner environment, and application inside real organizations. They provide tools and conditions; they do not make the work on anyone's behalf.
 
 ## Optional Emphasis By Context
 
@@ -72,11 +72,11 @@ Lead with the 30-person Tencent leadership experience, Statsig experimentation b
 
 ### Technical, product, or investment audience
 
-Lead with the February 2023 pre-GPT-4 essay, dated public AI calls, Statsig, product experimentation, and conversations with builders such as OpenAI, Databricks, Cursor, and other technology leaders.
+Lead with the February 2023 pre-GPT-4 essay, dated public AI calls, Statsig experimentation work and the company's later acquisition by OpenAI, and conversations with builders such as OpenAI, Databricks, Cursor, and other technology leaders. In a tight introduction, this Statsig-to-OpenAI chronology can be more informative than mechanically retaining every employer name.
 
 ### Learning or community audience
 
-Lead with 3,000+ paying learners, 55 selected AI Architect course projects, the 5.0/5 Maven rating, and the 600+ public project posts in the free Superlinear Academy community. Keep the course and community corpora distinct in the underlying facts, then use the combination to tell the broader learning-and-building story. Member cases, project progress, and longitudinal records can add the human mechanism when the format has room.
+Lead with 3,000+ paying learners, 55 selected AI Architect course projects, the 5.0/5 Maven rating, and the 20,000+ members and 600+ public project posts in the free Superlinear Academy community. Keep the course and community corpora distinct in the underlying facts, then use the combination to tell the broader learning-and-building story. Member cases, project progress, and longitudinal records can add the human mechanism when the format has room.
 
 ### Media, speaker, or general audience
 

@@ -1,70 +1,94 @@
 # How The Work Fits Together
 
-This file explains why Yuzheng's content, courses, communities, enterprise work, books, and public tools belong to one body of work. Product prices, access, deadlines, and current benefits remain on the product sites.
+This file explains why Yuzheng's content, Superlinear Academy, courses, membership, enterprise work, books, and public tools belong to one body of work. Product prices, access, deadlines, and current benefits remain with their product owners.
 
-## One Project, Several Forms
+## One Idea, Several Forms
 
-The shared project is:
+> **MAKE WHAT LASTS.**
+>
+> **做出你的代表作。**
 
-> Build better judgment, let it meet reality, teach what can be transferred, and preserve what works in systems that compound.
+This is both Yuzheng's defining public idea and Superlinear's brand command. It means making work that keeps creating value after the first effort and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition.
 
-Superlinear Academy compresses the aspiration behind this system into two language-specific brand commands: **MAKE WHAT LASTS.** and **做出你的代表作。** The English line emphasizes work that keeps working; the Chinese line emphasizes authorship and the desire to make something that can stand for you. Each product keeps its own concrete job; the commands name the kind of work the system is built to support.
-
-| Part | Primary job |
-|---|---|
-| 课代表立正 content and conversations | Form and test views in public, connect people with different perspectives, and help useful judgment travel |
-| Books | Turn ideas into durable artifacts that can travel across time |
-| Public GitHub tools | Make useful systems born from real work inspectable and, where licensed, reusable |
-| AI Builders | Concentrated training for people who want AI to enter their real work; co-taught with Yage |
-| Superlinear Academy | A free peer community for projects, questions, first-hand experience, feedback, collaboration, and opportunities |
-| Stay Superlinear | A paid ongoing environment for people already using AI and bringing professional experience; co-led with Yage |
-| Enterprise programs | Test and adapt the methods inside real workflows, goals, incentives, evaluation standards, and risk constraints |
-
-One recurring design loop is:
+The idea is not separate from Yuzheng's earlier emphasis on judgment, reality, and compounding. Those ideas describe the method:
 
 ```text
-Research, operating work, conversations, and community experience
-                              ↓
-                    Better judgment
-                              ↓
-              Content makes it inspectable
-                              ↓
-        Courses train the parts that may transfer
-                              ↓
-     Learners, members, and companies apply it in reality
-                              ↓
-          Results and counterexamples improve the model
-                              ↓
-       Books, tools, curriculum, and relationships remain
+Choose what is worth doing
+          ↓
+Use craft to make it work
+          ↓
+Let reality answer
+          ↓
+Preserve what proves worth keeping
+          ↺
 ```
 
-This is not a funnel in which the free community exists only to sell a paid product. Each part should be useful on its own. The loop is a design model: when serious work produces better judgment, evidence, relationships, or reusable assets, those outputs can strengthen the next round. It is not a claim that every activity completes the loop.
+This is an iterative practice, not a guaranteed pipeline. Making reveals errors in the original choice; reality can send the work back for another round; and not every valuable act should become a system or asset.
 
-## Three Recurring Sources Of Judgment
+`AI越会做题，人越要会出题` explains one AI-era implication of this method. It is an important content thesis, not a second personal brand. Product lines such as `Build useful things with AI` explain a specific offer, not a new worldview.
 
-The Superlinear learning environment is designed to benefit when three perspectives meet:
+## Founder And Institution
 
-- Yage most often brings technical judgment: what is true, why it works or fails, and how to make it reliable.
-- Yuzheng most often brings value and reality judgment: what is worth doing, who will use it, what counts as useful, and what the next decision should be.
-- Learners and members bring first-hand knowledge from their industries, roles, products, users, failures, and results.
+Yuzheng is the founder, author, and public steward of this idea. Superlinear is his defining work in progress and the institution through which he is making the idea useful to more people.
 
-These are recurring emphases, not an exhaustive list of valuable perspectives or fixed job territories. The point is complementary correction, not requiring every situation to involve all three.
+That relationship has two sides:
 
-## How The Personal Site And GitHub Use This
+1. Yuzheng's choices, content, products, and standards make the belief credible rather than decorative.
+2. Superlinear must be larger than personal expression from the start: members join to advance their own work, and the work, relationships, and results they create remain their own.
 
-The personal site explains why each part belongs to the story, then sends people to the relevant product or archive. It should not copy product pricing, complete benefits, or sales arguments.
+Yage is an important long-term teaching partner and technical authority. His research and engineering judgment deepen the curriculum, Knowledge Bank, and membership content. Learners, members, guests, and enterprise teams bring realities no founder or teacher can own alone.
 
-GitHub answers a narrower question:
+## What Each Part Does
 
-> What has this person made public that another person can inspect or use?
+| Part | Primary role in the shared project |
+|---|---|
+| **课代表立正 content and conversations** | Name consequential questions, make standards and judgment visible, and attract people who want to make meaningful work of their own |
+| **Knowledge Bank** | Turn Yuzheng's and Yage's deep analysis of AI mechanisms, engineering, products, organizations, and human consequences into public, inspectable work that builds foundational understanding |
+| **Books and public tools** | Turn selected ideas and working systems into artifacts that can travel and work without the author present |
+| **Superlinear Academy free community** | Let unfinished work meet peers, users, feedback, collaborators, and opportunities earlier |
+| **AI Builders** | Train the principles, judgment, building methods, and reliability practices required to build useful work with AI |
+| **Stay Superlinear membership** | Sustain a high-craft environment of curated content, expert judgment, activities, tools, discussion, and practitioner context |
+| **Enterprise programs** | Put the same standard inside real workflows, goals, incentives, evaluation, and organizational constraints |
 
-The GitHub profile should feature working tools and this context repository rather than duplicate the full career narrative.
+This is not a mandatory funnel. Each part should create independent value. Their relationship is ideological and practical: each helps a person see, make, test, or sustain work that can keep working.
 
-## Stable Descriptions
+## Why The Commercial Model Belongs
 
-- **AI Builders:** AI understanding, building methods, and judgment taught as reusable capability.
-- **Superlinear Academy:** a free peer community for real work, specific questions, feedback, and opportunity.
-- **Stay Superlinear:** a paid ongoing environment organized around practitioners' current work.
-- **Enterprise programs:** the same methods applied and tested inside organizations.
+The ideology and the business are not opposing layers.
 
-These descriptions explain the relationship. The current product pages own detailed copy and commercial facts.
+- Public content and the free community make useful judgment, projects, and people openly accessible.
+- AI Builders charges when Superlinear takes responsibility for curriculum, teaching translation, practice, feedback, and updates.
+- Stay Superlinear membership charges when Superlinear takes responsibility for sustained curation, content, activities, tools, discussion, and a shared environment.
+- Enterprise work charges for adapting the same methods to an organization's specific context and delivery requirements.
+
+The brand creates aspiration and trust; a product must still explain exactly what it delivers, for whom, and why that delivery is worth paying for. A product cannot make defining work on someone's behalf. It can provide different forms of understanding, training, feedback, context, and continuity with which to pursue it.
+
+## The Evidence Loop
+
+The ecosystem can become more valuable when real work leaves behind better inputs for the next round:
+
+```text
+Founder judgment, research, conversations, and operating work
+                              ↓
+             Content and products make it inspectable
+                              ↓
+       Learners, members, and companies act in reality
+                              ↓
+          Work meets users, constraints, and feedback
+                              ↓
+       What proves valuable can become capability, proof, curriculum,
+          code, relationships, and the next better judgment
+```
+
+This is a design model, not a claim that every activity completes the loop. The long-term test is simpler:
+
+> What did people understand, decide, or make differently here; what kept working; and what did it make possible next?
+
+## Stable Product Descriptions
+
+- **Superlinear Academy:** the institution Yuzheng is building around `MAKE WHAT LASTS / 做出你的代表作`; its free community brings deep public work, real projects, feedback, and opportunity into one network.
+- **AI Builders:** a structured learning program, co-taught with Yage, for building useful and reliable work with AI.
+- **Stay Superlinear membership:** a paid ongoing environment for high-value content, expert judgment, activities, tools, discussion, and sustained practitioner context.
+- **Enterprise programs:** the same underlying standard adapted and tested inside organizations.
+
+These descriptions explain the relationship. Current product pages own detailed copy and commercial facts.
