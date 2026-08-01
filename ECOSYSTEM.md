@@ -8,7 +8,7 @@ The shared project is:
 
 > Build better judgment, let it meet reality, teach what can be transferred, and preserve what works in systems that compound.
 
-Superlinear Academy compresses the aspiration behind this system into one English brand command: **MAKE WHAT LASTS.** Each product keeps its own concrete job; the command names the kind of work the system is built to support.
+Superlinear Academy compresses the aspiration behind this system into two language-specific brand commands: **MAKE WHAT LASTS.** and **做出你的代表作。** The English line emphasizes work that keeps working; the Chinese line emphasizes authorship and the desire to make something that can stand for you. Each product keeps its own concrete job; the commands name the kind of work the system is built to support.
 
 | Part | Primary job |
 |---|---|

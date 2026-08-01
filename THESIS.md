@@ -67,7 +67,7 @@ Consistency matters partly because it lowers variance and gives feedback enough 
 
 This is what the name **Superlinear** is meant to hold. It does not mean moving faster at every moment or promising a dramatic leap. It names the transition from linear effort to compounding growth: today's judgment, capability, work, and relationships improve the odds, range, and leverage of tomorrow's next step. One correct move solves one problem; a compounding system changes the trajectory of the moves that follow.
 
-The English brand command for Superlinear Academy is **MAKE WHAT LASTS.** It names the same thesis as an aspiration: make work that remains useful after the first effort, keeps creating value, and makes more possible next. It does not replace the more specific promises made by a course, community, or membership.
+Superlinear Academy expresses this aspiration through two brand commands: **MAKE WHAT LASTS.** in English and **做出你的代表作。** in Chinese. They are not literal translations. The English line emphasizes work that keeps creating value; the Chinese line emphasizes making something distinctly yours that earns lasting recognition and continues to represent and reward its maker. Both point to the same loop: the work compounds in the world and for the person who made it. They do not replace the more specific promises made by a course, community, or membership.
 
 **In practice:** books preserve ideas, courses preserve teaching, communities preserve relationships and feedback, and AI workflows preserve repeated cognition.
 
