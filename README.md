@@ -14,7 +14,7 @@ This is both Yuzheng's public theme and Superlinear's core brand command. It nam
 
 Yuzheng is the author, practitioner, and public representative of that belief. Superlinear is both his defining work in progress and the institution he is building to help other people make work that can define and represent them. AI is where much of this work happens today; the belief is larger than AI.
 
-## Start Here
+## Public Source-Kit Map
 
 | Need | Read |
 |---|---|
@@ -27,7 +27,7 @@ Yuzheng is the author, practitioner, and public representative of that belief. S
 | Verify a claim, quote, date, or link | [EVIDENCE.md](EVIDENCE.md) |
 | Load current facts programmatically | [facts.json](facts.json) |
 
-For most important tasks, start with `CONTEXT.md`, then load the smallest set of task-specific files needed to answer the actual question. One additional file is often enough; work that crosses claim types or owners may need more. Do not load every file by default.
+For public-facing and collaborator work, start with `CONTEXT.md`, then load the smallest set of task-specific files needed to answer the actual question. One additional file is often enough; work that crosses claim types or owners may need more. Do not load every file by default. Yuzheng's internal master map lives in the private strategy repository.
 
 ## The Short Version
 
