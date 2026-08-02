@@ -35,7 +35,8 @@ These numbers are useful but volatile.
 | Cross-platform followers | 400K+ | 2026-07-12 | Established audience and distribution potential; pair with platform or engagement detail when that matters | Owner-confirmed aggregation from platform dashboards |
 | Paying learners | 3,000+ | 2026-07-12 | Paid learning scale; pair with projects or learner stories for depth | [AI Builders](https://ai-builders.com/) |
 | Public conversations | 200+ | 2026-07-12 | A substantial body of public dialogue; selected guests and topics show its range | [Guest archive](https://www.lizheng.ai/guests) |
-| Maven course rating | 5.0/5 from 82 ratings; 54 public named written reviews | 2026-07-27 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
+| Maven course rating | 5.0/5 from 83 ratings | 2026-08-02 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
+| Public named written Maven reviews | 54 | 2026-07-27 | Review-corpus depth; retained from the last full enumeration and not revalidated from the current first view | [Maven reviews](https://maven.com/superlinear/aibuilders#reviews) |
 | Selected AI Architect course projects | 55 | 2026-07-25 | Structured-course builder output | [AI Builders](https://ai-builders.com/) |
 | Public project posts in the free community | 600+ | 2026-07-08 | Breadth of public building and project sharing | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
 | Comments on free-community project posts | Nearly 7,000 | 2026-07-08 | Density of feedback and discussion around real work | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
@@ -106,7 +107,7 @@ The Significance Summit conversation with Acquired hosts Ben Gilbert and David R
 ### Scale and satisfaction
 
 - 3,000+ paying learners across AI, data, and growth.
-- 5.0/5 course rating on Maven from 82 ratings, with 54 public named written reviews.
+- 5.0/5 course rating on Maven from 83 ratings. The last full review-corpus enumeration found 54 public named written reviews as of 2026-07-27; that separate count was not revalidated from the current first view.
 - Learners include engineers, data scientists, product leaders, designers, operators, and executives from major technology and financial companies.
 - The current AI Builders page features 55 selected AI Architect course projects.
 - More than 600 project posts have been shared in the free Superlinear Academy community, generating nearly 7,000 comments. This is a broader community corpus, not a count of paid-course projects.
@@ -149,7 +150,7 @@ This is a concrete hiring story: a partner trusted the community enough to give 
 | Xiaohongshu | AI-era productivity for non-engineering roles | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/3990267) |
 | Meituan | User-to-Builder for technical and non-technical teams | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/4030640) |
 
-Additional enterprise work is described at [corp-training.ai-builders.com](https://corp-training.ai-builders.com/). On public-facing owned media, name clients whose relationship is already public or explicitly authorized. A controlled private proposal may use other legitimate relationship context when the audience and confidentiality terms permit it.
+Additional enterprise work is described at [corp-training.ai-builders.com](https://corp-training.ai-builders.com/). Public materials can name relationships that are already public or have been authorized for that audience. Private planning and controlled proposals may use other legitimate client context when the applicable confidentiality agreement and audience permit it; the reason for the distinction is to preserve client trust, not to erase useful experience from every context.
 
 ## Convening And Cross-Border AI Work
 
@@ -184,7 +185,7 @@ Use the current public wording: **working with AI Engineer and Mengying Li on AI
 | *Growth Data Analytics Playbook* | Co-author; product-market fit, growth accounting, experimentation, and product judgment | [Amazon](https://www.amazon.com/Growth-Data-Analytics-Playbook-Product-Market/dp/1544549822) · [Book page](https://www.lizheng.ai/book) |
 | *真本事：从会工作到会赚钱* | Author; career agency, capability building, and compounding work | [Book page](https://www.lizheng.ai/zbs) · [WeRead](https://weread.qq.com/book-detail?type=1&senderVid=4500358&v=33c32d30813abb4d6g0122ff) |
 
-*Growth Data Analytics Playbook* was featured in a 2025 WSJ CIO Journal reading list. A screenshot is retained in the private brand proof archive; use the claim as supporting evidence rather than the central identity.
+*Growth Data Analytics Playbook* was featured in a 2025 WSJ CIO Journal reading list. A screenshot is retained in the private brand proof archive. This can be a compact publishing or external-recognition signal and may lead when that is the audience's first question; in a broader identity story, a work, idea, or result will often provide more meaning than the mention alone.
 
 The launch event photo with co-authors Mengying Li and Joe Kumar, alongside Julie Zhuo, provides a useful public scene of the book and its peer context. It is used on the [personal website](https://www.lizheng.ai/).
 
@@ -229,6 +230,6 @@ Use endorsements that resonate with the audience. A recognizable quote can open 
 - Keep an `as_of` date in the formal ledger and data tables for `400K+`, `3,000+`, `200+`, `20,000+`, `600+`, and “nearly 7,000.” On audience-facing surfaces, show the date or platform when omission would make scope or staleness materially misleading; a current rounded shorthand need not mechanically repeat the date in every headline, spoken intro, or short bio.
 - Use follower count for established audience and distribution; use dated judgments, technical work, peer context, or outcomes when the question is technical judgment.
 - Keep the two project corpora distinct: `55` means selected AI Architect course projects; `600+` means public project posts in the free community.
-- For a story about feedback quality, retrieve the actual reply, review, or follow-up rather than relying on the project-post count alone.
+- When the claim is specifically about feedback quality, retrieve the actual reply, review, or follow-up because a post or comment count mainly establishes discussion volume. Counts remain useful when density or activity is the point.
 - Describe AI Engineer Shanghai 2026 as an upcoming collaboration until the November 2026 event has taken place. Do not convert planned attendance, participant mix, speakers, or outcomes into completed facts.
 - Current safe wording is “working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026.” Use `co-organizer`, `China lead`, or `official representative` only after written title alignment.

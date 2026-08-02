@@ -34,7 +34,7 @@ This is where data science became product judgment: not producing more dashboard
 
 At Tencent IEG, Yuzheng led a 30-person data and AI team as a vice director. Management made the problem larger. It was no longer enough for one analyst or leader to be right; teams needed shared language, decision mechanisms, feedback loops, and incentives that could move an organization.
 
-That experience remains central to his enterprise work. In this work, AI transformation is not exhausted by a tool demo. It often becomes an operating-design question: can people choose useful problems, build, evaluate results, and change how work is done?
+That experience remains central to his enterprise work. A tool demo can be the right way to open attention or test possibility. When the goal is sustained organizational change, the work usually extends into problem selection, workflow, evaluation, incentives, ownership, and the way decisions are made.
 
 ### 4. Turn feedback into infrastructure
 
@@ -128,13 +128,13 @@ The more accurate description is a founder and builder who stands for making wor
 
 ## Proof At A Glance
 
-Figures below were last checked in July 2026.
+Figures below were last checked through August 2, 2026; use `facts.json` and `EVIDENCE.md` for each metric's exact source and date.
 
 - Cornell PhD in Economics; former Amazon economist and Meta data scientist.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
 - Former principal data scientist and sole evangelist at Statsig; Statsig was acquired by OpenAI in 2025 after he had left.
 - Founder of Superlinear Academy and AI Builders.
-- 3,000+ paying learners; 5.0/5 course rating on Maven from 82 ratings.
+- 3,000+ paying learners; 5.0/5 course rating on Maven from 83 ratings.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.
 - 55 selected AI Architect course projects.

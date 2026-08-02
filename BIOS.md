@@ -38,6 +38,18 @@ Formal résumés, employment verification, structured data, and detailed factual
 
 ## English
 
+### Founder / investor spoken introductions
+
+**Personal**
+
+> Hi, I’m Yuzheng. I believe people should have the chance to turn their judgment and craft into work that keeps creating value and remains recognizably theirs. I call that **MAKE WHAT LASTS.** My path from Cornell to Amazon, Meta, Tencent, and Statsig kept moving me closer to the point where an idea has to work. Superlinear is the institution I’m building around that belief—and the defining work I have chosen to place under its standard.
+
+**Business**
+
+> I’m Yuzheng Sun, founder of Superlinear. We are building around one belief: **MAKE WHAT LASTS.** As AI makes ordinary output cheaper, people need the judgment and craft to make work worth choosing—and the capability to make it reliable in the real world. I have a PhD in Economics from Cornell, led a 30-person data and AI team at Tencent, and was Principal Data Scientist at Statsig, the experimentation company later acquired by OpenAI. We’ve taught 3,000+ paying learners, and the free community has grown past 20,000 members.
+
+These are conversational adapters, not complete biographies. The personal version explains the belief through Yuzheng’s path; the business version shows why Superlinear is a credible institution for pursuing it. In founder and investor settings, the Statsig role together with the later OpenAI acquisition remains a high-information signal, while the chronology stays explicit.
+
 ### One line
 
 Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinear Academy and AI Builders. His defining idea is: MAKE WHAT LASTS.

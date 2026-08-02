@@ -39,7 +39,7 @@ Yage is an important long-term teaching partner and technical authority. His res
 | **Stay Superlinear membership** | Sustain a high-craft environment of curated content, expert judgment, activities, tools, discussion, and practitioner context |
 | **Enterprise programs** | Put the same standard inside real workflows, goals, incentives, evaluation, and organizational constraints |
 
-This is not a mandatory funnel. Each part should create independent value. Their relationship is ideological and practical: each helps a person see, make, test, or sustain work that can keep working.
+This is not a mandatory funnel. As a portfolio default, each user-facing part should offer a clear independent return because that protects trust and makes the ecosystem resilient. Deliberate routing, bundles, and acquisition journeys can still be useful when they help someone reach a more fitting next step rather than disguising an empty first experience. Their deeper relationship is ideological and practical: each helps a person see, make, test, or sustain work that can keep working.
 
 ## Why The Commercial Model Belongs
 
@@ -50,7 +50,7 @@ The ideology and the business are not opposing layers.
 - Stay Superlinear membership charges when Superlinear takes responsibility for sustained curation, content, activities, tools, discussion, and a shared environment.
 - Enterprise work charges for adapting the same methods to an organization's specific context and delivery requirements.
 
-The brand creates aspiration and trust; a product must still explain exactly what it delivers, for whom, and why that delivery is worth paying for. A product cannot make defining work on someone's behalf. It can provide different forms of understanding, training, feedback, context, and continuity with which to pursue it.
+The brand creates aspiration and trust. On purchase, comparison, and decision surfaces, a product also needs enough specificity about audience, delivery, and value for someone to make an informed choice. A brand film, headline, or social introduction can do a narrower job and route people to that detail. A product cannot make defining work on someone's behalf; it can provide different forms of understanding, training, feedback, context, and continuity with which to pursue it.
 
 ## The Evidence Loop
 
