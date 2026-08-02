@@ -149,7 +149,7 @@ This is a concrete hiring story: a partner trusted the community enough to give 
 | Xiaohongshu | AI-era productivity for non-engineering roles | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/3990267) |
 | Meituan | User-to-Builder for technical and non-technical teams | [Public session](https://www.superlinear.academy/c/public/sections/900177/lessons/4030640) |
 
-Additional enterprise work is described at [corp-training.ai-builders.com](https://corp-training.ai-builders.com/). Use named clients only when the relationship is already public.
+Additional enterprise work is described at [corp-training.ai-builders.com](https://corp-training.ai-builders.com/). On public-facing owned media, name clients whose relationship is already public or explicitly authorized. A controlled private proposal may use other legitimate relationship context when the audience and confidentiality terms permit it.
 
 ## Convening And Cross-Border AI Work
 

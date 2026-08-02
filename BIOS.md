@@ -64,20 +64,20 @@ Today, Superlinear is Yuzheng's defining work in progress and the institution he
 
 ## Optional Emphasis By Context
 
-Use these as opening angles, not as separate identities.
+Use these as high-information starting angles when they answer the audience's first question. A stronger scene, case, relationship, or opportunity-specific fact can lead instead; the purpose is fast relevant orientation, not forcing every bio into one template.
 
 ### Enterprise or executive audience
 
-Lead with the 30-person Tencent leadership experience, Statsig experimentation background, and enterprise delivery. The relevant story is the translation from AI capability to workflow, evaluation, incentives, and operating model.
+When an enterprise or executive audience is deciding whether Yuzheng understands organizational delivery, the 30-person Tencent leadership experience, Statsig experimentation background, and enterprise work are efficient opening signals. The relevant story is the translation from AI capability to workflow, evaluation, incentives, and operating model.
 
 ### Technical, product, or investment audience
 
-Lead with the February 2023 pre-GPT-4 essay, dated public AI calls, Statsig experimentation work and the company's later acquisition by OpenAI, and conversations with builders such as OpenAI, Databricks, Cursor, and other technology leaders. In a tight introduction, this Statsig-to-OpenAI chronology can be more informative than mechanically retaining every employer name.
+When a technical, product, or investment audience is asking about foresight, experimentation, or proximity to builders, the February 2023 pre-GPT-4 essay, dated public AI calls, Statsig work and the company's later acquisition by OpenAI, and conversations with builders such as OpenAI, Databricks, and Cursor are efficient opening signals. In a tight introduction, this Statsig-to-OpenAI chronology can be more informative than mechanically retaining every employer name.
 
 ### Learning or community audience
 
-Lead with 3,000+ paying learners, 55 selected AI Architect course projects, the 5.0/5 Maven rating, and the 20,000+ members and 600+ public project posts in the free Superlinear Academy community. Keep the course and community corpora distinct in the underlying facts, then use the combination to tell the broader learning-and-building story. Member cases, project progress, and longitudinal records can add the human mechanism when the format has room.
+When a learning or community audience is deciding whether the work has depth, scale, and a real practitioner environment, 3,000+ paying learners, 55 selected AI Architect course projects, the 5.0/5 Maven rating, and the 20,000+ members and 600+ public project posts in the free Superlinear Academy community are efficient opening signals. Keep the course and community corpora distinct in the underlying facts, then use the combination to tell the broader learning-and-building story. Member cases, project progress, and longitudinal records can add the human mechanism when the format has room.
 
 ### Media, speaker, or general audience
 
-Lead with the cross-domain career and the 200+ public conversations. Use `400K+` when established audience and distribution make the opportunity easier to understand; selected guests, topics, and outcomes can add resolution.
+When a media, speaker, or general audience needs quick orientation, the cross-domain career and 200+ public conversations are efficient opening signals. Use `400K+` when established audience and distribution make the opportunity easier to understand; selected guests, topics, and outcomes can add resolution.
