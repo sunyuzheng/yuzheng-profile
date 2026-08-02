@@ -8,24 +8,13 @@ This file explains why Yuzheng's content, Superlinear Academy, courses, membersh
 >
 > **做出你的代表作。**
 
-This is both Yuzheng's defining public idea and Superlinear's brand command. It means making work that keeps creating value after the first effort and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition.
+This is both Yuzheng's defining public idea and Superlinear's brand command. It means making work whose value outlives the moment of making and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition.
 
-The idea is not separate from Yuzheng's earlier emphasis on judgment, reality, and compounding. Those ideas describe the method:
+Its intellectual foundations join two interpenetrating modes of knowing. World models, prediction, and falsification try to make understanding explicit and challengeable; craft keeps updating overlapping causal and perceptual knowledge through practice where rules cannot contain the whole problem. Conviction is the bridge when understanding has to bear the cost of action, while responsible authorship keeps agency and accountability for the work's standards, compromises, and evolution. The work or conviction may also be discovered through making. Reality keeps testing the work, and time gradually reveals what continues to matter without becoming an infallible verdict.
 
-```text
-Choose what is worth doing
-          ↓
-Use craft to make it work
-          ↓
-Let reality answer
-          ↓
-Preserve what proves worth keeping
-          ↺
-```
+When a work continues to matter, it can keep creating value for other people and return deeper capability, trust, income, freedom, recognition, and a more ambitious next opportunity to its maker. Systems, institutions, maintenance, and distribution may be part of how that value exists at all; compounding is a possible consequence, not a universal production pipeline.
 
-This is an iterative practice, not a guaranteed pipeline. Making reveals errors in the original choice; reality can send the work back for another round; and not every valuable act should become a system or asset.
-
-`AI越会做题，人越要会出题` explains one AI-era implication of this method. It is an important content thesis, not a second personal brand. Product lines such as `Build useful things with AI` explain a specific offer, not a new worldview.
+`AI越会做题，人越要会出题` explains one AI-era implication of this belief. It is an important content thesis, not a second personal brand. Product lines such as `Build useful things with AI` explain a specific offer, not a new worldview.
 
 ## Founder And Institution
 

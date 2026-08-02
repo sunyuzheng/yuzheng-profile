@@ -10,7 +10,7 @@ This repository is a source kit, not a style guide or publicity review system. I
 >
 > **做出你的代表作。**
 
-This is both Yuzheng's public theme and Superlinear's core brand command. It names one belief: people should be able to make work that continues to create value after the first effort and clearly carries their distinctive judgment and craft. Such work may also enlarge the maker's capability, reputation, freedom, and possibility; those are hoped-for returns, not its definition.
+This is both Yuzheng's public theme and Superlinear's core brand command. It names one belief: people should be able to make work whose value outlives the moment of making and clearly carries their distinctive judgment and craft. Such work may also enlarge the maker's capability, reputation, freedom, and possibility; those are hoped-for returns, not its definition.
 
 Yuzheng is the author, practitioner, and public representative of that belief. Superlinear is both his defining work in progress and the institution he is building to help other people make work that can define and represent them. AI is where much of this work happens today; the belief is larger than AI.
 
@@ -20,7 +20,7 @@ Yuzheng is the author, practitioner, and public representative of that belief. S
 |---|---|
 | Get the short version before important work | [CONTEXT.md](CONTEXT.md) |
 | Understand who Yuzheng is and how the career story connects | [PROFILE.md](PROFILE.md) |
-| Understand the durable belief and practice principles behind the work | [THESIS.md](THESIS.md) |
+| Understand the durable belief and intellectual foundations behind the work | [THESIS.md](THESIS.md) |
 | Inspect time-sensitive AI and business hypotheses separately | [DATED_VIEWS.md](DATED_VIEWS.md) |
 | See how content, products, community, enterprise work, books, and tools fit together | [ECOSYSTEM.md](ECOSYSTEM.md) |
 | Use a ready Chinese or English introduction | [BIOS.md](BIOS.md) |
@@ -33,9 +33,9 @@ For most important tasks, start with `CONTEXT.md`, then load the smallest set of
 
 Yuzheng has a PhD in Economics from Cornell and has worked as an economist, data scientist, product and AI leader, founder, educator, author, and community builder across the United States and China. His path includes Amazon, Meta, Tencent IEG, and Statsig, followed by the systems he now builds through Superlinear Academy, AI Builders, Stay Superlinear, enterprise work, books, public conversations, and public tools.
 
-The throughline is not a list of jobs. It is the attempt to make work that lasts: choose what is worth making, bring judgment into contact with reality, improve the work through craft and feedback, and preserve what succeeds so it can keep creating value.
+The throughline is not a list of jobs. It is the attempt to make work that lasts: let explicit world models and tacit, result-answerable craft continually correct one another; internalize enough conviction to act without becoming immune to evidence; and remain responsible for the standards and consequences of the work while reality tests it and time reveals what continues to matter.
 
-That method connects his work in causal reasoning, product analytics, experimentation, AI-native building, teaching, enterprise transformation, community design, public communication, and the systems he uses to preserve what he learns. The library makes several kinds of signal available—reach, dated public judgments, work inside serious organizations, learner and member projects, substantive conversations, and systems that continue to produce results—so each surface can show how the belief has been practiced rather than merely repeat the words.
+That intellectual spine connects his work in causal reasoning, product analytics, experimentation, AI-native building, teaching, enterprise transformation, community design, public communication, and the systems he uses to preserve what he learns. The library makes several kinds of signal available—reach, dated public judgments, work inside serious organizations, learner and member projects, substantive conversations, and systems that continue to produce results—so each surface can show how the belief has been practiced rather than merely repeat the words.
 
 ## How To Use This Repository
 
@@ -55,7 +55,7 @@ That method connects his work in causal reasoning, product analytics, experiment
 
 1. `facts.json` and `EVIDENCE.md` govern typed public records, factual claims, dates, titles, changing numbers, and their boundaries. `facts.json` also contains clearly separated dated judgments and third-party quotations; those are not facts merely because they are machine-readable.
 2. `CONTEXT.md` is the short starting context for important work.
-3. `PROFILE.md` governs the coherent narrative; `THESIS.md` owns the durable belief and practice principles; `DATED_VIEWS.md` keeps time-sensitive hypotheses separate.
+3. `PROFILE.md` governs the coherent narrative; `THESIS.md` owns the durable belief, intellectual foundations, and supporting principles; `DATED_VIEWS.md` keeps time-sensitive hypotheses separate.
 4. `ECOSYSTEM.md` governs the relationship between the parts.
 5. `BIOS.md` contains ready-to-use copy and may be adapted to context.
 6. The public website at [lizheng.ai](https://www.lizheng.ai/) is the current presentation layer.

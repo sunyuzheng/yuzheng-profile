@@ -14,7 +14,7 @@ One idea organizes the rest of the profile:
 
 > **做出你的代表作。**
 
-For Yuzheng, this means more than making durable objects. It means doing work that continues to create value after the first effort and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition. Bringing judgment into contact with reality early, then preserving useful parts when they are worth keeping, is one recurring mechanism within the larger practice—not a separate identity or a requirement that every meaningful effort become a system.
+For Yuzheng, this means more than making durable objects. It means doing work whose value outlives the moment of making and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition. The intellectual foundations join explicit world models and scientific testing with the overlapping tacit knowledge of craft; the two correct one another. Conviction is the bridge when understanding must bear the cost of action, while responsible authorship keeps agency and accountability with the work. Reality keeps testing it, and time gradually reveals what continues to matter.
 
 ## The Narrative
 
@@ -48,7 +48,7 @@ When generative AI emerged, Yuzheng treated it as a change in the interface to i
 
 That judgment led to a practical question: when AI makes some drafting, coding, search, and first versions cheaper, where does the real constraint move? Depending on the work, problem selection, context, evaluation, reliability, integration, distribution, trust, or adoption may become more consequential. The direction is not automatic, and cheaper generation can create new review and maintenance costs.
 
-For people who want more agency and can carry the responsibility, one useful path is to turn occasional tool use into a workflow, product, body of work, or asset they can own. That is a possible route rather than a universal `User → Builder → Architect` hierarchy. The larger standard is unchanged: use the new capability to make work that deserves to remain useful after the first effort.
+For people who want more agency and can carry the responsibility, one useful path is to turn occasional tool use into a workflow, product, body of work, or asset they can own. That is a possible route rather than a universal `User → Builder → Architect` hierarchy. The larger standard is unchanged: use the new capability to make work whose value can extend beyond an isolated task or release.
 
 These are time-sensitive interpretations of the current AI moment, not permanent parts of the identity. [DATED_VIEWS.md](DATED_VIEWS.md) owns their current scope and update conditions.
 
@@ -64,7 +64,7 @@ Superlinear Academy, AI Builders, Stay Superlinear, enterprise programs, books, 
 - **Books** make judgment reusable across time and outside a live classroom or community.
 - **Public tools** make selected production and thinking systems inspectable; reuse depends on each repository's license and documentation.
 
-The common idea is straightforward: choose what is worth doing, use craft to make it work, let reality answer, and preserve what has proved worth keeping. This is iterative rather than a guaranteed sequence; not every useful act needs to become a system or asset.
+Superlinear tries to strengthen the deeper conditions from which defining work can grow: contact with real questions; explicit understanding that can be challenged; overlapping tacit craft learned in real complexity; conviction strong enough to support action without becoming dogma; and authorship that remains responsible for the work's standards and consequences. The question or conviction may also emerge through making. Reality keeps testing the work, and time gradually reveals what continues to matter.
 
 Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue work of their own. The free community, structured courses, paid membership, and enterprise work play different roles; none is merely a funnel into another. Each offers a concrete way to move from aspiration to ability, feedback, and sustained work without promising that joining alone produces defining work.
 
@@ -90,7 +90,7 @@ These combinations are more important than any single title. They make it possib
 
 - Decide what is worth learning and building as tools change.
 - Use AI to make more of their judgment testable in workflows, products, and other real work.
-- When the work warrants it, preserve what proves valuable as capability, systems, distribution, and career leverage.
+- When the work earns continued use, turn what has been learned into deeper capability, systems, distribution, and career leverage without confusing preservation with value.
 - Use projects and feedback to replace abstract confidence with tested capability.
 
 ### Teams and organizations
@@ -124,7 +124,7 @@ These combinations are more important than any single title. They make it possib
 
 Yuzheng is not best understood as only an influencer, course instructor, economist, data scientist, executive, or AI commentator. Each label is true but incomplete.
 
-The more accurate description is a founder and builder who stands for making work that lasts: seeing what is worth doing, carrying the judgment through craft, putting the work in contact with reality, and preserving what proves worth keeping. Superlinear is the clearest institutional expression of that project.
+The more accurate description is a founder and builder who stands for making work that lasts: turning hard-won understanding and lived craft into responsible authorship, then keeping the work answerable to reality, time, and the people it serves. Superlinear is the clearest institutional expression of that project.
 
 ## Proof At A Glance
 

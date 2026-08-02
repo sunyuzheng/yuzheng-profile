@@ -12,30 +12,29 @@ The work looks broad, but it is organized around one defining idea:
 
 > **做出你的代表作。**
 
-Yuzheng believes a person should have the chance to make work that keeps creating value after the first effort and clearly carries the maker's distinctive judgment and craft. Such work may also enlarge capability, reputation, freedom, and the next opportunity, but those are hoped-for returns rather than its definition. AI is where much of this work happens today; it is a powerful medium, not the identity itself.
+Yuzheng believes a person should have the chance to make work whose value outlives the moment of making and clearly carries the maker's distinctive judgment and craft. Such work may also enlarge capability, reputation, freedom, and the next opportunity, but those are hoped-for returns rather than its definition. AI is where much of this work happens today; it is a powerful medium, not the identity itself.
 
-## The Method Beneath The Idea
+## The Intellectual Spine Beneath The Idea
 
-> **看准 → 做成 → 交给现实 → 留下**
+Important work may begin in uncertainty rather than conviction; the question and the conviction may emerge through making. Beneath that nonlinearity is a set of relationships rather than equal, sequential steps:
 
-> **Choose with judgment → make with craft → let reality answer → preserve what proves valuable**
+- **world models and the scientific method** try to make causes, constraints, and predictions explicit enough to challenge;
+- **craft** updates overlapping understanding through practice, apprenticeship, comparison, and consequence where rules cannot contain the whole problem; tacit and explicit knowing continually translate and correct one another;
+- **conviction** is the bridge when some understanding has been internalized deeply enough to support action and bear a cost without becoming immune to evidence;
+- **responsible authorship** keeps agency and accountability for the work's purpose, standards, compromises, and evolution;
+- **reality tests and time reveals:** neither is an infallible judge, but together they prevent the maker's own explanation from becoming the only proof.
 
-This is an iterative practice, not a guaranteed pipeline. Making can change the original judgment; reality can send the work back for another round; and not every valuable act should become a durable asset.
+A compact synthesis is:
+
+> **A defining work turns hard-won understanding and lived craft into responsible authorship—and remains answerable to reality, time, and the people it serves.**
+
+These relationships loop. Building can produce understanding; conviction can initiate a work or emerge from it; a failed result can change both the model and the craft. `Understand → internalize → conviction → build` names one important bridge, not a universal origin story. Systems, institutions, maintenance, and distribution may be inputs, part of the craft, or the work itself; compounding is a possible result, not a universal production method.
 
 In the AI era, one useful content shorthand is:
 
 > **AI越会做题，人越要会出题。**
 
 “出题” does not mean writing a better prompt or claiming that AI cannot propose questions. It means deciding what is worth doing, for whom, what counts as useful, and who owns the consequences. AI can help define the problem and make the answer; the answer still has to meet users, organizations, and reality.
-
-In practice, making what lasts usually means:
-
-1. choose what is worth doing, for whom, under which constraints, and what would count as useful;
-2. use technical depth, taste, patience, and repeated revision to make it actually work;
-3. expose the work to users, consequences, experiments, peers, organizations, or other evidence outside the maker's self-image;
-4. when it is worthwhile, preserve what proves valuable as capability, a workflow, a product, curriculum, code, relationships, or another reusable form.
-
-Judgment meeting reality early and becoming a compounding system remains an important part of this method. It no longer carries the whole philosophy: judgment without craft is still an opinion, and preservation without continued responsibility can compound mistakes as easily as value.
 
 ## What Is Unusual
 
