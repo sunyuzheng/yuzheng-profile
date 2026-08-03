@@ -52,7 +52,7 @@ For people with the goal and capacity to build, turning occasional tool use into
 
 The current evidence library includes dated records such as:
 
-- the February 2023 essay on ChatGPT, published before GPT-4;
+- the April 2021 videos on the limits and useful applications of the dominant AI paradigm, followed by the February 2023 ChatGPT essay, publicly archived by March 6 before GPT-4;
 - the January 2025 view on the near-term agentic-AI opportunity window;
 - the March 2025 critique of MCP's structural limits;
 - the March 2026 view on OpenClaw's durability and learning value.

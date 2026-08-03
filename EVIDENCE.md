@@ -2,7 +2,7 @@
 
 This file is a retrieval library for building stronger introductions, arguments, pitches, pages, and collaborations. It keeps useful facts, cases, quotations, dates, and sources close together so a writer or model can find the right combination without relying on Yuzheng's memory.
 
-- **Current as of:** 2026-07-30
+- **Current as of:** 2026-08-03
 - **Public profile:** [lizheng.ai](https://www.lizheng.ai/)
 
 ## Evidence Selection
@@ -46,21 +46,32 @@ Owner-confirmed platform dashboards indicate that the audience includes engineer
 
 ## Dated Judgment
 
-### February 2023: ChatGPT before GPT-4
+### 2021–2025: from the limits of old AI to ChatGPT before GPT-4
 
-In *关于 ChatGPT 最重要的五个问题*, first written in February 2023 before GPT-4, Yuzheng argued that ChatGPT was not merely a better chatbot but a new natural-language interface to data and computation.
+The significance of this record is not merely that a list of predictions later looked right. It shows a public explanatory model changing over time: first identify what constrained the dominant AI paradigm, then ask whether a new system had broken that constraint, reason forward from the mechanism, and leave the later errors visible.
 
-The essay anticipated:
+| Date | Public record | What it establishes |
+|---|---|---|
+| 2021-04-19 | [为什么图灵测试不能检测人工智能？｜清醒认知AI](https://youtu.be/M2Yv3D8NDHY) | Explained why systems optimized for narrow mappings and benchmarks should not be confused with general understanding. |
+| 2021-04-29 | [这个机器学习模型是牛叉，装叉，还是傻叉？](https://youtu.be/sNJ09NOqBXk) | Used mechanism and task structure to distinguish useful AI applications from impressive-looking demonstrations. |
+| 2022-10-07 | [我们如何利用好这轮衰退？｜生成式AI神预言](https://youtu.be/R8X4ClBY5tg) | A public pre-ChatGPT conversation that selected generative AI from other fashionable technology narratives. Howie Xu made the strongest explicit call in this conversation; use it as contemporaneous context, not as a sole Yuzheng prediction. |
+| 2023-02; publicly archived by 2023-03-06 | [关于ChatGPT最重要的五个问题 — pre-GPT-4 public snapshot](https://www.huxiu.com/article/812076.html) | Argued that ChatGPT was not merely a better chatbot but a new natural-language interface to data and computation, then derived product and economic consequences before GPT-4 was released. |
+| Later review | [Current living article](https://www.superlinear.academy/c/ai-resources/chatgpt) | Preserves the original probabilities and records two major errors rather than rewriting the old view after the fact. |
+
+The pre-GPT-4 snapshot reasoned from instruction following, in-context learning, and apparent reasoning toward:
 
 - rapid declines in inference cost;
-- tool use and agents;
-- persistent personal memory;
-- private search, later commonly discussed as retrieval-augmented generation;
-- copilots across knowledge work;
-- AI-native systems rebuilt around the new interface;
-- a collapse in the marginal cost of distributing intelligence.
+- persistent memory and personalization;
+- connecting the model to search, software, APIs, and other tools;
+- moving from returning information toward directly delivering results;
+- systems and databases rebuilt as `ChatGPT Native` products;
+- a steep decline in the marginal cost of distributing intelligence.
 
-**Source:** [Original article](https://www.superlinear.academy/c/ai-resources/chatgpt)
+Later language should not be projected backward into the February essay. The original text supports mechanisms now often described as agentic, but it did not use `agent` as the organizing term. The current article's `private search` and Microsoft 365 Copilot sections were added after the pre-GPT-4 public snapshot and therefore are not evidence of what the February version anticipated.
+
+The later review names two major misses: overestimating OpenAI because human and organizational factors were underweighted, and overestimating the near-term speed and headroom of model-training progress. Together, the early videos, pre-GPT-4 article, and later error review make this a model-update story rather than a victory lap.
+
+Contemporaneous and follow-on public discussions include the [2023-02-23 What's Next panel](https://www.xiaoyuzhoufm.com/episode/63f5f66e1324e63d1259b079), recorded before GPT-4, and the [2023-04-14 商业WHY酱 episode](https://www.xiaoyuzhoufm.com/episode/643926bdb41b2b266b5962cf), which shows the argument traveling into a broader business audience after GPT-4.
 
 ### January 2025: Agentic AI
 

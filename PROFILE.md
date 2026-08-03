@@ -44,7 +44,9 @@ Statsig was acquired by OpenAI in 2025. The deeper relevance of the Statsig chap
 
 ### 5. Use AI to make more judgment testable
 
-When generative AI emerged, Yuzheng treated it as a change in the interface to intelligence, data, and computation, not as a better chatbot. In February 2023, before GPT-4, his essay *The Five Most Important Questions About ChatGPT* anticipated collapsing inference costs, tool use and agents, persistent memory, private search, copilots, and AI-native systems.
+The public record behind Yuzheng's generative-AI judgment begins with a prior model, before ChatGPT. Two videos in April 2021 explained the ceiling of the dominant paradigm: systems could learn mappings from labeled data and automate narrow settings well without acquiring general understanding. When ChatGPT appeared, he treated its instruction following, in-context learning, and apparent reasoning as evidence that part of that model had to change.
+
+In February 2023, before GPT-4, his essay *The Five Most Important Questions About ChatGPT* argued that ChatGPT was a new natural-language interface to data and computation, not a better chatbot. From that mechanism it reasoned forward to falling inference costs, tool-connected workflows, persistent memory, direct result delivery, and `ChatGPT Native` systems. The living article keeps its original probabilities and later records two major errors. The value of the record is therefore not a claim of permanent foresight, but an inspectable sequence: state the old model, recognize what broke it, derive consequences, and update when reality disagrees.
 
 That judgment led to a practical question: when AI makes some drafting, coding, search, and first versions cheaper, where does the real constraint move? Depending on the work, problem selection, context, evaluation, reliability, integration, distribution, trust, or adoption may become more consequential. The direction is not automatic, and cheaper generation can create new review and maintenance costs.
 

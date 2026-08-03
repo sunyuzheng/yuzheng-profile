@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Yuzheng Sun / 课代表立正 public profile facts",
-    "as_of": "2026-08-01",
+    "as_of": "2026-08-03",
     "scope": "Public, reusable records. Identity, career, metrics, current work, initiatives, books, and links are factual or current-state records; dated_judgments preserve claims made at the time; endorsements are third-party quotations; outcomes are bounded case records. Volatile metrics require date checks.",
     "canonical_profile": "https://www.lizheng.ai/",
     "record_kinds": {
@@ -207,11 +207,23 @@
   ],
   "dated_judgments": [
     {
+      "date": "2021-04",
+      "topic": "Limits and useful applications of the dominant AI paradigm",
+      "claim": "Systems that learn mappings from labeled data can automate narrow settings well without acquiring general understanding; useful AI applications should be chosen from the mechanism and task structure rather than benchmark spectacle or hype.",
+      "context": "Two public videos before ChatGPT established the prior explanatory model later revised in the February 2023 essay.",
+      "sources": [
+        "https://youtu.be/M2Yv3D8NDHY",
+        "https://youtu.be/sNJ09NOqBXk"
+      ]
+    },
+    {
       "date": "2023-02",
       "topic": "ChatGPT",
-      "claim": "A new natural-language interface to data and computation, with implications including lower inference cost, tool use and agents, memory, private search, copilots, and AI-native systems.",
-      "context": "First written before GPT-4",
-      "url": "https://www.superlinear.academy/c/ai-resources/chatgpt"
+      "claim": "ChatGPT was a new natural-language interface to data and computation, not merely a better chatbot. The pre-GPT-4 version reasoned forward to lower inference cost, persistent memory and personalization, tool-connected workflows, direct result delivery, and ChatGPT-native systems.",
+      "context": "First written in February 2023 and publicly archived by 2023-03-06, before GPT-4. The original text supports mechanisms later called agentic but did not use agent as its organizing term. Private search and the Microsoft 365 Copilot section were later additions and are not part of the pre-GPT-4 evidence.",
+      "pre_gpt4_snapshot_url": "https://www.huxiu.com/article/812076.html",
+      "living_article_url": "https://www.superlinear.academy/c/ai-resources/chatgpt",
+      "later_review": "The living article preserves the original probabilities and records two major errors: underweighting human and organizational factors at OpenAI, and overestimating the near-term speed and headroom of model-training progress."
     },
     {
       "date": "2025-01",
