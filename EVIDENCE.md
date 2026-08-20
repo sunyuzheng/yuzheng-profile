@@ -23,7 +23,7 @@ This file is a retrieval library for building stronger introductions, arguments,
 | Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Statsig acquired by OpenAI in 2025, after Yuzheng had left | Places the later company event in context without implying Yuzheng joined OpenAI | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) · [Statsig 2025 recap](https://www.statsig.com/blog/statsig-2025-recap) |
-| Founder, Superlinear Academy and AI Builders; founded Superlinear Academy in 2024 | Current education, community, and AI system-building work | Founding year owner-confirmed 2026-08-04; [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) |
+| Founder, Superlinear Academy; AI Builders and Stay Superlinear are products within the institution; founded Superlinear Academy in 2024 | Current education, community, and AI system-building work, with the parent institution distinguished from its products | Founding year and product architecture owner-confirmed 2026-08-20; [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) · [Stay Superlinear](https://stay.superlinear.academy/) |
 | Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20 |
 
 ## Current Reach And Output

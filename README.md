@@ -31,7 +31,7 @@ For public-facing and collaborator work, start with `CONTEXT.md`, then load the 
 
 ## The Short Version
 
-Yuzheng has a PhD in Economics from Cornell and has worked as an economist, data scientist, product and AI leader, founder, educator, author, and community builder across the United States and China. His path includes Amazon, Meta, Tencent IEG, and Statsig, followed by the systems he now builds through Superlinear Academy, AI Builders, Stay Superlinear, enterprise work, books, public conversations, and public tools.
+Yuzheng has a PhD in Economics from Cornell and has worked as an economist, data scientist, product and AI leader, founder, educator, author, and community builder across the United States and China. His path includes Amazon, Meta, Tencent IEG, and Statsig, followed by Superlinear Academy, the parent institution through which he now builds a free community, AI Builders, Stay Superlinear, enterprise work, books, public conversations, and public tools.
 
 The throughline is not a list of jobs. It is the attempt to make work that lasts: let explicit world models and tacit, result-answerable craft continually correct one another; internalize enough conviction to act without becoming immune to evidence; and remain responsible for the standards and consequences of the work while reality tests it and time reveals what continues to matter.
 

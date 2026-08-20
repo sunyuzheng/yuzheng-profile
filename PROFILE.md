@@ -5,7 +5,7 @@
 - **Name:** Yuzheng Sun / 孙煜征
 - **Public identity:** 课代表立正
 - **Current base:** Seattle / 西雅图
-- **Current work:** Founder of Superlinear Academy and AI Builders; works with Yage as a long-term teaching partner and technical authority
+- **Current work:** Founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear; works with Yage as a long-term teaching partner and technical authority
 - **Current focus:** Make what lasts—make work that keeps creating value and bears the mark of its maker, and help more people do the same through Superlinear.
 
 One idea organizes the rest of the profile:
@@ -58,12 +58,12 @@ These are time-sensitive interpretations of the current AI moment, not permanent
 
 ### 6. Build an institution around work that lasts
 
-Superlinear Academy, AI Builders, Stay Superlinear, enterprise programs, books, public conversations, and public tools are different expressions of the same project.
+Superlinear Academy is the parent institution and master brand for this project. Its free community, AI Builders, Stay Superlinear, and enterprise programs sit within it; books, public conversations, and public tools extend the same body of work beyond its products.
 
 - **Public content and conversations** name consequential questions, reveal the standard behind the work, and attract people who want to make work of their own.
-- **AI Builders**, co-taught with Yage, turns technical understanding, building methods, and value judgment into capabilities professionals can reuse on real problems.
-- **Superlinear Academy** is the institution Yuzheng is building around this belief; its open, free community makes real work and first-hand judgment across fields continuously visible, giving members a better frame of reference while bringing specific questions and unfinished projects into contact with feedback, collaborators, users, and opportunities.
-- **Stay Superlinear** is the paid ongoing membership within Superlinear, organized around high-value content, expert judgment, activities, tools, and sustained practitioner context. Yage contributes as a long-term teaching partner and technical authority.
+- **Superlinear Academy's free community** makes real work and first-hand judgment across fields continuously visible, giving members a better frame of reference while bringing specific questions and unfinished projects into contact with feedback, collaborators, users, and opportunities.
+- **AI Builders**, a structured learning product within Superlinear Academy and co-taught with Yage, turns technical understanding, building methods, and value judgment into capabilities professionals can reuse on real problems.
+- **Stay Superlinear** is Superlinear Academy's paid ongoing membership product, organized around high-value content, expert judgment, activities, tools, and sustained practitioner context. Yage contributes as a long-term teaching partner and technical authority.
 - **Enterprise work** helps teams connect AI-native methods to real workflows, incentives, and organizational constraints.
 - **Books** make judgment reusable across time and outside a live classroom or community.
 - **Public tools** make selected production and thinking systems inspectable; reuse depends on each repository's license and documentation.
@@ -137,7 +137,7 @@ Figures below were last checked through August 20, 2026; use `facts.json` and `E
 - Cornell PhD in Economics; former Amazon economist and Meta data scientist.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
 - Former principal data scientist and sole evangelist at Statsig; Statsig was acquired by OpenAI in 2025 after he had left.
-- Founder of Superlinear Academy and AI Builders.
+- Founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear.
 - 3,000+ paying learners; 5.0/5 course rating on Maven from 83 ratings.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.

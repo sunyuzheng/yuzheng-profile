@@ -83,8 +83,9 @@
       "stability": "durable"
     },
     {
-      "organization": "Superlinear Academy and AI Builders",
+      "organization": "Superlinear Academy",
       "role": "Founder",
+      "detail": "Superlinear Academy is the parent institution and master brand; AI Builders and Stay Superlinear are products within it",
       "stability": "current"
     }
   ],
@@ -178,25 +179,26 @@
   "current_work": [
     {
       "name": "Superlinear Academy",
-      "type": "institution for AI education, community, and serious work; includes a free community",
+      "type": "parent institution and master brand for AI education, community, and serious work; includes a free community and the AI Builders and Stay Superlinear products",
       "founded": "2024",
       "url": "https://www.superlinear.academy/"
     },
     {
       "name": "Stay Superlinear",
       "type": "paid ongoing environment for practitioners",
-      "relationship": "founded by Yuzheng; Yage contributes as a long-term teaching partner and technical authority",
+      "relationship": "paid ongoing membership product within Superlinear Academy; Yage contributes as a long-term teaching partner and technical authority",
       "url": "https://stay.superlinear.academy/"
     },
     {
       "name": "AI Builders",
       "type": "long-term AI learning system",
-      "relationship": "co-taught with Yage",
+      "relationship": "structured learning product within Superlinear Academy, co-taught with Yage",
       "url": "https://ai-builders.com/"
     },
     {
       "name": "Enterprise AI programs",
       "type": "AI training and workflow-focused enterprise programs",
+      "relationship": "enterprise products and services within the Superlinear Academy institution",
       "url": "https://corp-training.ai-builders.com/"
     },
     {

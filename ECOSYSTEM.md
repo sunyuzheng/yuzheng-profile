@@ -2,7 +2,7 @@
 
 This file explains why Yuzheng's content, Superlinear Academy, courses, membership, enterprise work, books, and public tools belong to one body of work. Product prices, access, deadlines, and current benefits remain with their product owners.
 
-## One Idea, Several Forms
+## One Institution, Several Products
 
 > **MAKE WHAT LASTS.**
 >
@@ -18,7 +18,7 @@ When a work continues to matter, it can keep creating value for other people and
 
 ## Founder And Institution
 
-Yuzheng is the founder, author, and public steward of this idea. Superlinear is his defining work in progress and the institution through which he is making the idea useful to more people.
+Yuzheng is the founder, author, and public steward of this idea. Superlinear Academy is his defining work in progress, the parent institution and master brand through which he is making the idea useful to more people.
 
 That relationship has two sides:
 
@@ -32,11 +32,12 @@ Yage is an important long-term teaching partner and technical authority. His res
 | Part | Primary role in the shared project |
 |---|---|
 | **课代表立正 content and conversations** | Name consequential questions, make standards and judgment visible, and attract people who want to make meaningful work of their own |
+| **Superlinear Academy** | Hold the institution, master brand, shared belief, and product family together so the whole can become larger and more durable than any one course or membership |
 | **Knowledge Bank** | Turn Yuzheng's and Yage's deep analysis of AI mechanisms, engineering, products, organizations, and human consequences into public, inspectable work that builds foundational understanding |
 | **Books and public tools** | Turn selected ideas and working systems into artifacts that can travel and work without the author present |
-| **Superlinear Academy free community** | Make real work and first-hand judgment across fields continuously visible, so unfinished work can meet better reference points, peers, users, feedback, collaborators, and opportunities earlier |
-| **AI Builders** | Train the principles, judgment, building methods, and reliability practices required to build useful work with AI |
-| **Stay Superlinear membership** | Sustain a high-craft environment of curated content, expert judgment, activities, tools, discussion, and practitioner context |
+| **Free community** | Serve as Superlinear Academy's open public entry point: make real work and first-hand judgment across fields continuously visible, so unfinished work can meet better reference points, peers, users, feedback, collaborators, and opportunities earlier |
+| **AI Builders** | Serve as Superlinear Academy's structured learning product: train the principles, judgment, building methods, and reliability practices required to build useful work with AI |
+| **Stay Superlinear membership** | Serve as Superlinear Academy's paid ongoing membership product: sustain a high-craft environment of curated content, expert judgment, activities, tools, discussion, and practitioner context |
 | **Enterprise programs** | Put the same standard inside real workflows, goals, incentives, evaluation, and organizational constraints |
 
 This is not a mandatory funnel. As a portfolio default, each user-facing part should offer a clear independent return because that protects trust and makes the ecosystem resilient. Deliberate routing, bundles, and acquisition journeys can still be useful when they help someone reach a more fitting next step rather than disguising an empty first experience. Their deeper relationship is ideological and practical: each helps a person see, make, test, or sustain work that can keep working.
@@ -55,7 +56,7 @@ Different parts of the ecosystem can contribute different evidence. Public conte
 
 The ideology and the business are not opposing layers.
 
-- Public content and the free community make useful judgment, projects, and people openly accessible.
+- Superlinear Academy holds the shared institution and product family together; its public content and free community make useful judgment, projects, and people openly accessible.
 - AI Builders charges when Superlinear takes responsibility for curriculum, teaching translation, practice, feedback, and updates.
 - Stay Superlinear membership charges when Superlinear takes responsibility for sustained curation, content, activities, tools, discussion, and a shared environment.
 - Enterprise work charges for adapting the same methods to an organization's specific context and delivery requirements.
@@ -85,9 +86,9 @@ This is a design model, not a claim that every activity completes the loop. The 
 
 ## Stable Product Descriptions
 
-- **Superlinear Academy:** the institution Yuzheng is building around `MAKE WHAT LASTS / 做出你的代表作`; its free community is a high-density field of visible real work, first-hand judgment, feedback, and opportunity across disciplines.
-- **AI Builders:** a structured learning program, co-taught with Yage, for building useful and reliable work with AI.
-- **Stay Superlinear membership:** a paid ongoing environment for high-value content, expert judgment, activities, tools, discussion, and sustained practitioner context.
+- **Superlinear Academy:** the parent institution and master brand Yuzheng is building around `MAKE WHAT LASTS / 做出你的代表作`; its free community is the open public entry point into a broader family of learning, membership, and enterprise products.
+- **AI Builders:** Superlinear Academy's structured learning product, co-taught with Yage, for building useful and reliable work with AI.
+- **Stay Superlinear membership:** Superlinear Academy's paid ongoing membership product for high-value content, expert judgment, activities, tools, discussion, and sustained practitioner context.
 - **Enterprise programs:** the same underlying standard adapted and tested inside organizations.
 
 These descriptions explain the relationship. Current product pages own detailed copy and commercial facts.
