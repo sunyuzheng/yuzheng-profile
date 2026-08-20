@@ -34,12 +34,22 @@ Yage is an important long-term teaching partner and technical authority. His res
 | **课代表立正 content and conversations** | Name consequential questions, make standards and judgment visible, and attract people who want to make meaningful work of their own |
 | **Knowledge Bank** | Turn Yuzheng's and Yage's deep analysis of AI mechanisms, engineering, products, organizations, and human consequences into public, inspectable work that builds foundational understanding |
 | **Books and public tools** | Turn selected ideas and working systems into artifacts that can travel and work without the author present |
-| **Superlinear Academy free community** | Let unfinished work meet peers, users, feedback, collaborators, and opportunities earlier |
+| **Superlinear Academy free community** | Make real work and first-hand judgment across fields continuously visible, so unfinished work can meet better reference points, peers, users, feedback, collaborators, and opportunities earlier |
 | **AI Builders** | Train the principles, judgment, building methods, and reliability practices required to build useful work with AI |
 | **Stay Superlinear membership** | Sustain a high-craft environment of curated content, expert judgment, activities, tools, discussion, and practitioner context |
 | **Enterprise programs** | Put the same standard inside real workflows, goals, incentives, evaluation, and organizational constraints |
 
 This is not a mandatory funnel. As a portfolio default, each user-facing part should offer a clear independent return because that protects trust and makes the ecosystem resilient. Deliberate routing, bundles, and acquisition journeys can still be useful when they help someone reach a more fitting next step rather than disguising an empty first experience. Their deeper relationship is ideological and practical: each helps a person see, make, test, or sustain work that can keep working.
+
+## A Current AI-Era Research Agenda
+
+One current question can make the relationship among these parts unusually concrete:
+
+> **What should count as AI-native work—and what evidence shows that a person can create it repeatedly?**
+
+The working definition starts with the work rather than the identity. When AI changes capability, cost, and constraints, does the person return to the result that matters, redesign the task boundary, human–model–tool division, context, feedback, and verification, and remain responsible for what happens in reality? Only repeated work across changing problems begins to support a claim about transferable capability.
+
+Different parts of the ecosystem can contribute different evidence. Public content and Knowledge Bank define the problem, explain mechanisms, and keep the reasoning open to attack. AI Builders creates structured practice for the underlying judgment and building capability. Community projects let the work meet users, peers, failures, and opportunities. Enterprise programs reveal how permissions, incentives, workflows, and organizational responsibility enable or block the same capability. This is a research and practice loop, not a promise that course completion or community membership certifies an identity.
 
 ## Why The Commercial Model Belongs
 
@@ -75,7 +85,7 @@ This is a design model, not a claim that every activity completes the loop. The 
 
 ## Stable Product Descriptions
 
-- **Superlinear Academy:** the institution Yuzheng is building around `MAKE WHAT LASTS / 做出你的代表作`; its free community brings deep public work, real projects, feedback, and opportunity into one network.
+- **Superlinear Academy:** the institution Yuzheng is building around `MAKE WHAT LASTS / 做出你的代表作`; its free community is a high-density field of visible real work, first-hand judgment, feedback, and opportunity across disciplines.
 - **AI Builders:** a structured learning program, co-taught with Yage, for building useful and reliable work with AI.
 - **Stay Superlinear membership:** a paid ongoing environment for high-value content, expert judgment, activities, tools, discussion, and sustained practitioner context.
 - **Enterprise programs:** the same underlying standard adapted and tested inside organizations.

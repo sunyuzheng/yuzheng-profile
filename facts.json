@@ -37,7 +37,7 @@
     "representation_guidance": [
       "Canonical career records retain the official title and chronology. Formal resumes, structured data, employment verification, and detailed factual profiles normally use those exact records.",
       "Headlines, social profiles, spoken introductions, and short bios may use familiar industry shorthand when it does not materially overstate the employer relationship, actual responsibility, or outcome. For example, 腾讯总监 can compress the official Vice Director, Data & AI title in a short Chinese profile without replacing the canonical record.",
-      "Statsig was acquired by OpenAI after Yuzheng had left. OpenAI收购团队 is accepted shorthand for that company context in a compressed social profile; a detailed surface should name Statsig and preserve the chronology. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into former OpenAI, OpenAI alum, or a claim that he personally participated in, led, caused, or predicted the acquisition.",
+      "Statsig was acquired by OpenAI after Yuzheng had left. OpenAI收购团队早期成员 is accepted shorthand for that high-information company context on Chinese audience-facing surfaces, including bios, collaboration pages, and host kits. Formal résumés, structured records, and factual source pages keep the Statsig name and chronology. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into former OpenAI, OpenAI alum, or a claim that he personally participated in, led, caused, or predicted the acquisition.",
       "For founder, investor, technical, and product audiences, the Statsig role together with the company's later acquisition by OpenAI can be a high-information signal. In a tight introduction, it may be more useful than mechanically naming every employer, while the chronology and employment boundary above still apply.",
       "Only material labeled verbatim, or high-risk wording such as promises, disputes, legal or safety claims, normally requires word-for-word matching. Ordinary media quotations may remove fillers, repetition, or obvious grammatical slips and may be translated when meaning and tone remain faithful. Mark meaningful edits or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.",
       "These are defaults for owned media. When an external publisher or collaborator has a known house style or approval process, adapt to it unless that would create a material falsehood."
@@ -69,6 +69,15 @@
       "organization": "Statsig",
       "role": "Principal Data Scientist and sole evangelist",
       "detail": "Statsig was acquired by OpenAI in 2025 after Yuzheng had left the company",
+      "expression_context": {
+        "compact_zh": "OpenAI收购团队早期成员",
+        "shortest_zh": "OpenAI收购团队",
+        "compact_zh_poster": "OpenAI收购团队早期成员",
+        "expanded_zh": "曾任Statsig Principal Data Scientist；立正离开后，Statsig于2025年被OpenAI收购",
+        "compact_is_atomic": true,
+        "compact_zh_poster_meaning": "立正是Statsig早期成员；Statsig后来被OpenAI收购",
+        "semantic_boundary": "不能改写为立正随团队被收购、加入OpenAI或参与收购"
+      },
       "source": "https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig",
       "completion_source": "https://www.statsig.com/blog/statsig-2025-recap",
       "stability": "durable"
@@ -128,26 +137,39 @@
     },
     {
       "id": "community_projects",
-      "value": "600+",
+      "value": "700+",
+      "observed_published_posts": 719,
+      "observed_project_or_practice_posts_excluding_guide": 718,
       "label": "public project posts in the free Superlinear Academy community",
-      "as_of": "2026-07-08",
+      "as_of": "2026-08-20",
       "volatility": "high",
-      "source": "Private Circle Admin API count; public community at https://www.superlinear.academy/"
+      "source": "Private Circle Admin API list_posts(space_id=1391825, status=published); public community at https://www.superlinear.academy/",
+      "public_reuse_boundary": "Public copy may say 700+ real project or practice posts. The runtime count includes one board guide and may include multiple updates to the same underlying project, so do not present the exact post count as a deduplicated count of distinct products."
     },
     {
       "id": "community_project_comments",
-      "value": "nearly 7,000",
+      "value": "8,000+",
+      "observed_comments_excluding_guide": 8432,
       "label": "comments on project posts in the free Superlinear Academy community",
-      "as_of": "2026-07-08",
+      "as_of": "2026-08-20",
       "volatility": "high",
-      "source": "Private Circle Admin count; public community at https://www.superlinear.academy/"
+      "source": "Private Circle Admin API full published-post scan; public community at https://www.superlinear.academy/"
+    },
+    {
+      "id": "community_projects_with_10_plus_comments",
+      "value": "250+",
+      "observed_count": 259,
+      "label": "free-community project posts with at least 10 comments",
+      "as_of": "2026-08-20",
+      "volatility": "high",
+      "source": "Private Circle Admin API full published-post scan"
     },
     {
       "id": "free_community_members",
-      "value": "20,202",
+      "value": "21,686",
       "public_wording": "20,000+",
       "label": "members who completed profile setup in the free Superlinear Academy community",
-      "as_of": "2026-07-30",
+      "as_of": "2026-08-20",
       "volatility": "high",
       "source": "Circle Admin API list_community_members(status=active); public community at https://www.superlinear.academy/",
       "public_reuse_boundary": "Circle's active status means profile setup is complete; it does not mean behaviorally active. Public copy may say 20,000+ members in the free community. Do not present this as paid Stay membership."
@@ -157,6 +179,7 @@
     {
       "name": "Superlinear Academy",
       "type": "institution for AI education, community, and serious work; includes a free community",
+      "founded": "2024",
       "url": "https://www.superlinear.academy/"
     },
     {

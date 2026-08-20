@@ -50,6 +50,8 @@ In February 2023, before GPT-4, his essay *The Five Most Important Questions Abo
 
 That judgment led to a practical question: when AI makes some drafting, coding, search, and first versions cheaper, where does the real constraint move? Depending on the work, problem selection, context, evaluation, reliability, integration, distribution, trust, or adoption may become more consequential. The direction is not automatic, and cheaper generation can create new review and maintenance costs.
 
+One current research agenda makes that question concrete: what should count as AI-native work and talent? Yuzheng's working answer begins with the work, not age, identity, or tool frequency. Return to the result that matters, identify which parts of the old process were responses to old constraints, and redesign the work when AI changes capability and relative cost. Professional experience can become more valuable because it supplies judgment; it can also make the change harder when yesterday's constraints have hardened into unquestioned best practices. This is a revisable AI-era application of `MAKE WHAT LASTS`, not a second permanent theme.
+
 For people who want more agency and can carry the responsibility, one useful path is to turn occasional tool use into a workflow, product, body of work, or asset they can own. That is a possible route rather than a universal `User → Builder → Architect` hierarchy. The larger standard is unchanged: use the new capability to make work whose value can extend beyond an isolated task or release.
 
 These are time-sensitive interpretations of the current AI moment, not permanent parts of the identity. [DATED_VIEWS.md](DATED_VIEWS.md) owns their current scope and update conditions.
@@ -60,7 +62,7 @@ Superlinear Academy, AI Builders, Stay Superlinear, enterprise programs, books, 
 
 - **Public content and conversations** name consequential questions, reveal the standard behind the work, and attract people who want to make work of their own.
 - **AI Builders**, co-taught with Yage, turns technical understanding, building methods, and value judgment into capabilities professionals can reuse on real problems.
-- **Superlinear Academy** is the institution Yuzheng is building around this belief; its open, free community brings together deep public work, real projects, specific questions, first-hand experience, feedback, collaboration, and opportunities.
+- **Superlinear Academy** is the institution Yuzheng is building around this belief; its open, free community makes real work and first-hand judgment across fields continuously visible, giving members a better frame of reference while bringing specific questions and unfinished projects into contact with feedback, collaborators, users, and opportunities.
 - **Stay Superlinear** is the paid ongoing membership within Superlinear, organized around high-value content, expert judgment, activities, tools, and sustained practitioner context. Yage contributes as a long-term teaching partner and technical authority.
 - **Enterprise work** helps teams connect AI-native methods to real workflows, incentives, and organizational constraints.
 - **Books** make judgment reusable across time and outside a live classroom or community.
@@ -82,7 +84,7 @@ Yuzheng's perspective comes from several combinations that rarely sit in one car
 - **Large companies and startups:** Amazon, Meta, Tencent, Statsig, and founder-led organizations.
 - **Technical systems and human systems:** models, experiments, agents, products, incentives, learning, community, and narrative.
 - **Private execution and public thinking:** dated public calls can be compared with what happened later.
-- **Reach and specific feedback:** As of July 2026, 400K+ followers give the work meaningful distribution, while 200+ public conversations, 3,000+ paying learners, course projects, hundreds of free-community project posts, and enterprise delivery add depth, specificity, and multiple forms of real-world contact.
+- **Reach and specific feedback:** As of August 2026, 400K+ followers give the work meaningful distribution, while 200+ public conversations, 3,000+ paying learners, course projects, 700+ free-community project posts, 8,000+ project comments, and enterprise delivery add depth, specificity, and multiple forms of real-world contact.
 
 These combinations are more important than any single title. They make it possible to translate between researchers, builders, executives, learners, and organizations without reducing AI to either technical novelty or motivational advice.
 
@@ -130,7 +132,7 @@ The more accurate description is a founder and builder who stands for making wor
 
 ## Proof At A Glance
 
-Figures below were last checked through August 2, 2026; use `facts.json` and `EVIDENCE.md` for each metric's exact source and date.
+Figures below were last checked through August 20, 2026; use `facts.json` and `EVIDENCE.md` for each metric's exact source and date.
 
 - Cornell PhD in Economics; former Amazon economist and Meta data scientist.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
@@ -140,7 +142,7 @@ Figures below were last checked through August 2, 2026; use `facts.json` and `EV
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.
 - 55 selected AI Architect course projects.
-- 20,000+ members, 600+ public project posts, and nearly 7,000 project comments in the free Superlinear Academy community.
+- 20,000+ members, 700+ public project posts, 8,000+ project comments, and 250+ projects with at least 10 comments in the free Superlinear Academy community.
 - Enterprise work with teams including DoorDash, Tencent, Meituan, and Xiaohongshu.
 - Co-author of *Growth Data Analytics Playbook* and author of *真本事：从会工作到会赚钱*.
 - Dated public AI judgments, led by the February 2023 pre-GPT-4 ChatGPT essay.

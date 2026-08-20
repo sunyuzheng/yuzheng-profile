@@ -20,7 +20,21 @@ The purpose is intellectual continuity: make it possible to inspect how a judgme
 
 ## Current AI-Era Working Hypotheses
 
-These are current hypotheses as of 2026-08-01. They are not timeless brand beliefs.
+These are current hypotheses as of 2026-08-11. They interpret the present technological moment and remain open to revision as the work changes.
+
+### AI-native work and talent: recomputing work when the constraints change
+
+Most workflows are arrangements that once made sense under a particular set of capabilities, costs, risks, and coordination limits. AI changes those relative prices. The useful question then becomes: under today's conditions, what is now the best way to produce the result that matters?
+
+One helpful public expression is: **AI changes the hidden price table behind work; AI-native people notice which old calculation no longer holds and recalculate the work.** The metaphor captures an economic way of seeing technology. A workflow is a solution to an optimization problem, so a meaningful change in constraints can justify a different solution.
+
+AI-native work grows from the new capability boundary. It returns to the purpose of the work, separates that purpose from inherited means, and redesigns the path from intention to a result that can be used and tested. In research and creative work, the result may become clearer through action; recomputing the work includes letting new evidence reshape the question. Judgment remains central because capability and cost do not decide what is worth producing or which consequences are acceptable.
+
+AI-native talent is the demonstrated ability to make this recomputation repeatedly. People of any age can develop it. Professional experience contains both tacit judgment that determines quality and habits formed around yesterday's limitations. AI can amplify the former; the latter may need to be unlearned as the constraints change.
+
+Evidence accumulates through work. One redesigned task shows what happened in that task; repeated performance across changing tools, problems, and settings says more about transferable capability. The same person's results also depend on organizational conditions such as access, data, incentives, feedback, and authority, so individual capability and the surrounding system are both part of the inquiry.
+
+This is a current AI-era research agenda beneath `MAKE WHAT LASTS / 做出你的代表作`. The defining idea names the work worth aspiring to; this agenda asks what kind of work design and professional capability can produce it under today's conditions. Cross-profession cases, failures, transfer to new problems, and use by employers and practitioners will continue to refine the view.
 
 ### AI is lowering some execution costs and changing complementary bottlenecks
 

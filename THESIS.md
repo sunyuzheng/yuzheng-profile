@@ -117,6 +117,7 @@ The following are supporting lenses, not additional brand pillars:
 
 Several ideas remain useful in their proper contexts but no longer belong in the durable personal philosophy:
 
+- `AI-native work` and `AI-native talent` are current category hypotheses about how work and professional capability may change when AI alters capability, cost, and constraints. They help translate this belief into the present technological moment; they are not a second defining idea, an age-based identity, or a timeless personality standard. [DATED_VIEWS.md](DATED_VIEWS.md) owns the current definition and its update conditions.
 - `User → Builder → Architect` is not a universal human or career ladder. For people seeking more agency in some kinds of knowledge and software work, turning tool use into workflows, products, or assets they can own may be one valuable path.
 - “AI moves scarcity upward” is too mechanical as a general law. AI is reducing some execution costs and changing complementary bottlenecks; the direction and magnitude depend on the task, demand, reliability, integration, and market structure.
 - “Spend computation to conserve human cognition” is a conditional operating heuristic. Machine generation can also increase review, integration, security, and maintenance burdens.

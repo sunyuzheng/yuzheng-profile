@@ -2,7 +2,7 @@
 
 This file is a retrieval library for building stronger introductions, arguments, pitches, pages, and collaborations. It keeps useful facts, cases, quotations, dates, and sources close together so a writer or model can find the right combination without relying on Yuzheng's memory.
 
-- **Current as of:** 2026-08-03
+- **Current as of:** 2026-08-20
 - **Public profile:** [lizheng.ai](https://www.lizheng.ai/)
 
 ## Evidence Selection
@@ -23,7 +23,7 @@ This file is a retrieval library for building stronger introductions, arguments,
 | Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Statsig acquired by OpenAI in 2025, after Yuzheng had left | Places the later company event in context without implying Yuzheng joined OpenAI | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) · [Statsig 2025 recap](https://www.statsig.com/blog/statsig-2025-recap) |
-| Founder, Superlinear Academy and AI Builders | Current education, community, and AI system-building work | [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) |
+| Founder, Superlinear Academy and AI Builders; founded Superlinear Academy in 2024 | Current education, community, and AI system-building work | Founding year owner-confirmed 2026-08-04; [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) |
 | Based in Seattle | Current residence and default location for in-person work | Owner-confirmed 2026-07-20 |
 
 ## Current Reach And Output
@@ -38,11 +38,18 @@ These numbers are useful but volatile.
 | Maven course rating | 5.0/5 from 83 ratings | 2026-08-02 | Learner satisfaction | [Maven course](https://maven.com/superlinear/aibuilders) |
 | Public named written Maven reviews | 54 | 2026-07-27 | Review-corpus depth; retained from the last full enumeration and not revalidated from the current first view | [Maven reviews](https://maven.com/superlinear/aibuilders#reviews) |
 | Selected AI Architect course projects | 55 | 2026-07-25 | Structured-course builder output | [AI Builders](https://ai-builders.com/) |
-| Public project posts in the free community | 600+ | 2026-07-08 | Breadth of public building and project sharing | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
-| Comments on free-community project posts | Nearly 7,000 | 2026-07-08 | Density of feedback and discussion around real work | Circle community count retained in the private proof archive; [community](https://www.superlinear.academy/) |
-| Free community members who completed profile setup | 20,202 | 2026-07-30 | Scale of the free Superlinear Academy community; public wording may say “20,000+.” Circle's `active` status means profile setup is complete, not that a member is behaviorally active. Do not present this as paid Stay membership. | Circle Admin API `list_community_members(status=active)`; [community](https://www.superlinear.academy/) |
+| Public project posts in the free community | 700+ | 2026-08-20 | Breadth of public building and project sharing; the runtime count was 719 published posts, or 718 after excluding the board guide | Circle Admin API `list_posts(space_id=1391825, status=published)`; [community](https://www.superlinear.academy/) |
+| Comments on free-community project posts | 8,000+ | 2026-08-20 | Density of feedback and discussion around real work; the runtime count was 8,432 comments across the published project-space corpus after excluding the board guide | Circle Admin API full published-post scan; [community](https://www.superlinear.academy/) |
+| Project posts with at least 10 comments | 250+ | 2026-08-20 | Discussion is not confined to a handful of exceptional posts; the runtime count was 259 | Circle Admin API full published-post scan |
+| Free community members who completed profile setup | 21,686 | 2026-08-20 | Scale of the free Superlinear Academy community; public wording may say “20,000+.” Circle's `active` status means profile setup is complete, not that a member is behaviorally active. Do not present this as paid Stay membership. | Circle Admin API `list_community_members(status=active)`; [community](https://www.superlinear.academy/) |
 
 Owner-confirmed platform dashboards indicate that the audience includes engineers, data scientists, founders, investors, operators, and technology leaders across China and the United States. Retrieve platform-level detail when a partnership or campaign depends on a more specific audience composition.
+
+### What the community scale represents
+
+The distinctive evidence is not simply that the community is large or contains impressive résumés. Real work and first-hand judgment remain visible: members share projects, constraints, failures, decisions, and progress; other practitioners add questions, counterexamples, feedback, and experience. The result is a better frame of reference for what serious AI work looks like across fields, not merely another stream of AI information.
+
+A 2026-08-14 audit of self-reported member profiles and contribution history found participating members from OpenAI, Google, Meta, Amazon, Microsoft, DoorDash, Pinterest, Airbnb, Netflix, and ByteDance, among other organizations. Each company named here had at least one member who had posted or commented. This supports the presence of practitioners from those environments; it does not imply company endorsement, an official partnership, or that every member from a named company is active.
 
 ## Dated Judgment
 
@@ -111,6 +118,19 @@ Selected examples:
 | Ryo Lu | Head of Design, Cursor | [Conversation](https://www.youtube.com/watch?v=BnL5qaBzmR0) |
 | Gergely Orosz | Founder, The Pragmatic Engineer | [Conversation](https://www.youtube.com/watch?v=-WvvJBd3hDI) |
 
+### Interviewing craft
+
+The body of conversations also contains direct and observable evidence of Yuzheng's interviewing method. Together, these examples show how preparation becomes answer-led follow-up, conceptual depth, and respectful disagreement.
+
+| Evidence | What it supports | Source |
+|---|---|---|
+| At the end of their conversation, Tian Yuandong said: “通过这个对话，我也更深层次地理解了这件事多重要、它的context是什么。” | A conversation can help the guest clarify the significance and context of his own work, rather than only repeat an existing explanation. | [Conversation, 39:24](https://youtu.be/dymM40bVIhQ?t=2364) |
+| After Yuzheng described reading Reynold Xin's prior interviews and consulting Howie Xu for an hour about the questions worth pursuing, Xin replied: “你这准备得非常充分。” | Direct guest evidence of preparation; the preparation was used to find a deeper question layer. | [Conversation, 05:16](https://youtu.be/GIv0I-34aaI?t=316) |
+| Tian's use of `insight` led to a live distinction among taste, intuition, experience, and mental models; later, Tian corrected Yuzheng's initial framing of elegance as a reward-function question, and the conversation followed that correction into implicit bias and loss functions as surrogates. | Yuzheng can notice a generative word, expose his own model, accept a correction, and let the answer rewrite the next question. | [Insight chain, 07:27](https://youtu.be/dymM40bVIhQ?t=447) · [Elegance chain, 28:36](https://youtu.be/dymM40bVIhQ?t=1716) |
+| After allowing Liu Jia to develop a personal framework for consciousness, Yuzheng asked whether it was the field's definition; later he connected Tian's comments on implicit elegance and Cha Sheng's comments on training feedback to Liu's work on long-range feedback and neural manifolds. | Distinguishing a guest's theory from field consensus; using earlier conversations as a live knowledge network rather than a guest list. | [Consensus check, 43:48](https://youtu.be/-Et3GJRSI_0?t=2628) · [Cross-conversation synthesis, 1:26:28](https://youtu.be/-Et3GJRSI_0?t=5188) |
+| When Yang Ying described her bookstore's success, Yuzheng asked how much depended on her already being a major creator; she estimated 70%, added category and platform caveats, and supplied a failed jewelry counterexample. | Testing whether a success story transfers to the audience instead of accepting it as a legend. | [Conversation, 18:46](https://youtu.be/vd_oYgwQSBM?t=1126) |
+| In October 2022, a discussion of how nearly everyone had heard of cloud and mobile but still underestimated their consequences led into generative AI as the next structural opportunity. Elsewhere in the same conversation, Yuzheng challenged and then helped narrow claims about blockchain and trust. | Asking about the difference between noticing a trend and internalizing its consequences; bringing a position without requiring agreement. | [Generative AI discussion, 12:44](https://youtu.be/R8X4ClBY5tg?t=764) · [Blockchain discussion, 24:50](https://youtu.be/R8X4ClBY5tg?t=1490) |
+
 The Significance Summit conversation with Acquired hosts Ben Gilbert and David Rosenthal is useful visual and peer-context proof on the personal website.
 
 ## Education And Builder Proof
@@ -121,7 +141,7 @@ The Significance Summit conversation with Acquired hosts Ben Gilbert and David R
 - 5.0/5 course rating on Maven from 83 ratings. The last full review-corpus enumeration found 54 public named written reviews as of 2026-07-27; that separate count was not revalidated from the current first view.
 - Learners include engineers, data scientists, product leaders, designers, operators, and executives from major technology and financial companies.
 - The current AI Builders page features 55 selected AI Architect course projects.
-- More than 600 project posts have been shared in the free Superlinear Academy community, generating nearly 7,000 comments. This is a broader community corpus, not a count of paid-course projects.
+- More than 700 project posts have been shared in the free Superlinear Academy community, generating more than 8,000 comments; more than 250 project posts have received at least 10 comments. This is a broader community corpus, not a count of paid-course projects.
 
 ### Selected learner signals
 
@@ -236,11 +256,11 @@ Use endorsements that resonate with the audience. A recognizable quote can open 
 - Distinguish the free [Superlinear Academy](https://www.superlinear.academy/) community from the paid [Stay Superlinear](https://stay.superlinear.academy/) membership.
 - Use [stay.superlinear.academy](https://stay.superlinear.academy/) as the canonical membership URL. `staysuperlinear.com` is a working legacy alias; Vercel deployment aliases are infrastructure details, not public canonical links.
 - The canonical Tencent record is “Vice Director, Data & AI, Tencent IEG,” with responsibility for a 30-person team. Use it in formal résumés, structured data, employment verification, and detailed factual profiles. A short social bio, headline, or spoken introduction may say “腾讯总监” when that familiar compression does not materially change what the audience needs to understand.
-- Statsig was acquired by OpenAI after Yuzheng had left. “OpenAI收购团队” is accepted shorthand for that company context in a compressed social profile; a detailed surface should name Statsig and preserve the chronology. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into “former OpenAI,” “OpenAI alum,” or a claim that he personally participated in, led, caused, or predicted the acquisition.
+- Statsig was acquired by OpenAI after Yuzheng had left. `OpenAI收购团队早期成员` is accepted shorthand for that high-information company context on Chinese audience-facing surfaces, including bios, collaboration pages, and host kits. Keep the Statsig name and full chronology in formal résumés, structured records, and factual source pages; do not add a defensive timeline note to marketing copy unless the audience actually needs it. The shorthand does not itself say Yuzheng worked at OpenAI and should not be expanded into “former OpenAI,” “OpenAI alum,” or a claim that he personally participated in, led, caused, or predicted the acquisition.
 - Only an endorsement labeled verbatim, or high-risk wording such as a promise, dispute, legal or safety claim, normally needs word-for-word matching. Ordinary media quotations can remove fillers, repetition, or obvious grammatical slips and can be translated when meaning and tone remain faithful. Mark meaningful edits or translations; use unquoted paraphrase for substantive rewriting, and never invent a view or endorsement.
-- Keep an `as_of` date in the formal ledger and data tables for `400K+`, `3,000+`, `200+`, `20,000+`, `600+`, and “nearly 7,000.” On audience-facing surfaces, show the date or platform when omission would make scope or staleness materially misleading; a current rounded shorthand need not mechanically repeat the date in every headline, spoken intro, or short bio.
+- Keep an `as_of` date in the formal ledger and data tables for `400K+`, `3,000+`, `200+`, `20,000+`, `700+`, and `8,000+`. On audience-facing surfaces, show the date or platform when omission would make scope or staleness materially misleading; a current rounded shorthand need not mechanically repeat the date in every headline, spoken intro, or short bio.
 - Use follower count for established audience and distribution; use dated judgments, technical work, peer context, or outcomes when the question is technical judgment.
-- Keep the two project corpora distinct: `55` means selected AI Architect course projects; `600+` means public project posts in the free community.
+- Keep the two project corpora distinct: `55` means selected AI Architect course projects; `700+` means public project and practice posts in the free community.
 - When the claim is specifically about feedback quality, retrieve the actual reply, review, or follow-up because a post or comment count mainly establishes discussion volume. Counts remain useful when density or activity is the point.
 - Describe AI Engineer Shanghai 2026 as an upcoming collaboration until the November 2026 event has taken place. Do not convert planned attendance, participant mix, speakers, or outcomes into completed facts.
 - Current safe wording is “working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026.” Use `co-organizer`, `China lead`, or `official representative` only after written title alignment.
