@@ -6,9 +6,9 @@ This file explains why Yuzheng's content, Superlinear Academy, courses, membersh
 
 > **MAKE WHAT LASTS.**
 >
-> **做出你的代表作。**
+> **做点真东西。**
 
-This is both Yuzheng's defining public idea and Superlinear's brand command. It means making work whose value outlives the moment of making and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition.
+This is both Yuzheng's defining public idea and Superlinear's brand command. `MAKE WHAT LASTS` names the horizon: work that keeps creating value. `做点真东西` names the immediate move: make judgment concrete enough for reality to use, test, reject, improve, or keep choosing it. `学点真本事，做点真东西` names Yuzheng's personal thread and the learning-to-making relationship Superlinear exists to support: develop capability that remains real beyond a credential, then make work that remains valuable beyond the system that scores it. `做出你的代表作` remains the expanded long-term aspiration rather than a second signature.
 
 Its intellectual foundations join two interpenetrating modes of knowing. World models, prediction, and falsification try to make understanding explicit and challengeable; craft keeps updating overlapping causal and perceptual knowledge through practice where rules cannot contain the whole problem. Conviction is the bridge when understanding has to bear the cost of action, while responsible authorship keeps agency and accountability for the work's standards, compromises, and evolution. The work or conviction may also be discovered through making. Reality keeps testing the work, and time gradually reveals what continues to matter without becoming an infallible verdict.
 
@@ -19,6 +19,8 @@ When a work continues to matter, it can keep creating value for other people and
 ## Founder And Institution
 
 Yuzheng is the founder, author, and public steward of this idea. Superlinear Academy is his defining work in progress, the parent institution and master brand through which he is making the idea useful to more people.
+
+His career gives the idea an autobiographical arc. Moving from academic and large-company scoreboards toward an early startup and then founder-led work progressively shortened the distance between his judgment and external consequence. Amazon, Meta, Tencent, and Statsig all developed real capability and produced consequential work. The distinction is whether an internal proxy remains a useful instrument or becomes a substitute for value. Superlinear carries the second half of the arc institutionally by making learning answerable to projects, users, peers, organizations, and the market.
 
 That relationship has two sides:
 
@@ -32,7 +34,7 @@ Yage is an important long-term teaching partner and technical authority. His res
 | Part | Primary role in the shared project |
 |---|---|
 | **课代表立正 content and conversations** | Name consequential questions, make standards and judgment visible, and attract people who want to make meaningful work of their own |
-| **Superlinear Academy** | Hold the institution, master brand, shared belief, and product family together so the whole can become larger and more durable than any one course or membership |
+| **Superlinear Academy** | Carry `做点真东西` institutionally: hold the shared belief and product family together, and keep learning in contact with projects, users, peers, organizations, and the market |
 | **Knowledge Bank** | Turn Yuzheng's and Yage's deep analysis of AI mechanisms, engineering, products, organizations, and human consequences into public, inspectable work that builds foundational understanding |
 | **Books and public tools** | Turn selected ideas and working systems into artifacts that can travel and work without the author present |
 | **Free community** | Serve as Superlinear Academy's open public entry point: make real work and first-hand judgment across fields continuously visible, so unfinished work can meet better reference points, peers, users, feedback, collaborators, and opportunities earlier |
@@ -86,7 +88,7 @@ This is a design model, not a claim that every activity completes the loop. The 
 
 ## Stable Product Descriptions
 
-- **Superlinear Academy:** the parent institution and master brand Yuzheng is building around `MAKE WHAT LASTS / 做出你的代表作`; its free community is the open public entry point into a broader family of learning, membership, and enterprise products.
+- **Superlinear Academy:** the parent institution and master brand Yuzheng is building around `MAKE WHAT LASTS / 做点真东西`; its free community is the open public entry point into a broader family of learning, membership, and enterprise products.
 - **AI Builders:** Superlinear Academy's structured learning product, co-taught with Yage, for building useful and reliable work with AI.
 - **Stay Superlinear membership:** Superlinear Academy's paid ongoing membership product for high-value content, expert judgment, activities, tools, discussion, and sustained practitioner context.
 - **Enterprise programs:** the same underlying standard adapted and tested inside organizations.

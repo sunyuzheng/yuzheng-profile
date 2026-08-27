@@ -8,9 +8,9 @@ This repository is a source kit, not a style guide or publicity review system. I
 >
 > **MAKE WHAT LASTS.**
 >
-> **做出你的代表作。**
+> **做点真东西。**
 
-This is both Yuzheng's public theme and Superlinear's core brand command. It names one belief: people should be able to make work whose value outlives the moment of making and clearly carries their distinctive judgment and craft. Such work may also enlarge the maker's capability, reputation, freedom, and possibility; those are hoped-for returns, not its definition.
+This is both Yuzheng's public theme and Superlinear's core brand command. The English line names the time horizon: make work that keeps creating value. The Chinese line names the first move: take judgment out of your head and make something reality can use, test, reject, improve, or keep choosing. `真东西` is not a claim the maker awards themself; it is something concrete enough for the world to answer. `点` lowers the threshold for beginning without lowering reality's standard. `学点真本事，做点真东西` is Yuzheng's personal thread: develop capability that survives beyond a credential or title, then make work that survives beyond the internal system that scores it. It can serve as his social signature without becoming a second brand command. `做出你的代表作` remains the expanded long-term aspiration.
 
 Yuzheng is the author, practitioner, and public representative of that belief. Superlinear is both his defining work in progress and the institution he is building to help other people make work that can define and represent them. AI is where much of this work happens today; the belief is larger than AI.
 
@@ -26,6 +26,7 @@ Yuzheng is the author, practitioner, and public representative of that belief. S
 | Use a ready Chinese or English introduction | [BIOS.md](BIOS.md) |
 | Verify a claim, quote, date, or link | [EVIDENCE.md](EVIDENCE.md) |
 | Load current facts programmatically | [facts.json](facts.json) |
+| Find reusable first-party career and operating visuals | [Career Compounding asset pack](assets/career-compounding/INDEX.md) |
 
 For public-facing and collaborator work, start with `CONTEXT.md`, then load the smallest set of task-specific files needed to answer the actual question. One additional file is often enough; work that crosses claim types or owners may need more. Do not load every file by default. Yuzheng's internal master map lives in the private strategy repository.
 
@@ -62,6 +63,6 @@ That intellectual spine connects his work in causal reasoning, product analytics
 
 ## Maintenance
 
-Current through **2026-08-20**.
+Current through **2026-08-27**.
 
 When a number or role changes, update the smallest relevant fact, its `as_of` date, and the supporting evidence. Git history serves as the changelog; this repository intentionally avoids a large governance layer.

@@ -14,15 +14,25 @@ The first three live here. Dated hypotheses and public predictions live in [DATE
 
 > **MAKE WHAT LASTS.**
 >
-> **做出你的代表作。**
+> **做点真东西。**
 
 This is the one defining idea behind Yuzheng's public work and Superlinear Academy:
 
 > A person should have the chance to make work whose value outlives the moment of making and bears the mark of the maker's distinctive judgment and craft.
 
-> 一个人应该有机会把自己的判断和本事，做成价值能够超越制作与首次发布的当下、也清楚承载自己独特判断与手艺的作品。
+> 一个人应该有机会把自己的判断和本事，做成真正进入现实、接受使用与检验、清楚承载自己独特手艺，并有机会持续创造价值的作品。
 
-The English and Chinese lines enter the same belief from different sides. `MAKE WHAT LASTS` asks whether the work continues to matter beyond its making or first release. `做出你的代表作` asks whether it becomes distinctly yours: work that carries your judgment and craft, and that you are willing to put your name behind. If it keeps creating value, it may also return deeper capability, reputation, income, freedom, recognition, or a more ambitious next move. Those are desired returns, not part of the definition and not outcomes a slogan can promise.
+The English and Chinese lines enter the same belief from different moments. `MAKE WHAT LASTS` names the horizon: whether the work continues to matter beyond its making or first release. `做点真东西` names the first move: let a judgment leave the maker's head and enter a world that can use it, test it, refuse it, improve it, or keep choosing it. `真东西` is therefore not a self-awarded claim of authenticity; it names something concrete enough for reality to answer. `点` lowers the threshold for beginning without lowering the standard of reality.
+
+This also creates a natural bridge to Yuzheng's book *真本事*: `学点真本事，做点真东西。` The first half concerns capability; the second concerns what that capability produces in the world. More importantly, the pair names Yuzheng's own career arc: learn capabilities that remain real beyond a credential or title, then use them to make work that remains valuable beyond the system that evaluates it. It can therefore serve as his personal social signature and as a bridge across education, content, and merchandise, while `做点真东西` remains the primary Chinese brand command.
+
+The word `真` answers a recurring problem in modern education and organizational life. Schools and companies need grades, promotions, performance reviews, roadmaps, narratives, and other proxies in order to coordinate. Those proxies can support valuable work; they can also become a self-contained game. A person can become highly skilled at producing what an evaluator can recognize while moving farther away from what a user, customer, audience, collaborator, or community actually needs. In this narrower sense, work becomes performance: effort and intelligence are real, but the scoreboard has begun to substitute for value.
+
+`做点真东西` asks the maker to shorten that distance. In products and entrepreneurship, the compact test is `make something people want`: someone who is not obliged by the internal system still chooses to use, pay for, recommend, or return to the work. Other kinds of work face other reality tests—a prediction can be falsified, a method can improve a result, a film can remain worth watching, and an institution can keep earning trust—but the shared move is from being approved by an evaluator to becoming answerable to consequence. In that sense, `做点真东西` names the first real choice; `MAKE WHAT LASTS` asks whether that choice continues through time.
+
+This is also why the phrase is earned rather than attached retrospectively to Yuzheng's biography. Amazon, Meta, and Tencent developed real capability and exposed him to consequential work inside large systems. Leaving a senior Tencent role and a 30-person team for an early-stage company, then leaving employment to build his own work, progressively reduced the distance between judgment and external consequence. Organizational form is not the dividing line; the dividing line is whether an internal scoreboard still serves value or has begun to substitute for it. Each move made users, markets, collaborators, and the work itself more able to answer him directly. Superlinear is the institutional continuation of that choice: help people learn real capabilities, then give those capabilities more contact with real questions, projects, users, peers, and consequences.
+
+`做出你的代表作` remains an expanded aspiration, not a competing signature. Some real work, sustained through judgment, craft, responsibility, and time, may eventually become distinctly yours: work you are willing to put your name behind and that others recognize as carrying your hand. If it keeps creating value, it may also return deeper capability, reputation, income, freedom, recognition, or a more ambitious next move. Those are desired returns, not part of the definition and not outcomes a slogan can promise.
 
 `Lasts` does not mean immortal, unchanging, famous, laborless, or infinitely scalable. A lasting work can be a product, company, research program, method, system, course, book, film, craft, institution, performance tradition, or an entire body of work. It may be made by a team. Some work can travel without its maker; some remains alive because people continue to perform, maintain, teach, operate, or reinterpret it. The distinction is not whether future labor disappears. It is whether value, standards, capability, or influence extend beyond an isolated task or release. The phrase is an aspiration and a standard of judgment, not a promise that every worthy effort will endure or make its author successful.
 
@@ -122,7 +132,7 @@ Several ideas remain useful in their proper contexts but no longer belong in the
 - “AI moves scarcity upward” is too mechanical as a general law. AI is reducing some execution costs and changing complementary bottlenecks; the direction and magnitude depend on the task, demand, reliability, integration, and market structure.
 - “Spend computation to conserve human cognition” is a conditional operating heuristic. Machine generation can also increase review, integration, security, and maintenance burdens.
 - The capability / workflow / evaluation / ownership model is a useful enterprise diagnostic, not a universal law of organizational transformation.
-- “A second Renaissance” is an evocative analogy, not an established forecast or a durable description of the community.
+- “A second Renaissance” is a current AI-era hypothesis: cheaper execution may make individual authorship, craft, taste, and the environments that develop them more consequential. It is not an established forecast, a second defining idea, or a claim that any current community is already Florence. [DATED_VIEWS.md](DATED_VIEWS.md) owns the current mechanism and update conditions.
 
 These claims can still guide content, courses, experiments, or enterprise work when their scope and date are explicit. See [DATED_VIEWS.md](DATED_VIEWS.md).
 
@@ -136,6 +146,6 @@ These claims can still guide content, courses, experiments, or enterprise work w
 | Dated hypothesis | What was claimed, in which context, what happened next, and what would change the view? | Preserved historically; current status updated | [DATED_VIEWS.md](DATED_VIEWS.md) and evidence records |
 | Product purpose or fact | What does the product currently promise, deliver, and prove? | Whenever the product changes | The relevant product repository |
 
-New language is welcome when it makes the same structure clearer. No lower-level phrase should be promoted into a second identity merely because it is memorable. The durable center remains:
+New language is welcome when it makes the same structure clearer. A public signature should change rarely and deliberately, but memorability, speakability, and the ability to move people into reality are part of its job. The durable center remains:
 
-> **MAKE WHAT LASTS. / 做出你的代表作。**
+> **MAKE WHAT LASTS. / 做点真东西。**

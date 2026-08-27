@@ -12,9 +12,9 @@ One idea organizes the rest of the profile:
 
 > **MAKE WHAT LASTS.**
 
-> **做出你的代表作。**
+> **做点真东西。**
 
-For Yuzheng, this means more than making durable objects. It means doing work whose value outlives the moment of making and clearly carries the maker's distinctive judgment and craft. Such work may also build capability, reputation, freedom, and the next opportunity, but those are possible returns rather than its definition. The intellectual foundations join explicit world models and scientific testing with the overlapping tacit knowledge of craft; the two correct one another. Conviction is the bridge when understanding must bear the cost of action, while responsible authorship keeps agency and accountability with the work. Reality keeps testing it, and time gradually reveals what continues to matter.
+For Yuzheng, the English line names the horizon and the Chinese line names the action. Make something that leaves the maker's head and enters a world that can use, test, refuse, improve, or keep choosing it; then remain responsible as reality and time reveal what continues to matter. `做出你的代表作` remains the long-term aspiration, while `做点真东西` makes the first move possible without lowering the standard. The paired line `学点真本事，做点真东西` is both a capability-to-output relationship and the personal thread through his career: learn what remains real beyond a credential or title, then make what remains valuable beyond the system that scores it. The intellectual foundations join explicit world models and scientific testing with the overlapping tacit knowledge of craft; the two correct one another. Conviction is the bridge when understanding must bear the cost of action, while responsible authorship keeps agency and accountability with the work.
 
 ## The Narrative
 
@@ -42,7 +42,15 @@ At Statsig, Yuzheng worked as a principal data scientist and the company's sole 
 
 Statsig was acquired by OpenAI in 2025. The deeper relevance of the Statsig chapter to Yuzheng's story is the same one that runs through his economics and product work: faster learning can become an organizational advantage when it is built into infrastructure.
 
-### 5. Use AI to make more judgment testable
+### 5. Leave the internal scoreboard and face a more direct answer
+
+Large institutions made much of Yuzheng's later work possible. They also revealed a structural risk: every school and company needs proxies—grades, titles, performance reviews, roadmaps, internal narratives—to coordinate at scale, but a proxy can gradually become the game itself. A person can become excellent at satisfying the evaluator while losing contact with what people outside the system actually need.
+
+Yuzheng's move from leading a 30-person team at Tencent to an early-stage Statsig, and later from employment into building Superlinear full time, progressively shortened the distance between judgment and consequence. Each move traded some legible status and institutional protection for a more direct answer from users, customers, collaborators, and the market. Employment and entrepreneurship can both create real value or their own forms of performance. Work becomes more real when an internal score no longer gets the final word.
+
+This is the autobiographical force behind `学点真本事，做点真东西`. The first half asks what capability remains when the credential, title, or company name is removed. The second asks whether that capability can make something another person voluntarily uses, pays for, recommends, trusts, or keeps choosing. Superlinear is the institution through which Yuzheng continues to place his own answer under that test.
+
+### 6. Use AI to make more judgment testable
 
 The public record behind Yuzheng's generative-AI judgment begins with a prior model, before ChatGPT. Two videos in April 2021 explained the ceiling of the dominant paradigm: systems could learn mappings from labeled data and automate narrow settings well without acquiring general understanding. When ChatGPT appeared, he treated its instruction following, in-context learning, and apparent reasoning as evidence that part of that model had to change.
 
@@ -56,7 +64,7 @@ For people who want more agency and can carry the responsibility, one useful pat
 
 These are time-sensitive interpretations of the current AI moment, not permanent parts of the identity. [DATED_VIEWS.md](DATED_VIEWS.md) owns their current scope and update conditions.
 
-### 6. Build an institution around work that lasts
+### 7. Build an institution around work that lasts
 
 Superlinear Academy is the parent institution and master brand for this project. Its free community, AI Builders, Stay Superlinear, and enterprise programs sit within it; books, public conversations, and public tools extend the same body of work beyond its products.
 
@@ -68,7 +76,7 @@ Superlinear Academy is the parent institution and master brand for this project.
 - **Books** make judgment reusable across time and outside a live classroom or community.
 - **Public tools** make selected production and thinking systems inspectable; reuse depends on each repository's license and documentation.
 
-Superlinear tries to strengthen the deeper conditions from which defining work can grow: contact with real questions; explicit understanding that can be challenged; overlapping tacit craft learned in real complexity; conviction strong enough to support action without becoming dogma; and authorship that remains responsible for the work's standards and consequences. The question or conviction may also emerge through making. Reality keeps testing the work, and time gradually reveals what continues to matter.
+Superlinear tries to strengthen the deeper conditions from which defining work can grow: capability that survives beyond a credential; contact with real questions; explicit understanding that can be challenged; overlapping tacit craft learned in real complexity; conviction strong enough to support action without becoming dogma; and authorship that remains responsible for the work's standards and consequences. Projects, users, peers, employers, and the market supply answers that an internal curriculum cannot award by itself. The question or conviction may also emerge through making. Reality keeps testing the work, and time gradually reveals what continues to matter.
 
 Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue work of their own. The free community, structured courses, paid membership, and enterprise work play different roles; none is merely a funnel into another. Each offers a concrete way to move from aspiration to ability, feedback, and sustained work without promising that joining alone produces defining work.
 

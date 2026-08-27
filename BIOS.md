@@ -1,6 +1,6 @@
 # Reusable Bios
 
-- **Current through:** 2026-08-20
+- **Current through:** 2026-08-27
 
 These are starting points, not locked scripts. Retrieve and combine the version, facts, cases, and language that best answer the audience's real question. A coherent anchor often travels better than a complete credential list; a compact credential stack can be exactly right when fast authority is the job.
 
@@ -10,33 +10,39 @@ Formal résumés, employment verification, structured data, and factual source p
 
 ### One line
 
-孙煜征（课代表立正），康奈尔经济学博士、Superlinear Academy 创始人；他所代表的主张是「做出你的代表作」。
+孙煜征（课代表立正），康奈尔经济学博士、Superlinear Academy 创始人。他所代表的主张是：做点真东西。
 
 ### Recommended one-paragraph introduction
 
-孙煜征，人称课代表立正，是 Superlinear Academy 创始人、康奈尔大学经济学博士。曾任 Amazon 经济学家、Meta 数据科学家和腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。2020 年以来，他完成 200+ 场与科技领袖和 AI 研究者的公开对话，跨平台关注者 400K+；其课程已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。如今，他把公开内容、课程、社区与企业项目放在同一个问题下：AI 改变能力和成本以后，个人与组织怎样重新设计工作，并做出真正值得留下的作品。他所代表的主张是：**MAKE WHAT LASTS. / 做出你的代表作。**
+孙煜征，人称课代表立正，是 Superlinear Academy 创始人、康奈尔大学经济学博士。曾任 Amazon 经济学家、Meta 数据科学家和腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。2020 年以来，他完成 200+ 场与科技领袖和 AI 研究者的公开对话，跨平台关注者 400K+；其课程已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。如今，他把公开内容、课程、社区与企业项目放在同一个问题下：AI 改变能力和成本以后，个人与组织怎样重新设计工作，把判断和本事做成现实能够回答的东西。他所代表的主张是：**MAKE WHAT LASTS. / 做点真东西。**
 
 ### Social profile shorthand
 
 康奈尔经济博士｜前腾讯总监｜OpenAI收购团队早期成员
 
+**Recommended personal signature:**
+
+> 学点真本事，做点真东西。
+
 这是对外短介绍的首选权威表达，不是正式履历字段。履历核验、结构化资料或事实页再展开为：曾任腾讯IEG数据与AI副总监、Statsig Principal Data Scientist；Statsig后来被OpenAI收购。
 
 ### Short
 
-孙煜征，人称课代表立正，康奈尔大学经济学博士，Superlinear Academy 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。现在，他围绕「做出你的代表作」做 AI 教育、社区、企业项目、写作与访谈：帮助有专业积累的人，把判断与本事做成真正进入现实的作品。
+孙煜征，人称课代表立正，康奈尔大学经济学博士，Superlinear Academy 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。他现在做的 AI 教育、社区、企业项目、写作与访谈，都围绕同一件事：帮助有专业积累的人，把判断和本事做成现实能够使用和检验的东西。他的主张是：做点真东西。
 
 ### Medium
 
 孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员；职业经历横跨经济学、数据科学、产品实验、增长与 AI 团队管理。
 
-2020 年起，他通过「课代表立正」持续对话中美 AI 研究者、科技创始人与一线管理者。截至 2026 年 8 月，累计公开对话 200+ 场，全网关注 400K+，课程已服务 3,000+ 付费学员；Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他所代表的主张是「做出你的代表作」：把逐渐挣来的理解与手艺，做成自己愿意长期负责、世界也愿意继续选择的作品。
+2020 年起，他通过「课代表立正」持续对话中美 AI 研究者、科技创始人与一线管理者。截至 2026 年 8 月，累计公开对话 200+ 场，全网关注 400K+，课程已服务 3,000+ 付费学员；Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他所代表的主张是「做点真东西」：把判断从脑子里拿出来，做成现实能够使用、检验、拒绝、改进或继续选择的东西。长期来看，他希望更多人由此做出自己的代表作。
 
 ### Full narrative
 
 孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 创始人，现居西雅图。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及后来被 OpenAI 收购的 Statsig 的 Principal Data Scientist、公司唯一布道师。
 
-这条经历背后的主线不是职位本身，而是怎样做出真正能够代表一个人的作品。经济学让他用世界模型、预测与证伪形成可以被挑战的显性理解；Amazon、Meta 与腾讯让他看到，书本写得下的知识之外，还有只能在真实问题中长出、又必须对结果负责的手艺，两者也会在实践中不断互相修正；Statsig 把让观点持续接受检验的能力做进产品基础设施。此后的课程、社区、企业项目、书和公开内容，则继续追问同一件事：一个人怎样在探索中逐渐看清，把理解内化成足以行动、又仍愿意更新的 conviction，并以作者的身份对作品的标准、选择与后果长期负责。
+这条经历背后的主线不是职位本身，而是「学点真本事，做点真东西」。经济学让他用世界模型、预测与证伪形成可以被挑战的显性理解；Amazon、Meta 与腾讯让他看到，书本写得下的知识之外，还有只能在真实问题中长出、又必须对结果负责的手艺，两者也会在实践中不断互相修正。他也逐渐意识到，学校和大公司为了协调而建立的成绩、职位、绩效与内部叙事，可能从价值的代理指标变成一个自我封闭的游戏：一个人很会被评价，不等于他正在做别人真正需要的东西。
+
+从腾讯带领30人团队的管理岗位进入早期Statsig，再离开雇佣关系全职建设Superlinear，他不断缩短自己的判断与用户、市场和后果之间的距离。Statsig把让观点持续接受检验的能力做进产品基础设施；此后的课程、社区、企业项目、书和公开内容，则把同一选择继续做成机构。组织形式并不决定一件工作是真是假。真正的分界是内部评分究竟在帮助创造价值，还是已经替代了现实的回答；真正的能力要能离开履历，真正的东西要有人愿意使用、付费、推荐、信任或继续选择。
 
 截至 2026 年 8 月，他通过「课代表立正」累计完成 200+ 场公开对话，跨平台关注者合计 400K+；AI Builders 已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他合著 *Growth Data Analytics Playbook*，著有《真本事：从会工作到会赚钱》。2021 年，他先公开解释上一代 AI 范式为什么能做好窄场景、却缺少通用理解；2023 年 2 月、GPT-4 发布前，他又在《关于 ChatGPT 最重要的五个问题》中说明哪一层上限已经被打破，并由此推演推理成本下降、工具连接、长期记忆、直接交付结果与 AI-native 系统。文章的后续复盘也保留了当时判断错的地方。
 
@@ -78,11 +84,11 @@ Since 2020, he has hosted conversations with AI researchers, technology founders
 
 Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and the founder of Superlinear Academy, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was later acquired by OpenAI.
 
-The throughline is not the list of companies. It is the attempt to make work that can genuinely represent its maker. Economics trained him to build explicit world models through causality, prediction, and falsification. Product and leadership roles at Amazon, Meta, and Tencent exposed him to tacit, high-dimensional craft that cannot be learned from principles alone, still has to answer for results, and continually corrects the explicit model. Statsig made continuous testing part of product infrastructure. His later courses, communities, enterprise programs, books, and public conversations keep pursuing the same question: how exploration produces understanding, how understanding becomes conviction without becoming dogma, how craft gives it form, and how responsible authorship keeps the work answerable to reality, time, and the people it serves.
+The throughline is not the list of companies. It is the attempt to learn what remains real beyond a credential or title, then make what remains valuable beyond the system that scores it. Economics trained him to build explicit world models through causality, prediction, and falsification. Product and leadership roles at Amazon, Meta, and Tencent exposed him to tacit, high-dimensional craft that cannot be learned from principles alone, still has to answer for results, and continually corrects the explicit model. Moving from leading a 30-person team at Tencent into early-stage Statsig, then into founder-led work, progressively shortened the distance between judgment and external consequence. Startups and institutions can both create real value or their own forms of performance. An internal scoreboard cannot substitute for whether users, customers, collaborators, or the world continue to choose the work. His later courses, communities, enterprise programs, books, and public conversations keep pursuing that same standard.
 
 As of August 2026, Yuzheng has hosted 200+ public conversations with researchers, founders, executives, investors, and operators, has a cross-platform following of 400K+, and has served 3,000+ paying learners through AI Builders; Superlinear Academy's free community includes 20,000+ members and 700+ shared real-world projects. He co-authored *Growth Data Analytics Playbook* and wrote *真本事：从会工作到会赚钱*. In 2021, he publicly explained why the dominant AI paradigm could automate narrow settings without acquiring general understanding. In February 2023, before GPT-4, *The Five Most Important Questions About ChatGPT* argued that one of those limits had been broken and reasoned forward to falling inference costs, tool-connected workflows, persistent memory, direct result delivery, and AI-native systems. The later review also keeps the major errors on the record.
 
-Today, Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue defining work of their own. Its free community, AI Builders courses, Stay Superlinear membership, and enterprise programs take different responsibilities: open access to deep work, structured practice, a year-round high-quality content and practitioner environment, and application inside real organizations. They provide tools and conditions; they do not make the work on anyone's behalf.
+Today, Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue defining work of their own. Its free community, AI Builders courses, Stay Superlinear membership, and enterprise programs take different responsibilities: help people develop capability that survives beyond a credential, bring it into contact with real questions and projects, and let users, peers, organizations, and the market answer. They provide tools and conditions; they do not make the work on anyone's behalf.
 
 ## Optional Emphasis By Context
 
