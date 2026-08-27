@@ -26,6 +26,16 @@ Formal résumés, employment verification, structured data, and factual source p
 
 这是对外短介绍的首选权威表达，不是正式履历字段。履历核验、结构化资料或事实页再展开为：曾任腾讯IEG数据与AI副总监、Statsig Principal Data Scientist；Statsig后来被OpenAI收购。
 
+**Recommended editorial question:**
+
+> 我一直追问：真正把事做成的人，到底做对了什么？
+
+**Reader transformation:**
+
+> 把他们做对的，变成你做得到的。
+
+这两句用在需要解释内容价值的个人主页、社交媒体与节目介绍。前一句给访谈、写作与分析一个共同问题；后一句让观众看见自己的变化：从别人已经做成的事里识别判断与手艺，再把它们练成自己能用的本事。
+
 ### Short
 
 孙煜征，人称课代表立正，康奈尔大学经济学博士，Superlinear Academy 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。他现在做的 AI 教育、社区、企业项目、写作与访谈，都围绕同一件事：帮助有专业积累的人，把判断和本事做成现实能够使用和检验的东西。他的主张是：做点真东西。
