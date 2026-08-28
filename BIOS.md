@@ -26,15 +26,11 @@ Formal résumés, employment verification, structured data, and factual source p
 
 这是对外短介绍的首选权威表达，不是正式履历字段。履历核验、结构化资料或事实页再展开为：曾任腾讯IEG数据与AI副总监、Statsig Principal Data Scientist；Statsig后来被OpenAI收购。
 
-**Recommended editorial question:**
+**Optional editorial question for interviews and analysis:**
 
 > 我一直追问：真正把事做成的人，到底做对了什么？
 
-**Reader transformation:**
-
-> 把他们做对的，变成你做得到的。
-
-这两句用在需要解释内容价值的个人主页、社交媒体与节目介绍。前一句给访谈、写作与分析一个共同问题；后一句让观众看见自己的变化：从别人已经做成的事里识别判断与手艺，再把它们练成自己能用的本事。
+这句可以在具体节目、文章或内容页里组织选题，但不替代母题，也不必成为所有社交简介的第二句。社交简介的任务通常更完整：先留下母题和时代张力，再用职业credential、Superlinear、真实规模与入口建立权威和行动路径。
 
 ### Short
 
