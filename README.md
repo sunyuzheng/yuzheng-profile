@@ -1,6 +1,6 @@
-# Yuzheng Sun / 课代表立正
+# Yuzheng Sun / 立正
 
-Public profile and context library for Yuzheng Sun (孙煜征), also known as 课代表立正.
+Public profile and context library for Yuzheng Sun (孙煜征), whose current personal brand is 立正. 课代表立正 remains the established name of his channels, podcast, historical public content, and an important search alias.
 
 This repository is a source kit, not a style guide or publicity review system. It keeps the durable story, current facts, working theses, reusable bios, evidence, cases, and dated judgments in one place so a writer, collaborator, or AI can retrieve what Yuzheng may not remember, connect material across time, and assemble the strongest useful introduction for a specific audience.
 
@@ -63,6 +63,6 @@ That intellectual spine connects his work in causal reasoning, product analytics
 
 ## Maintenance
 
-Current through **2026-08-27**.
+Current through **2026-08-31**.
 
 When a number or role changes, update the smallest relevant fact, its `as_of` date, and the supporting evidence. Git history serves as the changelog; this repository intentionally avoids a large governance layer.

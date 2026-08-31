@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Yuzheng Sun / 课代表立正 public profile facts",
-    "as_of": "2026-08-27",
+    "title": "Yuzheng Sun / 立正 public profile facts",
+    "as_of": "2026-08-31",
     "scope": "Public, reusable records. Identity, career, metrics, current work, initiatives, books, and links are factual or current-state records; dated_judgments preserve claims made at the time; endorsements are third-party quotations; outcomes are bounded case records. Volatile metrics require date checks.",
     "canonical_profile": "https://www.lizheng.ai/",
     "record_kinds": {
@@ -19,7 +19,9 @@
   "identity": {
     "name_en": "Yuzheng Sun",
     "name_zh": "孙煜征",
-    "public_identity_zh": "课代表立正",
+    "public_identity_zh": "立正",
+    "public_content_identity_zh": "课代表立正",
+    "public_identity_note_zh": "个人品牌与个人主页使用「立正」；「课代表立正」继续作为既有频道、播客、公开内容与搜索别名使用。",
     "email": "yz@superlinear.academy",
     "base_city_en": "Seattle",
     "base_city_zh": "西雅图",
@@ -67,7 +69,8 @@
     {
       "organization": "Tencent IEG",
       "role": "Vice Director, Data & AI",
-      "detail": "Led a 30-person data and AI team",
+      "detail": "Led a 30-person data and AI team and received Tencent's highest performance rating in two consecutive cycles",
+      "evidence_note": "Owner-confirmed and published in the version history of the preface to 真本事 as 双五星绩效",
       "stability": "durable"
     },
     {

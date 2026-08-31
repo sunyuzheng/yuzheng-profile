@@ -1,10 +1,10 @@
-# Yuzheng Sun / 课代表立正 — Core Context
+# Yuzheng Sun / 立正 — Core Context
 
 **Public context.** Start here when writing, introducing, or collaborating with Yuzheng. For changing numbers and exact claim boundaries, use [EVIDENCE.md](EVIDENCE.md) and [facts.json](facts.json).
 
 ## The Short Version
 
-Yuzheng Sun（孙煜征，课代表立正）has a PhD in Economics from Cornell and has worked across Amazon, Meta, Tencent IEG, and Statsig. He is based in Seattle and now builds courses, communities, enterprise programs, books, public conversations, and tools.
+Yuzheng Sun（孙煜征，立正；既有内容名：课代表立正）has a PhD in Economics from Cornell and has worked across Amazon, Meta, Tencent IEG, and Statsig. He is based in Seattle and now builds courses, communities, enterprise programs, books, public conversations, and tools.
 
 The work looks broad, but it is organized around one defining idea:
 

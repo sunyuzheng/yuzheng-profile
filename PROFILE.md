@@ -3,7 +3,8 @@
 ## At A Glance
 
 - **Name:** Yuzheng Sun / 孙煜征
-- **Public identity:** 课代表立正
+- **Public identity:** 立正
+- **Established content identity:** 课代表立正（频道、播客、历史公开内容与搜索别名）
 - **Current base:** Seattle / 西雅图
 - **Current work:** Founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear; works with Yage as a long-term teaching partner and technical authority
 - **Current focus:** Make what lasts—make work that keeps creating value and bears the mark of its maker, and help more people do the same through Superlinear.
@@ -34,7 +35,7 @@ This is where data science became product judgment: not producing more dashboard
 
 ### 3. Make good judgment travel through an organization
 
-At Tencent IEG, Yuzheng led a 30-person data and AI team as a vice director. Management made the problem larger. It was no longer enough for one analyst or leader to be right; teams needed shared language, decision mechanisms, feedback loops, and incentives that could move an organization.
+At Tencent IEG, Yuzheng led a 30-person data and AI team as a vice director and received the company's highest performance rating in two consecutive cycles. Management made the problem larger. It was no longer enough for one analyst or leader to be right; teams needed shared language, decision mechanisms, feedback loops, and incentives that could move an organization.
 
 That experience remains central to his enterprise work. A tool demo can be the right way to open attention or test possibility. When the goal is sustained organizational change, the work usually extends into problem selection, workflow, evaluation, incentives, ownership, and the way decisions are made.
 

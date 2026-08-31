@@ -2,7 +2,7 @@
 
 This file is a retrieval library for building stronger introductions, arguments, pitches, pages, and collaborations. It keeps useful facts, cases, quotations, dates, and sources close together so a writer or model can find the right combination without relying on Yuzheng's memory.
 
-- **Current as of:** 2026-08-20
+- **Current as of:** 2026-08-31
 - **Public profile:** [lizheng.ai](https://www.lizheng.ai/)
 
 ## Evidence Selection
@@ -20,7 +20,7 @@ This file is a retrieval library for building stronger introductions, arguments,
 | PhD in Economics, Cornell University | Training in causal reasoning, incentives, and decisions under uncertainty | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Economist, Amazon | Applied economic reasoning inside a large technology company | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Data Scientist, Meta | Product analytics and decision work at scale | [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
-| Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; organizational and management responsibility | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
+| Vice Director, Data & AI, Tencent IEG | Led a 30-person data and AI team; received Tencent's highest performance rating in two consecutive cycles; organizational and management responsibility | Owner-confirmed; published as `双五星绩效` in the public version history of the preface to *真本事*; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Principal Data Scientist and sole evangelist, Statsig | Product experimentation, growth, customer education, and public technical translation | Owner-confirmed; [LinkedIn](https://www.linkedin.com/in/yuzhengsun/) |
 | Statsig acquired by OpenAI in 2025, after Yuzheng had left | Places the later company event in context without implying Yuzheng joined OpenAI | [OpenAI announcement](https://openai.com/index/vijaye-raji-to-become-cto-of-applications-with-acquisition-of-statsig) · [Statsig 2025 recap](https://www.statsig.com/blog/statsig-2025-recap) |
 | Founder, Superlinear Academy; AI Builders and Stay Superlinear are products within the institution; founded Superlinear Academy in 2024 | Current education, community, and AI system-building work, with the parent institution distinguished from its products | Founding year and product architecture owner-confirmed 2026-08-20; [Superlinear Academy](https://www.superlinear.academy/) · [AI Builders](https://ai-builders.com/) · [Stay Superlinear](https://stay.superlinear.academy/) |
