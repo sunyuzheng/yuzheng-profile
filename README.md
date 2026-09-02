@@ -12,6 +12,8 @@ This repository is a source kit, not a style guide or publicity review system. I
 
 This is both Yuzheng's public theme and Superlinear's core brand command. The English line names the time horizon: make work that keeps creating value. The Chinese line names the first move: take judgment out of your head and make something reality can use, test, reject, improve, or keep choosing. `真东西` is not a claim the maker awards themself; it is something concrete enough for the world to answer. `点` lowers the threshold for beginning without lowering reality's standard. `学点真本事，做点真东西` is Yuzheng's personal thread: develop capability that survives beyond a credential or title, then make work that survives beyond the internal system that scores it. It can serve as his social signature without becoming a second brand command. `做出你的代表作` remains the expanded long-term aspiration.
 
+The two public lines are coordinated expressions, not translations that automatically replace one another. **`MAKE WHAT LASTS.` remains the fixed English mother command.** `做点真东西。` is the current Chinese expression chosen for Chinese rhythm, memorability, and action. A revision to the Chinese line must never be inferred as a revision to the English line; either language changes only through an explicit decision for that language.
+
 Yuzheng is the author, practitioner, and public representative of that belief. Superlinear is both his defining work in progress and the institution he is building to help other people make work that can define and represent them. AI is where much of this work happens today; the belief is larger than AI.
 
 ## Public Source-Kit Map
