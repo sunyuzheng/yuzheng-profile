@@ -56,7 +56,7 @@ Formal résumés, employment verification, structured data, and factual source p
 
 ### Approved founder / homepage motivation — 2026-09-07
 
-[2023年，我就看到了这场巨变](https://www.huxiu.com/article/812076.html)：AI既是一场大洪水，会颠覆我们的职业与教育；又是第二次文艺复兴，会带来个体的自我发现与自我解放。
+[2023年，我就看到了这场巨变](https://www.superlinear.academy/c/ai-resources/chatgpt)：AI既是一场大洪水，会颠覆我们的职业与教育；又是第二次文艺复兴，会带来个体的自我发现与自我解放。
 
 大洪水中，人们需要[学会游泳与造船](https://ai-builders.com)；文艺复兴，需要佛罗伦萨。
 
