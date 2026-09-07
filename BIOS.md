@@ -1,6 +1,6 @@
 # Reusable Bios
 
-- **Current through:** 2026-08-27
+- **Current through:** 2026-09-07
 
 These are starting points, not locked scripts. Retrieve and combine the version, facts, cases, and language that best answer the audience's real question. A coherent anchor often travels better than a complete credential list; a compact credential stack can be exactly right when fast authority is the job.
 
@@ -53,6 +53,16 @@ Formal résumés, employment verification, structured data, and factual source p
 截至 2026 年 8 月，他通过「课代表立正」累计完成 200+ 场公开对话，跨平台关注者合计 400K+；AI Builders 已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他合著 *Growth Data Analytics Playbook*，著有《真本事：从会工作到会赚钱》。2021 年，他先公开解释上一代 AI 范式为什么能做好窄场景、却缺少通用理解；2023 年 2 月、GPT-4 发布前，他又在《关于 ChatGPT 最重要的五个问题》中说明哪一层上限已经被打破，并由此推演推理成本下降、工具连接、长期记忆、直接交付结果与 AI-native 系统。文章的后续复盘也保留了当时判断错的地方。
 
 今天，Superlinear 是他正在做的代表作，也是他为更多人追求自己的代表作建立的长期机构。免费社区、AI Builders 课程、Stay Superlinear 会员与企业项目承担不同责任：让深度理解公开发生，把专家判断变成可以练习的能力，持续提供高质量内容与同行环境，并让方法进入真实组织。它们提供条件与工具，但不替任何人做出作品。
+
+### Approved founder / homepage motivation — 2026-09-07
+
+[2023年，我就看到了这场巨变](https://www.huxiu.com/article/812076.html)：AI既是一场大洪水，会颠覆我们的职业与教育；又是第二次文艺复兴，会带来个体的自我发现与自我解放。
+
+大洪水中，人们需要[学会游泳与造船](https://ai-builders.com)；文艺复兴，需要佛罗伦萨。
+
+我创办超线性学院，就是要把这两件事做成：教人驾驭AI，也为创造者建一座城。让有想法的人找到高手与同行，在彼此的启发和切磋中，把想法做成作品，把作品磨成代表作。
+
+这是获批的当前创办动机表达，凝练了长期判断与建造志向；不是声称2023年原文已逐字使用“大洪水”与“第二次文艺复兴”这两个比喻。“为创造者建一座城”表达正在建设的目标。历史依据与时间归属见 [DATED_VIEWS.md](DATED_VIEWS.md) 和 [EVIDENCE.md](EVIDENCE.md)。永久母题仍是 `MAKE WHAT LASTS / 做点真东西`，个人与社交签名仍是 `学点真本事，做点真东西`。
 
 ## English
 

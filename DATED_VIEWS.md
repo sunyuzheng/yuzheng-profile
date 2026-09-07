@@ -62,6 +62,12 @@ For people with the goal and capacity to build, turning occasional tool use into
 
 **Update conditions:** ownership, maintenance cost, market demand, portability, risk, and whether the work genuinely expands the person's choices.
 
+### Founder motivation approved on 2026-09-07
+
+The approved [Chinese founder / homepage excerpt](BIOS.md#approved-founder--homepage-motivation--2026-09-07) brings together two roles: a current AI-era judgment about disruption to work and education alongside individual self-discovery and self-liberation, and a founder's commitment to teach people to command AI while building an environment where creators find accomplished practitioners and peers and develop their work. The flood, swimming and boat-building, Renaissance, and Florence metaphors give this judgment and commitment a concise public expression.
+
+The 2023 opening points to the [pre-GPT-4 ChatGPT essay](https://www.huxiu.com/article/812076.html). The [2023-03-18 solo video](https://www.youtube.com/watch?v=mCpQ3XCt9JQ&t=309s) also connects the replacement of repetitive labor and changes to education with time to consider life's meaning, develop craft, and become a “脑艺人.” These support the earlier line of thought; the approved paragraph is today's synthesis, not a claim that the 2023 essay already used both metaphors verbatim. Building a Florence is the institution's aspiration, not a claim that the present community has already achieved it. `MAKE WHAT LASTS / 做点真东西` remains the durable defining idea.
+
 ## Historical Public Judgments
 
 The current evidence library includes dated records such as:
