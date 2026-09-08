@@ -68,6 +68,8 @@ The approved [Chinese founder / homepage excerpt](BIOS.md#approved-founder--home
 
 The 2023 opening links to [the Knowledge Bank version of 关于ChatGPT最重要的五个问题](https://www.superlinear.academy/c/ai-resources/chatgpt). Public-facing reading links to this essay should use Yuzheng's Knowledge Bank page or the Tencent Research Institute version. [EVIDENCE.md](EVIDENCE.md) retains the Huxiu copy as a dated historical snapshot. The [2023-03-18 solo video](https://www.youtube.com/watch?v=mCpQ3XCt9JQ&t=309s) also connects the replacement of repetitive labor and changes to education with time to consider life's meaning, develop craft, and become a “脑艺人.” These support the earlier line of thought; the approved paragraph is today's synthesis, not a claim that the 2023 essay already used both metaphors verbatim. Building a Florence is the institution's aspiration, not a claim that the present community has already achieved it. `MAKE WHAT LASTS / 做点真东西` remains the durable defining idea.
 
+The published Knowledge Bank article [AI会带来第二次文艺复兴，我们需要自己的佛罗伦萨](https://www.superlinear.academy/c/ai-resources/ai-second-renaissance-florence) is the full public explanation of the Renaissance and Florence references in this founder motivation. Its published status was verified on 2026-09-07 (Circle post `36217276`); the homepage's “佛罗伦萨” reading link points to this article.
+
 ## Historical Public Judgments
 
 The current evidence library includes dated records such as:

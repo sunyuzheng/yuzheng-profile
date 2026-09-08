@@ -58,7 +58,7 @@ Formal résumés, employment verification, structured data, and factual source p
 
 [2023年，我就看到了这场巨变](https://www.superlinear.academy/c/ai-resources/chatgpt)：AI既是一场大洪水，会颠覆我们的职业与教育；又是第二次文艺复兴，会带来个体的自我发现与自我解放。
 
-大洪水中，人们需要[学会游泳与造船](https://ai-builders.com)；文艺复兴，需要佛罗伦萨。
+大洪水中，人们需要[学会游泳与造船](https://ai-builders.com)；文艺复兴，需要[佛罗伦萨](https://www.superlinear.academy/c/ai-resources/ai-second-renaissance-florence)。
 
 我创办超线性学院，就是要把这两件事做成：教人驾驭AI，也为创造者建一座城。让有想法的人找到高手与同行，在彼此的启发和切磋中，把想法做成作品，把作品磨成代表作。
 

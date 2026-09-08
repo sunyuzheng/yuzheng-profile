@@ -99,6 +99,12 @@ Public claim: OpenClaw would not last, even though trying it was useful for unde
 
 **Source:** [Video](https://youtu.be/h_yCYBRzbVw)
 
+### Renaissance and Florence: published explanation
+
+**Source:** [《AI会带来第二次文艺复兴，我们需要自己的佛罗伦萨》](https://www.superlinear.academy/c/ai-resources/ai-second-renaissance-florence) · Knowledge Bank · Circle post `36217276`.
+
+**Publication status verified:** 2026-09-07 — published. This first-party article provides the full explanation behind the Renaissance and Florence references in the approved founder motivation and is the reading destination for its “佛罗伦萨” link.
+
 These examples can support several stories: dated foresight, how a judgment was formed, or how a view changed as reality developed. A compressed surface may call the pattern visionary or unusually early; a longer one can let the dated record make that impression concrete.
 
 ## Conversations And Network Quality
