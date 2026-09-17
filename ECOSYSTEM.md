@@ -44,6 +44,16 @@ Yage is an important long-term teaching partner and technical authority. His res
 
 This is not a mandatory funnel. As a portfolio default, each user-facing part should offer a clear independent return because that protects trust and makes the ecosystem resilient. Deliberate routing, bundles, and acquisition journeys can still be useful when they help someone reach a more fitting next step rather than disguising an empty first experience. Their deeper relationship is ideological and practical: each helps a person see, make, test, or sustain work that can keep working.
 
+## Yuzheng's English Writing And Conversations
+
+[Yuzheng's Substack](https://yuzheng.substack.com/) is his personal English publication. It leads with his own ideas, judgments, and experience, giving readers a sustained view of how he thinks and builds. Three categories organize the work:
+
+- **My Essays:** Yuzheng's writing on AI, work, and judgment, with coauthors credited where applicable.
+- **Conversations:** his conversations with researchers and builders, preserving each guest's ideas and attribution.
+- **Superlinear Academy:** observations, product practice, and synthesis from building the institution, alongside work by Yage, members, and other contributors under their own names.
+
+LinkedIn and X introduce these ideas to new readers and grow the Substack's readership. The publication builds trust in Yuzheng as an author and practitioner; Superlinear Academy is the institution and product family he is building from that work, with its own value for readers who want to learn and build with others. The publication's Academy category makes that practice visible while each product owner continues to govern its offer and delivery.
+
 ## A Current AI-Era Research Agenda
 
 One current question can make the relationship among these parts unusually concrete:
