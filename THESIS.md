@@ -111,7 +111,7 @@ Superlinear is Yuzheng's defining work in progress and the institution he is bui
 
 The institution cannot make anyone's defining work on their behalf, and joining it is not a guarantee of transformation. Its purpose is to improve the environment in which serious work is chosen, made, tested, and sustained. Superlinear Academy is the parent institution and master brand: its free community, AI Builders, Stay Superlinear membership, and enterprise programs each take responsibility for a different part of that environment, while books, content, and tools extend the same work; [ECOSYSTEM.md](ECOSYSTEM.md) owns the current relationship.
 
-Yage is an important long-term teaching partner and technical authority whose research and engineering judgment make the educational work substantially deeper. Learners and members remain the protagonists. What they understand, decide, make, and become able to do offers especially important evidence of whether the institution is useful; some of their work may also earn reasons to remain.
+Yage is a co-founder of Superlinear Academy and its technical authority, whose research and engineering judgment make the educational work substantially deeper. Learners and members remain the protagonists. What they understand, decide, make, and become able to do offers especially important evidence of whether the institution is useful; some of their work may also earn reasons to remain.
 
 ## Working Principles That Remain Useful
 

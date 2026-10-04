@@ -66,13 +66,13 @@ A concise description is:
 
 The parts reinforce one another, but each should create value on its own. See [ECOSYSTEM.md](ECOSYSTEM.md) for the fuller relationship.
 
-## Founder, Teaching Partner, And Community
+## Co-founders And Community
 
-- **Yuzheng** is the founder, author, and public steward of the defining idea. Superlinear is the defining work he is pursuing through long-term practice and the institution through which he is making that idea usable by others.
-- **Yage** is an important long-term teaching partner and technical authority. His research and engineering judgment give AI Builders, Knowledge Bank, and membership content unusual technical depth.
-- **Learners and members** are the protagonists of their own work. They bring realities neither founder nor teacher can own alone: different industries, users, constraints, failures, and results.
+- **Yuzheng** is a co-founder of Superlinear Academy and the author and public steward of the defining idea. Superlinear is the defining work he is pursuing through long-term practice and the institution through which he is making that idea usable by others.
+- **Yage** is a co-founder of Superlinear Academy and its technical authority. His research and engineering judgment give AI Builders, Knowledge Bank, and membership content unusual technical depth.
+- **Learners and members** are the protagonists of their own work. They bring realities neither co-founder can own alone: different industries, users, constraints, failures, and results.
 
-These roles reinforce one another without being interchangeable. The founder gives the institution a belief and standard; collaborators make its products deeper; members' work and real outcomes provide essential evidence that the belief is becoming credible.
+These roles reinforce one another without being interchangeable. Yuzheng gives the institution a belief and standard; Yage and other collaborators make its products deeper; members' work and real outcomes provide essential evidence that the belief is becoming credible.
 
 ## Expression And Retrieval Toolkit
 

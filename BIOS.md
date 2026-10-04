@@ -10,11 +10,11 @@ Formal résumés, employment verification, structured data, and factual source p
 
 ### One line
 
-孙煜征（课代表立正），康奈尔经济学博士、Superlinear Academy 创始人。他所代表的主张是：做点真东西。
+孙煜征（课代表立正），康奈尔经济学博士、Superlinear Academy 联合创始人。他所代表的主张是：做点真东西。
 
 ### Recommended one-paragraph introduction
 
-孙煜征，人称课代表立正，是 Superlinear Academy 创始人、康奈尔大学经济学博士。曾任 Amazon 经济学家、Meta 数据科学家和腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。2020 年以来，他完成 200+ 场与科技领袖和 AI 研究者的公开对话，跨平台关注者 400K+；其课程已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。如今，他把公开内容、课程、社区与企业项目放在同一个问题下：AI 改变能力和成本以后，个人与组织怎样重新设计工作，把判断和本事做成现实能够回答的东西。他所代表的主张是：**MAKE WHAT LASTS. / 做点真东西。**
+孙煜征，人称课代表立正，是 Superlinear Academy 联合创始人、康奈尔大学经济学博士。曾任 Amazon 经济学家、Meta 数据科学家和腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。2020 年以来，他完成 200+ 场与科技领袖和 AI 研究者的公开对话，跨平台关注者 400K+；其课程已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。如今，他把公开内容、课程、社区与企业项目放在同一个问题下：AI 改变能力和成本以后，个人与组织怎样重新设计工作，把判断和本事做成现实能够回答的东西。他所代表的主张是：**MAKE WHAT LASTS. / 做点真东西。**
 
 ### Social profile shorthand
 
@@ -34,17 +34,17 @@ Formal résumés, employment verification, structured data, and factual source p
 
 ### Short
 
-孙煜征，人称课代表立正，康奈尔大学经济学博士，Superlinear Academy 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。他现在做的 AI 教育、社区、企业项目、写作与访谈，都围绕同一件事：帮助有专业积累的人，把判断和本事做成现实能够使用和检验的东西。他的主张是：做点真东西。
+孙煜征，人称课代表立正，康奈尔大学经济学博士，Superlinear Academy 联合创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。他现在做的 AI 教育、社区、企业项目、写作与访谈，都围绕同一件事：帮助有专业积累的人，把判断和本事做成现实能够使用和检验的东西。他的主张是：做点真东西。
 
 ### Medium
 
-孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员；职业经历横跨经济学、数据科学、产品实验、增长与 AI 团队管理。
+孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 联合创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员；职业经历横跨经济学、数据科学、产品实验、增长与 AI 团队管理。
 
 2020 年起，他通过「课代表立正」持续对话中美 AI 研究者、科技创始人与一线管理者。截至 2026 年 8 月，累计公开对话 200+ 场，全网关注 400K+，课程已服务 3,000+ 付费学员；Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他所代表的主张是「做点真东西」：把判断从脑子里拿出来，做成现实能够使用、检验、拒绝、改进或继续选择的东西。长期来看，他希望更多人由此做出自己的代表作。
 
 ### Full narrative
 
-孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 创始人，现居西雅图。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及后来被 OpenAI 收购的 Statsig 的 Principal Data Scientist、公司唯一布道师。
+孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 联合创始人，现居西雅图。他曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 数据与 AI 副总监，以及后来被 OpenAI 收购的 Statsig 的 Principal Data Scientist、公司唯一布道师。
 
 这条经历背后的主线不是职位本身，而是「学点真本事，做点真东西」。经济学让他用世界模型、预测与证伪形成可以被挑战的显性理解；Amazon、Meta 与腾讯让他看到，书本写得下的知识之外，还有只能在真实问题中长出、又必须对结果负责的手艺，两者也会在实践中不断互相修正。他也逐渐意识到，学校和大公司为了协调而建立的成绩、职位、绩效与内部叙事，可能从价值的代理指标变成一个自我封闭的游戏：一个人很会被评价，不等于他正在做别人真正需要的东西。
 
@@ -68,7 +68,7 @@ Formal résumés, employment verification, structured data, and factual source p
 
 ### Recommended one-paragraph introduction
 
-Yuzheng Sun is the founder of Superlinear Academy and holds a PhD in Economics from Cornell. He was an economist at Amazon, a data scientist at Meta, a vice director at Tencent IEG, and an early member of Statsig, the team later acquired by OpenAI. Since 2020, he has published 200+ conversations with technology leaders and AI researchers and built a cross-platform audience of 400K+. His courses have served 3,000+ paying learners, while Superlinear's free community now includes 20,000+ members and 700+ shared real-world projects. Across public work, education, community, and enterprise programs, he pursues one question: once AI changes the capability and cost frontier, how should people and organizations redesign work and make things worth keeping? His defining idea is **MAKE WHAT LASTS.**
+Yuzheng Sun is a co-founder of Superlinear Academy and holds a PhD in Economics from Cornell. He was an economist at Amazon, a data scientist at Meta, a vice director at Tencent IEG, and an early member of Statsig, the team later acquired by OpenAI. Since 2020, he has published 200+ conversations with technology leaders and AI researchers and built a cross-platform audience of 400K+. His courses have served 3,000+ paying learners, while Superlinear's free community now includes 20,000+ members and 700+ shared real-world projects. Across public work, education, community, and enterprise programs, he pursues one question: once AI changes the capability and cost frontier, how should people and organizations redesign work and make things worth keeping? His defining idea is **MAKE WHAT LASTS.**
 
 ### Founder / investor spoken introductions
 
@@ -78,27 +78,27 @@ Yuzheng Sun is the founder of Superlinear Academy and holds a PhD in Economics f
 
 **Business**
 
-> I’m Yuzheng Sun, founder of Superlinear. We are building around one belief: **MAKE WHAT LASTS.** As AI makes ordinary output cheaper, people need the judgment and craft to make work worth choosing—and the capability to make it reliable in the real world. I have a PhD in Economics from Cornell, led a 30-person data and AI team at Tencent, and was Principal Data Scientist at Statsig, the experimentation company later acquired by OpenAI. We’ve taught 3,000+ paying learners, and the free community has grown past 20,000 members.
+> I’m Yuzheng Sun, co-founder of Superlinear. We are building around one belief: **MAKE WHAT LASTS.** As AI makes ordinary output cheaper, people need the judgment and craft to make work worth choosing—and the capability to make it reliable in the real world. I have a PhD in Economics from Cornell, led a 30-person data and AI team at Tencent, and was Principal Data Scientist at Statsig, the experimentation company later acquired by OpenAI. We’ve taught 3,000+ paying learners, and the free community has grown past 20,000 members.
 
 These are conversational adapters, not complete biographies. The personal version explains the belief through Yuzheng’s path; the business version shows why Superlinear is a credible institution for pursuing it. In founder and investor settings, the Statsig role together with the later OpenAI acquisition remains a high-information signal, while the chronology stays explicit.
 
 ### One line
 
-Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinear Academy. His defining idea is: MAKE WHAT LASTS.
+Yuzheng Sun has a PhD in Economics from Cornell and is a co-founder of Superlinear Academy. His defining idea is: MAKE WHAT LASTS.
 
 ### Short
 
-Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinear Academy. He has worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig. His defining idea is `MAKE WHAT LASTS`: turn judgment and craft into work that enters reality and remains worth choosing.
+Yuzheng Sun has a PhD in Economics from Cornell and is a co-founder of Superlinear Academy. He has worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig. His defining idea is `MAKE WHAT LASTS`: turn judgment and craft into work that enters reality and remains worth choosing.
 
 ### Medium
 
-Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and founder of Superlinear Academy. His career spans Amazon, Meta, Tencent IEG, and Statsig, where he worked across economics, data science, product experimentation, AI leadership, and organizational learning.
+Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and co-founder of Superlinear Academy. His career spans Amazon, Meta, Tencent IEG, and Statsig, where he worked across economics, data science, product experimentation, AI leadership, and organizational learning.
 
 Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of August 2026, he has published 200+ public conversations, has a cross-platform following of 400K+, and has served 3,000+ paying learners; Superlinear Academy's free community includes 20,000+ members and 700+ shared real-world projects. His defining idea is `MAKE WHAT LASTS`: turn hard-won understanding and lived craft into work its maker is willing to remain responsible for—and that the world remains willing to choose.
 
 ### Full narrative
 
-Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and the founder of Superlinear Academy, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was later acquired by OpenAI.
+Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and a co-founder of Superlinear Academy, based in Seattle. He previously worked as an economist at Amazon, a data scientist at Meta, Vice Director of Data & AI at Tencent IEG, and Principal Data Scientist and sole evangelist at Statsig, which was later acquired by OpenAI.
 
 The throughline is not the list of companies. It is the attempt to learn what remains real beyond a credential or title, then make what remains valuable beyond the system that scores it. Economics trained him to build explicit world models through causality, prediction, and falsification. Product and leadership roles at Amazon, Meta, and Tencent exposed him to tacit, high-dimensional craft that cannot be learned from principles alone, still has to answer for results, and continually corrects the explicit model. Moving from leading a 30-person team at Tencent into early-stage Statsig, then into founder-led work, progressively shortened the distance between judgment and external consequence. Startups and institutions can both create real value or their own forms of performance. An internal scoreboard cannot substitute for whether users, customers, collaborators, or the world continue to choose the work. His later courses, communities, enterprise programs, books, and public conversations keep pursuing that same standard.
 

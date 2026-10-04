@@ -16,9 +16,9 @@ When a work continues to matter, it can keep creating value for other people and
 
 `AI越会做题，人越要会出题` explains one AI-era implication of this belief. It is an important content thesis, not a second personal brand. Product lines such as `Build useful things with AI` explain a specific offer, not a new worldview.
 
-## Founder And Institution
+## Co-founders And Institution
 
-Yuzheng is the founder, author, and public steward of this idea. Superlinear Academy is his defining work in progress, the parent institution and master brand through which he is making the idea useful to more people.
+Yuzheng is a co-founder of Superlinear Academy and the author and public steward of this idea. Superlinear Academy is his defining work in progress, the parent institution and master brand through which he is making the idea useful to more people.
 
 His career gives the idea an autobiographical arc. Moving from academic and large-company scoreboards toward an early startup and then founder-led work progressively shortened the distance between his judgment and external consequence. Amazon, Meta, Tencent, and Statsig all developed real capability and produced consequential work. The distinction is whether an internal proxy remains a useful instrument or becomes a substitute for value. Superlinear carries the second half of the arc institutionally by making learning answerable to projects, users, peers, organizations, and the market.
 
@@ -27,7 +27,7 @@ That relationship has two sides:
 1. Yuzheng's choices, content, products, and standards make the belief credible rather than decorative.
 2. Superlinear must be larger than personal expression from the start: members join to advance their own work, and the work, relationships, and results they create remain their own.
 
-Yage is an important long-term teaching partner and technical authority. His research and engineering judgment deepen the curriculum, Knowledge Bank, and membership content. Learners, members, guests, and enterprise teams bring realities no founder or teacher can own alone.
+Yage is a co-founder of Superlinear Academy and its technical authority. His research and engineering judgment deepen the curriculum, Knowledge Bank, and membership content. Learners, members, guests, and enterprise teams bring realities neither co-founder can own alone.
 
 ## What Each Part Does
 
@@ -80,7 +80,7 @@ The brand creates aspiration and trust. On purchase, comparison, and decision su
 The ecosystem can become more valuable when real work leaves behind better inputs for the next round:
 
 ```text
-Founder judgment, research, conversations, and operating work
+Co-founder judgment, research, conversations, and operating work
                               ↓
              Content and products make it inspectable
                               ↓

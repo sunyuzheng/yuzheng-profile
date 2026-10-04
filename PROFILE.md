@@ -6,7 +6,7 @@
 - **Public identity:** 立正
 - **Established content identity:** 课代表立正（频道、播客、历史公开内容与搜索别名）
 - **Current base:** Seattle / 西雅图
-- **Current work:** Founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear; works with Yage as a long-term teaching partner and technical authority
+- **Current work:** Co-founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear, with Yage as fellow co-founder and technical authority
 - **Current focus:** Make what lasts—make work that keeps creating value and bears the mark of its maker, and help more people do the same through Superlinear.
 
 One idea organizes the rest of the profile:
@@ -74,7 +74,7 @@ Superlinear Academy is the parent institution and master brand for this project.
 - **Public content and conversations** name consequential questions, reveal the standard behind the work, and attract people who want to make work of their own.
 - **Superlinear Academy's free community** makes real work and first-hand judgment across fields continuously visible, giving members a better frame of reference while bringing specific questions and unfinished projects into contact with feedback, collaborators, users, and opportunities.
 - **AI Builders**, a structured learning product within Superlinear Academy and co-taught with Yage, turns technical understanding, building methods, and value judgment into capabilities professionals can reuse on real problems.
-- **Stay Superlinear** is Superlinear Academy's paid ongoing membership product, organized around high-value content, expert judgment, activities, tools, and sustained practitioner context. Yage contributes as a long-term teaching partner and technical authority.
+- **Stay Superlinear** is Superlinear Academy's paid ongoing membership product, organized around high-value content, expert judgment, activities, tools, and sustained practitioner context. Yage contributes as a co-founder and technical authority.
 - **Enterprise work** helps teams connect AI-native methods to real workflows, incentives, and organizational constraints.
 - **Books** make judgment reusable across time and outside a live classroom or community.
 - **Public tools** make selected production and thinking systems inspectable; reuse depends on each repository's license and documentation.
@@ -83,7 +83,7 @@ Superlinear tries to strengthen the deeper conditions from which defining work c
 
 Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue work of their own. The free community, structured courses, paid membership, and enterprise work play different roles; none is merely a funnel into another. Each offers a concrete way to move from aspiration to ability, feedback, and sustained work without promising that joining alone produces defining work.
 
-Yage is an important long-term teaching partner and technical authority whose research and engineering judgment make the educational products substantially deeper. Learners and members remain the protagonists: what their understanding, judgment, relationships, and work make possible in the world will be especially important evidence of whether the institution is useful.
+Yage is a co-founder of Superlinear Academy and its technical authority, whose research and engineering judgment make the educational products substantially deeper. Learners and members remain the protagonists: what their understanding, judgment, relationships, and work make possible in the world will be especially important evidence of whether the institution is useful.
 
 ## Why This Perspective Is Unusual
 
@@ -148,7 +148,7 @@ Figures below were last checked through August 20, 2026; use `facts.json` and `E
 - Cornell PhD in Economics; former Amazon economist and Meta data scientist.
 - Former vice director of Data & AI at Tencent IEG; led a 30-person team.
 - Former principal data scientist and sole evangelist at Statsig; Statsig was acquired by OpenAI in 2025 after he had left.
-- Founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear.
+- Co-founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear.
 - 3,000+ paying learners; 5.0/5 course rating on Maven from 83 ratings.
 - 200+ conversations with researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.
