@@ -198,12 +198,12 @@ AI Engineer's official LinkedIn account publicly announced its first Shanghai ev
 
 > “We're working with Yuzheng Sun and Mengying Li on AIEi Shanghai.”
 
-The official event page separately lists Standup Partners as the organizer. The event is scheduled for November 5-6, 2026 and is still upcoming.
+**Title aligned on AI Engineer's own page (2026-10-22).** The official event page lists Yuzheng Sun (Superlinear Academy) and Mengying Li (Standup Partners) as `Co-organizer` / `联合主办人` in its organizing-team section, and names both as `Shanghai organizers` / `上海站组织者` on its first screen. The wording reached AI Engineer's site repository in PR #2143, which was merged on 2026-10-22 after swyx, AI Engineer's co-founder, asked for it to be merged. The same page keeps Standup Partners as the Shanghai organizer of record, with Arogo Intelligence as local partner, and describes Yuzheng's part as shaping the program, inviting speakers, and connecting builder communities (`参与议程筹划、嘉宾邀请与中美开发者社区连接`). The event is November 5-6, 2026 in Shanghai, the first AI Engineer conference in China.
 
 **What this establishes now:**
 
-- AI Engineer has publicly confirmed a working relationship with Yuzheng on AI Engineer Shanghai 2026.
-- The collaboration is linked directly to Yuzheng's personal LinkedIn profile rather than inferred from an organizational logo.
+- AI Engineer names Yuzheng, on its own event page, as a co-organizer of AI Engineer Shanghai 2026.
+- The relationship is linked directly to Yuzheng's personal profile (the official organizer card links to lizheng.ai) rather than inferred from an organizational logo.
 - It is concrete evidence of cross-border convening work around AI engineering.
 
 **What it does not establish yet:**
@@ -212,9 +212,9 @@ The official event page separately lists Standup Partners as the organizer. The 
 - sole ownership of the event or authority to speak for AI Engineer;
 - the completed identity of a long-term US-China technology institution builder.
 
-Use the current public wording: **working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026**. Use `co-organizer`, `China lead`, or other formal titles only after written title alignment with AI Engineer.
+Use `co-organizer` / `联合主办` (or `联合主办人`), naming Mengying Li where the surface has room. Do not use `China lead`, `official representative`, or wording that implies sole organization or authority to speak for AI Engineer.
 
-**Sources:** [AI Engineer official LinkedIn announcement](https://www.linkedin.com/posts/ai-engineer-is-coming-to-shanghai-for-the-share-7485740252167577600-lPlG/) · [AI Engineer Shanghai official page](https://www.ai.engineer/shanghai/2026)
+**Sources:** [AI Engineer Shanghai official page, organizing team](https://www.ai.engineer/shanghai/2026#organizers) · [AI Engineer official LinkedIn announcement](https://www.linkedin.com/posts/ai-engineer-is-coming-to-shanghai-for-the-share-7485740252167577600-lPlG/)
 
 ## Books And Durable Artifacts
 
@@ -269,5 +269,5 @@ Use endorsements that resonate with the audience. A recognizable quote can open 
 - Use follower count for established audience and distribution; use dated judgments, technical work, peer context, or outcomes when the question is technical judgment.
 - Keep the two project corpora distinct: `55` means selected AI Architect course projects; `700+` means public project and practice posts in the free community.
 - When the claim is specifically about feedback quality, retrieve the actual reply, review, or follow-up because a post or comment count mainly establishes discussion volume. Counts remain useful when density or activity is the point.
-- Describe AI Engineer Shanghai 2026 as an upcoming collaboration until the November 2026 event has taken place. Do not convert planned attendance, participant mix, speakers, or outcomes into completed facts.
-- Current safe wording is “working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026.” Use `co-organizer`, `China lead`, or `official representative` only after written title alignment.
+- Describe AI Engineer Shanghai 2026 as upcoming until the November 2026 event has taken place. Do not convert planned attendance, participant mix, speakers, or outcomes into completed facts.
+- Since 2026-10-22, AI Engineer's official page lists Yuzheng and Mengying Li as `Co-organizer` / `联合主办人` of AI Engineer Shanghai 2026; use that title. `China lead` and `official representative` have not been aligned.

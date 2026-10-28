@@ -218,11 +218,14 @@
   "current_initiatives": [
     {
       "name": "AI Engineer Shanghai 2026",
-      "type": "cross-border AI engineering conference collaboration",
-      "role": "Publicly named by AI Engineer as a collaborator on AI Engineer Shanghai 2026",
-      "status": "announced; event upcoming on 2026-11-05 and 2026-11-06",
-      "boundary": "Safe wording: working with AI Engineer and Mengying Li on AI Engineer Shanghai 2026. Do not use co-organizer, China lead, or official representative without written title alignment.",
-      "source": "https://www.linkedin.com/posts/ai-engineer-is-coming-to-shanghai-for-the-share-7485740252167577600-lPlG/",
+      "type": "cross-border AI engineering conference",
+      "role": "Co-organizer (联合主办人) with Mengying Li, as listed on AI Engineer's official event page; his part there: shaping the program, inviting speakers, and connecting builder communities in the US and China",
+      "status": "event upcoming on 2026-11-05 and 2026-11-06; the first AI Engineer conference in China",
+      "as_of": "2026-10-28",
+      "boundary": "Use co-organizer / 联合主办, naming Mengying Li where the surface has room. Standup Partners is the Shanghai organizer of record. Do not use China lead, official representative, or wording that implies sole organization or authority to speak for AI Engineer. Describe the event as upcoming until it has taken place.",
+      "title_alignment": "2026-10-22: AI Engineer site PR #2143, merged after swyx asked for it, lists both as Co-organizer / 联合主办人",
+      "source": "https://www.ai.engineer/shanghai/2026#organizers",
+      "announcement": "https://www.linkedin.com/posts/ai-engineer-is-coming-to-shanghai-for-the-share-7485740252167577600-lPlG/",
       "event_url": "https://www.ai.engineer/shanghai/2026"
     }
   ],
