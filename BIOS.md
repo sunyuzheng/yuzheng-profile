@@ -16,7 +16,7 @@ When Yuzheng is introduced alone, his Superlinear title is founder (`Superlinear
 
 ### Recommended one-paragraph introduction
 
-孙煜征，人称课代表立正，是 Superlinear Academy 创始人、康奈尔大学经济学博士。曾任 Amazon 经济学家、Meta 数据科学家和腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。2020 年以来，他完成 200+ 场与科技领袖和 AI 研究者的公开对话，跨平台关注者 400K+；其课程已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。如今，他把公开内容、课程、社区与企业项目放在同一个问题下：AI 改变能力和成本以后，个人与组织怎样重新设计工作，把判断和本事做成现实能够回答的东西。他所代表的主张是：**MAKE WHAT LASTS. / 做点真东西。**
+孙煜征，人称课代表立正，是 Superlinear Academy 创始人、康奈尔大学经济学博士。曾任 Amazon 经济学家、Meta 数据科学家和腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员。2020 年以来，他与 150 多位嘉宾公开对话，其中有科技领袖和 AI 研究者，跨平台关注者 400K+；其课程已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。如今，他把公开内容、课程、社区与企业项目放在同一个问题下：AI 改变能力和成本以后，个人与组织怎样重新设计工作，把判断和本事做成现实能够回答的东西。他所代表的主张是：**MAKE WHAT LASTS. / 做点真东西。**
 
 ### Social profile shorthand
 
@@ -53,7 +53,7 @@ When Yuzheng is introduced alone, his Superlinear title is founder (`Superlinear
 
 孙煜征，人称课代表立正，是康奈尔大学经济学博士、Superlinear Academy 创始人。曾任 Amazon 经济学家、Meta 数据科学家、腾讯 IEG 副总监，也是 OpenAI 收购团队早期成员；职业经历横跨经济学、数据科学、产品实验、增长与 AI 团队管理。
 
-2020 年起，他通过「课代表立正」持续对话中美 AI 研究者、科技创始人与一线管理者。截至 2026 年 8 月，累计公开对话 200+ 场，全网关注 400K+，课程已服务 3,000+ 付费学员；Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他所代表的主张是「做点真东西」：把判断从脑子里拿出来，做成现实能够使用、检验、拒绝、改进或继续选择的东西。长期来看，他希望更多人由此做出自己的代表作。
+2020 年起，他通过「课代表立正」持续对话中美 AI 研究者、科技创始人与一线管理者。截至 2026 年 8 月，公开对话过的嘉宾 150 多位，全网关注 400K+，课程已服务 3,000+ 付费学员；Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他所代表的主张是「做点真东西」：把判断从脑子里拿出来，做成现实能够使用、检验、拒绝、改进或继续选择的东西。长期来看，他希望更多人由此做出自己的代表作。
 
 ### Full narrative
 
@@ -63,7 +63,7 @@ When Yuzheng is introduced alone, his Superlinear title is founder (`Superlinear
 
 从腾讯带领30人团队的管理岗位进入早期Statsig，再离开雇佣关系全职建设Superlinear，他不断缩短自己的判断与用户、市场和后果之间的距离。Statsig把让观点持续接受检验的能力做进产品基础设施；此后的课程、社区、企业项目、书和公开内容，则把同一选择继续做成机构。组织形式并不决定一件工作是真是假。真正的分界是内部评分究竟在帮助创造价值，还是已经替代了现实的回答；真正的能力要能离开履历，真正的东西要有人愿意使用、付费、推荐、信任或继续选择。
 
-截至 2026 年 8 月，他通过「课代表立正」累计完成 200+ 场公开对话，跨平台关注者合计 400K+；AI Builders 已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他合著 *Growth Data Analytics Playbook*，著有《真本事：从会工作到会赚钱》。2021 年，他先公开解释上一代 AI 范式为什么能做好窄场景、却缺少通用理解；2023 年 2 月、GPT-4 发布前，他又在《关于 ChatGPT 最重要的五个问题》中说明哪一层上限已经被打破，并由此推演推理成本下降、工具连接、长期记忆、直接交付结果与 AI-native 系统。文章的后续复盘也保留了当时判断错的地方。
+截至 2026 年 8 月，他通过「课代表立正」与 150 多位嘉宾公开对话，跨平台关注者合计 400K+；AI Builders 已服务 3,000+ 付费学员，Superlinear Academy 免费社区已有 2 万+成员和 700+ 真实项目分享。他合著 *Growth Data Analytics Playbook*，著有《真本事：从会工作到会赚钱》。2021 年，他先公开解释上一代 AI 范式为什么能做好窄场景、却缺少通用理解；2023 年 2 月、GPT-4 发布前，他又在《关于 ChatGPT 最重要的五个问题》中说明哪一层上限已经被打破，并由此推演推理成本下降、工具连接、长期记忆、直接交付结果与 AI-native 系统。文章的后续复盘也保留了当时判断错的地方。
 
 今天，Superlinear 是他正在做的代表作，也是他为更多人追求自己的代表作建立的长期机构。免费社区、AI Builders 课程、Stay Superlinear 会员与企业项目承担不同责任：让深度理解公开发生，把专家判断变成可以练习的能力，持续提供高质量内容与同行环境，并让方法进入真实组织。它们提供条件与工具，但不替任何人做出作品。
 
@@ -81,7 +81,7 @@ When Yuzheng is introduced alone, his Superlinear title is founder (`Superlinear
 
 ### Recommended one-paragraph introduction
 
-Yuzheng Sun is the founder of Superlinear Academy and holds a PhD in Economics from Cornell. He was an economist at Amazon, a data scientist at Meta, a vice director at Tencent IEG, and an early member of Statsig, the team later acquired by OpenAI. Since 2020, he has published 200+ conversations with technology leaders and AI researchers and built a cross-platform audience of 400K+. His courses have served 3,000+ paying learners, while Superlinear's free community now includes 20,000+ members and 700+ shared real-world projects. Across public work, education, community, and enterprise programs, he pursues one question: once AI changes the capability and cost frontier, how should people and organizations redesign work and make things worth keeping? His defining idea is **MAKE WHAT LASTS.**
+Yuzheng Sun is the founder of Superlinear Academy and holds a PhD in Economics from Cornell. He was an economist at Amazon, a data scientist at Meta, a vice director at Tencent IEG, and an early member of Statsig, the team later acquired by OpenAI. Since 2020, he has published conversations with 150+ guests, among them technology leaders and AI researchers, and built a cross-platform audience of 400K+. His courses have served 3,000+ paying learners, while Superlinear's free community now includes 20,000+ members and 700+ shared real-world projects. Across public work, education, community, and enterprise programs, he pursues one question: once AI changes the capability and cost frontier, how should people and organizations redesign work and make things worth keeping? His defining idea is **MAKE WHAT LASTS.**
 
 ### Founder / investor spoken introductions
 
@@ -107,7 +107,7 @@ Yuzheng Sun has a PhD in Economics from Cornell and is the founder of Superlinea
 
 Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and founder of Superlinear Academy. His career spans Amazon, Meta, Tencent IEG, and Statsig, where he worked across economics, data science, product experimentation, AI leadership, and organizational learning.
 
-Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of August 2026, he has published 200+ public conversations, has a cross-platform following of 400K+, and has served 3,000+ paying learners; Superlinear Academy's free community includes 20,000+ members and 700+ shared real-world projects. His defining idea is `MAKE WHAT LASTS`: turn hard-won understanding and lived craft into work its maker is willing to remain responsible for—and that the world remains willing to choose.
+Since 2020, he has hosted conversations with AI researchers, technology founders, investors, and operators. As of August 2026, he has published public conversations with 150+ guests, has a cross-platform following of 400K+, and has served 3,000+ paying learners; Superlinear Academy's free community includes 20,000+ members and 700+ shared real-world projects. His defining idea is `MAKE WHAT LASTS`: turn hard-won understanding and lived craft into work its maker is willing to remain responsible for—and that the world remains willing to choose.
 
 ### Full narrative
 
@@ -115,7 +115,7 @@ Yuzheng Sun has a PhD in Economics from Cornell and is an operator, author, and 
 
 The throughline is not the list of companies. It is the attempt to learn what remains real beyond a credential or title, then make what remains valuable beyond the system that scores it. Economics trained him to build explicit world models through causality, prediction, and falsification. Product and leadership roles at Amazon, Meta, and Tencent exposed him to tacit, high-dimensional craft that cannot be learned from principles alone, still has to answer for results, and continually corrects the explicit model. Moving from leading a 30-person team at Tencent into early-stage Statsig, then into founder-led work, progressively shortened the distance between judgment and external consequence. Startups and institutions can both create real value or their own forms of performance. An internal scoreboard cannot substitute for whether users, customers, collaborators, or the world continue to choose the work. His later courses, communities, enterprise programs, books, and public conversations keep pursuing that same standard.
 
-As of August 2026, Yuzheng has hosted 200+ public conversations with researchers, founders, executives, investors, and operators, has a cross-platform following of 400K+, and has served 3,000+ paying learners through AI Builders; Superlinear Academy's free community includes 20,000+ members and 700+ shared real-world projects. He co-authored *Growth Data Analytics Playbook* and wrote *真本事：从会工作到会赚钱*. In 2021, he publicly explained why the dominant AI paradigm could automate narrow settings without acquiring general understanding. In February 2023, before GPT-4, *The Five Most Important Questions About ChatGPT* argued that one of those limits had been broken and reasoned forward to falling inference costs, tool-connected workflows, persistent memory, direct result delivery, and AI-native systems. The later review also keeps the major errors on the record.
+As of August 2026, Yuzheng has hosted public conversations with 150+ guests, among them researchers, founders, executives, investors, and operators, has a cross-platform following of 400K+, and has served 3,000+ paying learners through AI Builders; Superlinear Academy's free community includes 20,000+ members and 700+ shared real-world projects. He co-authored *Growth Data Analytics Playbook* and wrote *真本事：从会工作到会赚钱*. In 2021, he publicly explained why the dominant AI paradigm could automate narrow settings without acquiring general understanding. In February 2023, before GPT-4, *The Five Most Important Questions About ChatGPT* argued that one of those limits had been broken and reasoned forward to falling inference costs, tool-connected workflows, persistent memory, direct result delivery, and AI-native systems. The later review also keeps the major errors on the record.
 
 Today, Superlinear is Yuzheng's defining work in progress and the institution he is building so that more people can pursue defining work of their own. Its free community, AI Builders courses, Stay Superlinear membership, and enterprise programs take different responsibilities: help people develop capability that survives beyond a credential, bring it into contact with real questions and projects, and let users, peers, organizations, and the market answer. They provide tools and conditions; they do not make the work on anyone's behalf.
 
@@ -141,4 +141,4 @@ When the audience is asking what an `AI-native` professional actually looks like
 
 ### Media, speaker, or general audience
 
-When a media, speaker, or general audience needs quick orientation, the cross-domain career and 200+ public conversations are efficient opening signals. Use `400K+` when established audience and distribution make the opportunity easier to understand; selected guests, topics, and outcomes can add resolution.
+When a media, speaker, or general audience needs quick orientation, the cross-domain career and public conversations with 150+ guests are efficient opening signals. Use `400K+` when established audience and distribution make the opportunity easier to understand; selected guests, topics, and outcomes can add resolution.

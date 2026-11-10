@@ -95,7 +95,7 @@ Yuzheng's perspective comes from several combinations that rarely sit in one car
 - **Large companies and startups:** Amazon, Meta, Tencent, Statsig, and founder-led organizations.
 - **Technical systems and human systems:** models, experiments, agents, products, incentives, learning, community, and narrative.
 - **Private execution and public thinking:** dated public calls can be compared with what happened later.
-- **Reach and specific feedback:** As of August 2026, 400K+ followers give the work meaningful distribution, while 200+ public conversations, 3,000+ paying learners, course projects, 700+ free-community project posts, 8,000+ project comments, and enterprise delivery add depth, specificity, and multiple forms of real-world contact.
+- **Reach and specific feedback:** As of August 2026, 400K+ followers give the work meaningful distribution, while public conversations with 150+ guests, 3,000+ paying learners, course projects, 700+ free-community project posts, 8,000+ project comments, and enterprise delivery add depth, specificity, and multiple forms of real-world contact.
 
 These combinations are more important than any single title. They make it possible to translate between researchers, builders, executives, learners, and organizations without reducing AI to either technical novelty or motivational advice.
 
@@ -150,7 +150,7 @@ Figures below were last checked through August 20, 2026; use `facts.json` and `E
 - Former principal data scientist and sole evangelist at Statsig; Statsig was acquired by OpenAI in 2025 after he had left.
 - Co-founder of Superlinear Academy, the parent institution for AI Builders and Stay Superlinear.
 - 3,000+ paying learners; 5.0/5 course rating on Maven from 83 ratings.
-- 200+ conversations with researchers, founders, executives, investors, and operators.
+- Public conversations with 150+ guests, among them researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.
 - 55 selected AI Architect course projects.
 - 20,000+ members, 700+ public project posts, 8,000+ project comments, and 250+ projects with at least 10 comments in the free Superlinear Academy community.

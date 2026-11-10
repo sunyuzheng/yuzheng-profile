@@ -117,11 +117,19 @@
     },
     {
       "id": "conversations",
-      "value": "200+",
-      "label": "public conversations with researchers, founders, executives, investors, and operators",
-      "as_of": "2026-07-12",
+      "value": "150+",
+      "public_wording_zh": "150多位嘉宾",
+      "label": "guests in public conversations on the 课代表立正 channel (researchers, founders, executives, investors, operators and others)",
+      "observed_guest_entries": 157,
+      "observed_published_guest_videos": 411,
+      "observed_separate_recordings": "about 190 (183 to 194, grouped by hand)",
+      "observed_podcast_conversation_episodes": 336,
+      "as_of": "2026-11-10",
+      "previous": "200+ public conversations as of 2026-07-12 (read off the guest archive without separating recordings from videos)",
       "volatility": "medium",
-      "source": "https://www.lizheng.ai/guests"
+      "source": "Guest archive at https://www.lizheng.ai/guests, generated from the Open Context guest catalog; podcast feed https://feeds.transistor.fm/kedaibiao for the numbered 对话 episodes",
+      "site_note": "lizheng.ai no longer types these numbers by hand: each build reads the guest and video counts from the pinned guest catalog and writes them rounded down (150多位嘉宾 / 150+ guests), with the exact counts on /guests.",
+      "public_reuse_boundary": "Count guests, not sessions: public copy says conversations with 150+ guests (150多位嘉宾). The 157 entries are 144 individuals, 7 groups, 5 unnamed guests and 1 virtual character, about 162 people. The 411 videos include members-only full versions, the public cuts of the same recording and short clips, so do not call them 411 conversations. Counting each recording once gives about 190, so 200+ 场 is retired unless a new count supports it."
     },
     {
       "id": "maven_rating",
