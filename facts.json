@@ -146,14 +146,15 @@
     },
     {
       "id": "community_projects",
-      "value": "700+",
-      "observed_published_posts": 719,
-      "observed_project_or_practice_posts_excluding_guide": 718,
+      "value": "900+",
+      "observed_published_posts": 919,
+      "observed_project_or_practice_posts_excluding_guide": 918,
       "label": "public project posts in the free Superlinear Academy community",
-      "as_of": "2026-08-20",
+      "as_of": "2026-10-31",
+      "previous": "700+ (719 published posts) as of 2026-08-20",
       "volatility": "high",
       "source": "Private Circle Admin API list_posts(space_id=1391825, status=published); public community at https://www.superlinear.academy/",
-      "public_reuse_boundary": "Public copy may say 700+ real project or practice posts. The runtime count includes one board guide and may include multiple updates to the same underlying project, so do not present the exact post count as a deduplicated count of distinct products."
+      "public_reuse_boundary": "Public copy may say 900+ real project or practice posts. The runtime count includes one board guide and may include multiple updates to the same underlying project, so do not present the exact post count as a deduplicated count of distinct products."
     },
     {
       "id": "community_project_comments",
@@ -175,13 +176,16 @@
     },
     {
       "id": "free_community_members",
-      "value": "21,686",
-      "public_wording": "20,000+",
+      "value": "28,377",
+      "public_wording": "28,000+",
+      "public_wording_zh": "2.8万",
       "label": "members who completed profile setup in the free Superlinear Academy community",
-      "as_of": "2026-08-20",
+      "as_of": "2026-11-10",
+      "previous": "21,686 as of 2026-08-20; 24,536 as of 2026-09-30; 27,137 as of 2026-10-31",
       "volatility": "high",
-      "source": "Circle Admin API list_community_members(status=active); public community at https://www.superlinear.academy/",
-      "public_reuse_boundary": "Circle's active status means profile setup is complete; it does not mean behaviorally active. Public copy may say 20,000+ members in the free community. Do not present this as paid Stay membership."
+      "source": "Circle Admin API list_community_members(status=active), as published every day in the community map's data (https://city.lizheng.ai/); public community at https://www.superlinear.academy/",
+      "site_note": "lizheng.ai no longer types this number by hand: each build reads the day's count from the map data and writes it rounded down to the thousand (28,000+ / 2.8万).",
+      "public_reuse_boundary": "Circle's active status means profile setup is complete; it does not mean behaviorally active. Public copy may say the current count rounded down to the thousand (28,000+ members in November 2026). Do not present this as paid Stay membership."
     }
   ],
   "current_work": [
@@ -220,9 +224,10 @@
       "name": "AI Engineer Shanghai 2026",
       "type": "cross-border AI engineering conference",
       "role": "Co-organizer (联合主办人) with Mengying Li, as listed on AI Engineer's official event page; his part there: shaping the program, inviting speakers, and connecting builder communities in the US and China",
-      "status": "event upcoming on 2026-11-05 and 2026-11-06; the first AI Engineer conference in China",
-      "as_of": "2026-10-28",
-      "boundary": "Use co-organizer / 联合主办, naming Mengying Li where the surface has room. Standup Partners is the Shanghai organizer of record. Do not use China lead, official representative, or wording that implies sole organization or authority to speak for AI Engineer. Describe the event as upcoming until it has taken place.",
+      "status": "held on 2026-11-05 and 2026-11-06 in Shanghai; the first AI Engineer conference in China",
+      "as_of": "2026-11-10",
+      "own_account": "https://www.superlinear.academy/c/ai-resources/aie-shanghai-ai-workflow-retrospective (Chinese; English at https://yuzheng.substack.com/p/behind-aie-shanghai-how-a-small-team): Yuzheng's first-person account of the website, agenda, and materials work behind the event",
+      "boundary": "Use co-organizer / 联合主办, naming Mengying Li where the surface has room. Standup Partners is the Shanghai organizer of record. Do not use China lead, official representative, or wording that implies sole organization or authority to speak for AI Engineer. The event has taken place; describe it in the past tense. Attendance, speakers, and outcomes still need their own sources before they are stated as facts.",
       "title_alignment": "2026-10-22: AI Engineer site PR #2143, merged after swyx asked for it, lists both as Co-organizer / 联合主办人",
       "source": "https://www.ai.engineer/shanghai/2026#organizers",
       "announcement": "https://www.linkedin.com/posts/ai-engineer-is-coming-to-shanghai-for-the-share-7485740252167577600-lPlG/",
@@ -230,6 +235,15 @@
     }
   ],
   "books": [
+    {
+      "title": "Feels Like Progress",
+      "role": "Author",
+      "language": "English",
+      "publisher": "Superlinear Press",
+      "published": "2026",
+      "url": "https://www.amazon.com/dp/B0HNQW9N9G",
+      "site": "https://makewhatlasts.com/"
+    },
     {
       "title": "Growth Data Analytics Playbook",
       "role": "Co-author",
