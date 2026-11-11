@@ -162,7 +162,8 @@
       "previous": "700+ (719 published posts) as of 2026-08-20",
       "volatility": "high",
       "source": "Private Circle Admin API list_posts(space_id=1391825, status=published); public community at https://www.superlinear.academy/",
-      "public_reuse_boundary": "Public copy may say 900+ real project or practice posts. The runtime count includes one board guide and may include multiple updates to the same underlying project, so do not present the exact post count as a deduplicated count of distinct products."
+      "public_reuse_boundary": "Public copy may say 900+ real project or practice posts. The runtime count includes one board guide and may include multiple updates to the same underlying project, so do not present the exact post count as a deduplicated count of distinct products.",
+      "observed_published_posts_2026_11_10": 954
     },
     {
       "id": "community_project_comments",
@@ -184,16 +185,18 @@
     },
     {
       "id": "free_community_members",
-      "value": "28,377",
-      "public_wording": "28,000+",
-      "public_wording_zh": "2.8万",
+      "value": "28,476",
+      "public_wording": "30,000+",
+      "public_wording_zh": "3万+",
       "label": "members who completed profile setup in the free Superlinear Academy community",
       "as_of": "2026-11-10",
-      "previous": "21,686 as of 2026-08-20; 24,536 as of 2026-09-30; 27,137 as of 2026-10-31",
+      "previous": "21,686 as of 2026-08-20; 24,536 as of 2026-09-30; 27,137 as of 2026-10-31; 28,377 in the map data on 2026-11-10",
       "volatility": "high",
       "source": "Circle Admin API list_community_members(status=active), as published every day in the community map's data (https://city.lizheng.ai/); public community at https://www.superlinear.academy/",
-      "site_note": "lizheng.ai no longer types this number by hand: each build reads the day's count from the map data and writes it rounded down to the thousand (28,000+ / 2.8万).",
-      "public_reuse_boundary": "Circle's active status means profile setup is complete; it does not mean behaviorally active. Public copy may say the current count rounded down to the thousand (28,000+ members in November 2026). Do not present this as paid Stay membership."
+      "site_note": "lizheng.ai states max(map count, 30,000), rounded down to the thousand (30,000+ / 3万) until the map's own count passes 30,000; the map's dots and its label keep the map's count.",
+      "public_reuse_boundary": "Public copy says 30,000+ members / 3万+ in the free community (or 三万多人 in prose). Circle's active status means profile setup is complete; it does not mean behaviorally active, and the 30,000+ figure also includes invited accounts and the Maven waitlist, so do not call it 30,000 active or profile-complete members. Do not present it as paid Stay membership.",
+      "public_wording_basis": "Yuzheng, 2026-11-10: say 30,000+ / 3万+. The figure counts every community account, including invited people who have not finished their profile (Circle list_community_members status=all: 29,417 on 2026-11-10), plus the Maven waitlist. It is wider than the profile-complete count in `value`.",
+      "all_accounts_including_invited": "29,417"
     }
   ],
   "current_work": [

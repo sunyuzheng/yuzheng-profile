@@ -153,7 +153,7 @@ Figures below were last checked through August 20, 2026; use `facts.json` and `E
 - Public conversations with 150+ guests, among them researchers, founders, executives, investors, and operators.
 - 400K+ cross-platform followers, with a substantial technical and professional audience across China and the United States.
 - 55 selected AI Architect course projects.
-- 20,000+ members, 700+ public project posts, 8,000+ project comments, and 250+ projects with at least 10 comments in the free Superlinear Academy community.
+- 30,000+ members and 900+ public project posts in the free Superlinear Academy community (November 2026); 8,000+ project comments and 250+ projects with at least 10 comments (August 2026).
 - Enterprise work with teams including DoorDash, Tencent, Meituan, and Xiaohongshu.
 - Co-author of *Growth Data Analytics Playbook* and author of *真本事：从会工作到会赚钱*.
 - Dated public AI judgments, led by the February 2023 pre-GPT-4 ChatGPT essay.
